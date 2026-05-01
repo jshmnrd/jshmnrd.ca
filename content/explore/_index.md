@@ -5,4 +5,4 @@ ShowBreadCrumbs: false
 ---
 
 # Explore
-The main content of my website. Enjoy!
+The main content of my website. Pick a topic from the list and enjoy!

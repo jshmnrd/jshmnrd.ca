@@ -1,17 +1,17 @@
 ---
-title: "Bookshelf"
-description: "My bookshelf"
-summary: "My library :)"
+title: "Library"
+description: "My library"
+summary: "Basically a spreadsheet of all the books I own."
 ShowBreadCrumbs: true
-date: 2026-04-10
+date: 2026-04-12
 hidemeta: true
 cover:
-    image: "bookshelf-thumbnail.png"
-    alt: "Bookshelf"
+    image: "library-thumbnail.png"
+    alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
     relative: true
 ---
-# Bookshelf
-This is my reading library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
+# Library
+This is my library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
 
 <details>
     <summary><b>Updates coming soon:</b></summary>
