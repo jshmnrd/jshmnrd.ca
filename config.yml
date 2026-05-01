@@ -17,10 +17,10 @@ menu:
           weight: 2 
         - name: explore
           url: explore/
-          weight: 4
+          weight: 3
         - name: posts
           url: posts/
-          weight: 3
+          weight: 4
         - name: 🔍
           url:  search/
           weight: 8
@@ -45,7 +45,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: true
-    MainSections: ["about","posts","d&d"]
+    MainSections: ["about","explore","posts"]
     ShowToc: false
     disableScrollToTop: false
     TocOpen: false

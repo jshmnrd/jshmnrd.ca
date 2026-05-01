@@ -9,9 +9,6 @@ cover:
     image: "bookshelf-thumbnail.png"
     alt: "Bookshelf"
     relative: true
-editPost:
-    URL: "https://www.artstation.com/artwork/AqKwKm"
-    Text: "Thumbnail: Maethavee.Kay'E on Artstation"
 ---
 # Bookshelf
 This is my reading library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
@@ -26,6 +23,8 @@ This is my reading library. This page totally isn't ready, nor does it have all 
         <li>Format (in what format do I own the book)</li>
     </ul>
 </details>
+
+---
 
 <div id="book-list">
     <input class="search" placeholder="Search books..." /><br><b>Sort by:</b>&emsp;[ <button class="sort" data-sort="id">ID</button> ]&emsp;[ <button class="sort" data-sort="title">Title</button> ]&emsp;[ <button class="sort" data-sort="author">Author</button> ]
@@ -501,3 +500,7 @@ This is my reading library. This page totally isn't ready, nor does it have all 
 
   var bookList = new List('book-list', options);
 </script>
+
+---
+
+<a href="https://www.artstation.com/artwork/AqKwKm" target="_blank">Thumbnail: Maethavee.Kay'E on Artstation</a>
