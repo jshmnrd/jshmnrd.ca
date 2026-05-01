@@ -79,7 +79,6 @@ params:
           url: https://mstdn.ca/@jshmnrd/
         - name: LinkedIn
           url: https://www.linkedin.com/in/maynardjoshua/
-        - name: Separator
         - name: Letterboxd
           url: https://letterboxd.com/jshmnrd/
         - name: Anilist

@@ -19,3 +19,7 @@ I used to say I was bilingual, having been in French Immersion throughout primar
 
 #### Making this website
 I made this website for fun, and to use my domain for something. It's made using [Hugo](https://gohugo.io) & a theme called [Papermod](https://github.com/adityatelange/hugo-PaperMod/) by Aditya Telange. I was introduced to both of these by [Pascal Michaillat](https://pascalmichaillat.org/), who I don't know personally, but when I was googling a free template for a GitHub pages website, his repo [hugo-website](https://github.com/pmichaillat/hugo-website) came up as a result. Credit to all 3 of these, and thank you!
+
+---
+
+My pfp: [Notion Faces](https://faces.notion.com/)
