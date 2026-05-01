@@ -11,3 +11,8 @@
     color: var(--secondary);  
     gap: 2.5rem;
 }
+
+.img-404 {
+    max-height:50%;
+    max-width:50%;
+}
