@@ -30,7 +30,7 @@ This is my reading library. This page totally isn't ready, nor does it have all 
     <input class="search" placeholder="Search books..." /><br>
     <b>Sort by:</b>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">
-        [ <button class="sort" data-sort="id" onMouseOver="this.style.color='var(--darkcolor)';this.style.background-color='var(--profile-button)';" onMouseOut="this.style.color='var(--primary)'">ID</button> ]
+        [ <button class="sort" data-sort="id" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">ID</button> ]
     </span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button
             class="sort" data-sort="title">Title</button> ]
