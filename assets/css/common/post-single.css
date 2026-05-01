@@ -73,11 +73,11 @@
 }
 
 .post-content a {
-    color: var(--darkcolor);
+    box-shadow: 0 1px 0 var(--darkcolor);
 }
 
 .post-content a:hover {
-    color: currentColor;
+    color: var(--darkcolor);
     box-shadow: 0 2px 0 var(--darkcolor);
 }
 
