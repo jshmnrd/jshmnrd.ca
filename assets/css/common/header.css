@@ -71,7 +71,8 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    border-bottom: 2px solid var(--darkcolor);
+    /*border-bottom: 2px solid var(--darkcolor);*/
+    text-decoration: underline 2px solid var(--darkcolor);
 }
 
 
