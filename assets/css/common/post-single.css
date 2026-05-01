@@ -72,9 +72,14 @@
     color: var(--secondary);
 }
 
-.post-content a:hover {
-    box-shadow: 0 2px 0 var(--darkcolor);
+.post-content a {
+    text-decoration: solid 2px var(--darkcolor);
 }
+
+.post-content a:hover {
+    text-decoration: wavy 2px var(--darkcolor);
+}
+
 .post-meta a,
 .toc a:hover {
     box-shadow: 0 2px 0 var(--darkcolor);
