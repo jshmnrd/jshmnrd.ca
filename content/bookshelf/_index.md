@@ -12,16 +12,13 @@ cover:
 This is my reading library.
 
 <div id="book-list">
-    <input class="search" placeholder="Search books..." />
-    <button class="sort" data-sort="id">Sort by ID</button>
-    <button class="sort" data-sort="title">Sort by Title</button>
-    <button class="sort" data-sort="author">Sort by Author</button>
+    <input class="search" placeholder="Search books..." /><br><b>Sort by:</b>&emsp;[ <button class="sort" data-sort="id">ID</button> ]&emsp;[ <button class="sort" data-sort="title">Title</button> ]&emsp;[ <button class="sort" data-sort="author">Author</button> ]
     <table>
         <thead>
             <tr>
-                <th title="Field #1">ID</th>
-                <th title="Field #2">Title</th>
-                <th title="Field #3">Author</th>
+                <th width="10%" title="Field #1">ID</th>
+                <th width="33.3333%" title="Field #2">Title</th>
+                <th width="33.3333%" title="Field #3">Author</th>
             </tr>
         </thead>
         <tbody class="list">
