@@ -33,10 +33,10 @@ This is my reading library. This page totally isn't ready, nor does it have all 
         [ <button class="sort" data-sort="id" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">ID</button> ]
     </span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button
-            class="sort" data-sort="title">Title</button> ]
+            class="sort" data-sort="title" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Title</button> ]
     </span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">
-        [ <button class="sort" data-sort="author">Author</button> ]
+        [ <button class="sort" data-sort="author" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Author</button> ]
     </span>
     <table>
         <thead>
