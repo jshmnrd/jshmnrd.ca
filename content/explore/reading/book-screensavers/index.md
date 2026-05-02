@@ -37,7 +37,7 @@ hidemeta: true
             <td><h3>Astronaut</h3></td>
         </tr>
         <tr>
-            <td>Author</td>
+            <td>Source: Pinterest<br>(sorry I can't remember who's post it was)</td>
         </tr>
         <tr>
             <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/astronaut.jpg" target="_blank">Download</a></b></td>
@@ -306,27 +306,27 @@ hidemeta: true
             <td>ID: 0022</td>
         </tr>
         <tr>
-            <td rowspan="4" style="vertical-align:top;"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/idk01.jpg"></td>
+            <td rowspan="4" style="vertical-align:top;"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/idontknow01.jpg"></td>
             <td><h3>I Don't Know 01</h3></td>
         </tr>
         <tr>
             <td>Author</td>
         </tr>
         <tr>
-            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/idk01.jpg" target="_blank">Download</a></b></td>
+            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/idontknow01.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
             <td>ID: 0023</td>
         </tr>
         <tr>
-            <td rowspan="4" style="vertical-align:top;"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/idk02.jpg"></td>
+            <td rowspan="4" style="vertical-align:top;"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/idontknow02.jpg"></td>
             <td><h3>I Don't Know 02</h3></td>
         </tr>
         <tr>
             <td>Author</td>
         </tr>
         <tr>
-            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/idk02.jpg" target="_blank">Download</a></b></td>
+            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/idontknow02.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
             <td>ID: 0024</td>
