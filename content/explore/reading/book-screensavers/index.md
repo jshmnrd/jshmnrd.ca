@@ -14,8 +14,8 @@ hidemeta: true
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th title="Field #1">Preview</th>
-            <th title="Field #2">Information</th>
+            <th width="50%" title="Field #1">Preview</th>
+            <th width="50%" title="Field #2">Information</th>
         </tr>
     </thead>
     <tbody>
@@ -24,23 +24,23 @@ hidemeta: true
             <td><h3>Arrival</h3></td>
         </tr>
         <tr>
-            <td>Joshua Maynard</td>
+            <td><b>Martine Bertrand</b> and <b>Patrice Vermette</b> are credited with creating the language of Arrival<sup id="#fn1">[<a href="#footnotes">1</a>]</sup></td>
         </tr>
         <tr>
-            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/arrival.jpeg" target="_blank">Download</a></b></td>
+            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/arrival.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
             <td>0001</td>
         </tr>
         <tr>
-            <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
-            <td><h3>Title</h3></td>
+            <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/astronaut.jpg"></td>
+            <td><h3>Astronaut</h3></td>
         </tr>
         <tr>
             <td>Author</td>
         </tr>
         <tr>
-            <td><b><a href="#" target="_blank">Download</a></b></td>
+            <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/astronaut.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
             <td>0002</td>
@@ -606,3 +606,7 @@ hidemeta: true
         </tr>
     </tbody>
 </table>
+
+---
+#### Footnotes
+[1.](#fn1)
