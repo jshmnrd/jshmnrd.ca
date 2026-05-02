@@ -14,17 +14,17 @@ hidemeta: true
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th width="50%" title="Field #1">Preview</th>
-            <th width="50%" title="Field #2">Information</th>
+            <th width="25%" title="Field #1">Preview</th>
+            <th width="75%" title="Field #2">Information</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan="4"><img max-height="30px" src="https://pub.jshmnrd.ca/boox/screensaver/thumbs/arrival.jpg"></td>
-            <td><h3>Arrival</h3></td>
+            <td><h3 id="arrival" >Arrival</h3></td>
         </tr>
         <tr>
-            <td><b>Martine Bertrand</b> and <b>Patrice Vermette</b> are credited with creating the language of Arrival<sup id="#fn-one">[<a href="#footnotes">1</a>]</sup></td>
+            <td><b>Martine Bertrand</b> and <b>Patrice Vermette</b> are credited with creating the language of Arrival<sup><a href="#footnotes">1</a></sup></td>
         </tr>
         <tr>
             <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/arrival.jpg" target="_blank">Download</a></b></td>
@@ -609,4 +609,4 @@ hidemeta: true
 
 ---
 #### Footnotes
-[1.](#fn-one)
+1. Source: [Wikipedia](https://en.wikipedia.org/wiki/Heptapod_languages#:~:text=4%5D-,Heptapod%20B)
