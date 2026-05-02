@@ -14,8 +14,8 @@ hidemeta: true
 <table class="table table-bordered table-hover table-condensed">
     <thead>
         <tr>
-            <th width="30%" title="Field #1">Preview</th>
-            <th width="70%" title="Field #2">Information</th>
+            <th width="25%" title="Field #1">Preview</th>
+            <th width="75%" title="Field #2">Information</th>
         </tr>
     </thead>
     <tbody>
