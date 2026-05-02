@@ -20,20 +20,20 @@ hidemeta: true
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4"><img max-height="30px" src="https://pub.jshmnrd.ca/boox/screensaver/thumb/arrival.jpg"></td>
+            <td rowspan="4"><img max-height="30px" src="https://pub.jshmnrd.ca/boox/screensaver/thumbs/arrival.jpg"></td>
             <td><h3>Arrival</h3></td>
         </tr>
         <tr>
-            <td><b>Martine Bertrand</b> and <b>Patrice Vermette</b> are credited with creating the language of Arrival<sup id="#fn1">[<a href="#footnotes">1</a>]</sup></td>
+            <td><b>Martine Bertrand</b> and <b>Patrice Vermette</b> are credited with creating the language of Arrival<sup id="#fn-one">[<a href="#footnotes">1</a>]</sup></td>
         </tr>
         <tr>
             <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/arrival.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0001</td>
+            <td>ID: 0001</td>
         </tr>
         <tr>
-            <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/astronaut.jpg"></td>
+            <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumbs/astronaut.jpg"></td>
             <td><h3>Astronaut</h3></td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@ hidemeta: true
             <td><b><a href="https://pub.jshmnrd.ca/boox/screensaver/astronaut.jpg" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0002</td>
+            <td>ID: 0002</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -56,7 +56,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0003</td>
+            <td>ID: 0003</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -69,7 +69,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0004</td>
+            <td>ID: 0004</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -82,7 +82,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0005</td>
+            <td>ID: 0005</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -95,7 +95,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0006</td>
+            <td>ID: 0006</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -108,7 +108,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0007</td>
+            <td>ID: 0007</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -121,7 +121,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0008</td>
+            <td>ID: 0008</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -134,7 +134,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0009</td>
+            <td>ID: 0009</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -147,7 +147,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0010</td>
+            <td>ID: 0010</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -160,7 +160,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0011</td>
+            <td>ID: 0011</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -173,7 +173,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0012</td>
+            <td>ID: 0012</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -186,7 +186,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0013</td>
+            <td>ID: 0013</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -199,7 +199,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0014</td>
+            <td>ID: 0014</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -212,7 +212,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0015</td>
+            <td>ID: 0015</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -225,7 +225,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0016</td>
+            <td>ID: 0016</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -238,7 +238,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0017</td>
+            <td>ID: 0017</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -251,7 +251,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0018</td>
+            <td>ID: 0018</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -264,7 +264,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0019</td>
+            <td>ID: 0019</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -277,7 +277,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0020</td>
+            <td>ID: 0020</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -290,7 +290,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0021</td>
+            <td>ID: 0021</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -303,7 +303,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0022</td>
+            <td>ID: 0022</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -316,7 +316,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0023</td>
+            <td>ID: 0023</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -329,7 +329,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0024</td>
+            <td>ID: 0024</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -342,7 +342,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0025</td>
+            <td>ID: 0025</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -355,7 +355,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0026</td>
+            <td>ID: 0026</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -368,7 +368,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0027</td>
+            <td>ID: 0027</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -381,7 +381,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0028</td>
+            <td>ID: 0028</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -394,7 +394,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0029</td>
+            <td>ID: 0029</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -407,7 +407,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0030</td>
+            <td>ID: 0030</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -420,7 +420,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0031</td>
+            <td>ID: 0031</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -433,7 +433,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0032</td>
+            <td>ID: 0032</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -446,7 +446,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0033</td>
+            <td>ID: 0033</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -459,7 +459,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0034</td>
+            <td>ID: 0034</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -472,7 +472,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0035</td>
+            <td>ID: 0035</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -485,7 +485,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0036</td>
+            <td>ID: 0036</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -498,7 +498,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0037</td>
+            <td>ID: 0037</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -511,7 +511,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0038</td>
+            <td>ID: 0038</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -524,7 +524,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0039</td>
+            <td>ID: 0039</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -537,7 +537,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0040</td>
+            <td>ID: 0040</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -550,7 +550,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0041</td>
+            <td>ID: 0041</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -563,7 +563,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0042</td>
+            <td>ID: 0042</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -576,7 +576,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0043</td>
+            <td>ID: 0043</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -589,7 +589,7 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0044</td>
+            <td>ID: 0044</td>
         </tr>
         <tr>
             <td rowspan="4"><img src="https://pub.jshmnrd.ca/boox/screensaver/thumb/#"></td>
@@ -602,11 +602,11 @@ hidemeta: true
             <td><b><a href="#" target="_blank">Download</a></b></td>
         </tr>
         <tr>
-            <td>0045</td>
+            <td>ID: 0045</td>
         </tr>
     </tbody>
 </table>
 
 ---
 #### Footnotes
-[1.](#fn1)
+[1.](#fn-one)
