@@ -251,9 +251,6 @@
     border-radius: 4px;
     margin: 1rem 0;
 }
-.post-content img.thumb {
-    max-height: 20%;
-}
 
 .post-content img[src*="#center"] {
     margin: 1rem auto;
