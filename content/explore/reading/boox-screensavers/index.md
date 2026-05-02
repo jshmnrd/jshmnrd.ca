@@ -1,5 +1,5 @@
 ---
-title: "Book Screensavers"
+title: "Boox Screensavers"
 description: "Screensavers for Boox eReaders"
 summary: "A collection of screensavers for e-ink tablets and eReaders. I use them for the Boox e-ink tablet I read on."
 ShowBreadCrumbs: true
