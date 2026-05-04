@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
 cover:
-    image: "dndtools-thumbnail.png"
+    image: "dndtools-thumbnail-2.png"
     alt: "Dungeons & Dragons Tools"
     relative: true
 editPost:
