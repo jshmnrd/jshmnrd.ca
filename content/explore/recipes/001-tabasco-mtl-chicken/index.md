@@ -16,11 +16,11 @@ showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
-![A chicken dish with Tabasco & Montreal Chicken spice.](/tabasco-mtl-chicken.png)
+![A chicken dish with Tabasco & Montreal Chicken spice.](tabasco-mtl-chicken.png)
 
 A simple spicy chicken dinner served over vegetables and rice, finished with the pan juices drizzled on top.
 
->**Note:** This recipe is essentially a duplicate of [Frank's Montreal Chicken](/002-franks-mtl-chicken/), but with Tabasco.
+>**Note:** This recipe is essentially a duplicate of [Frank's Montreal Chicken](/explore/recipes/002-franks-mtl-chicken/), but with Tabasco.
 
 # Ingredients
 

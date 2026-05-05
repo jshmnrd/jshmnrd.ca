@@ -20,7 +20,7 @@ ShowWordCount: false
 
 A simple spicy chicken dinner served over vegetables and rice, finished with the pan juices drizzled on top.
 
->**Note:** This recipe is essentially a duplicate of [Tabasco Montreal Chicken](/001-tabasco-mtl-chicken/), but with Frank's Red Hot.
+>**Note:** This recipe is essentially a duplicate of [Tabasco Montreal Chicken](/explore/recipes/001-tabasco-mtl-chicken/), but with Frank's Red Hot.
 
 # Ingredients
 
