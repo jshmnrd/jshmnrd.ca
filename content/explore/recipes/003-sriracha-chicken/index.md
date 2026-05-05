@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My recipe for Sriracha Chicken"
 summary: "A chicken dish with Sriracha."
 cover:
-    image: "sriracha-chicken.png"
+    image: "sriracha-chicken-2.png"
     alt: "A chicken dish with Sriracha."
     relative: true
 # editPost:

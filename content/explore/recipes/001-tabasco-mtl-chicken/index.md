@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My recipe for Tabasco Montreal Chicken"
 summary: "A chicken dish with Tabasco & Montreal Chicken spice."
 cover:
-    image: "tabasco-mtl-chicken.png"
+    image: "tabasco-mtl-chicken-2.png"
     alt: "A chicken dish with Tabasco & Montreal Chicken spice."
     relative: true
 # editPost:

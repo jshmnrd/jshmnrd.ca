@@ -6,7 +6,7 @@ author: ["Joshua Maynard"]
 description: "My recipe for Frank's Montreal Chicken"
 summary: "A chicken dish with Frank's Red Hot & Montreal Chicken spice."
 cover:
-    image: "franks-mtl-chicken.png"
+    image: "franks-mtl-chicken-2.png"
     alt: "A chicken dish with Frank's Red Hot & Montreal Chicken spice."
     relative: true
 # editPost:
