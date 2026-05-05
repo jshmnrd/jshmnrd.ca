@@ -16,7 +16,7 @@ showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
-![A chicken dish with Tabasco & Montreal Chicken spice.](tabasco-mtl-chicken.png)
+![A chicken dish with Tabasco & Montreal Chicken spice.](/tabasco-mtl-chicken.png)
 
 A simple spicy chicken dinner served over vegetables and rice, finished with the pan juices drizzled on top.
 
