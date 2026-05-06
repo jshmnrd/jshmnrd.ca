@@ -1,6 +1,7 @@
 ---
 title: "Posts"
 description: "Posts by me about whatever..."
+date: 2026-04-11
 ShowBreadCrumbs: false
 ---
 
