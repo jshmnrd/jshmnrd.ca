@@ -18,13 +18,15 @@ ShowWordCount: false
 ---
 
 *My album of the month in April was...*
+
 # Vol.II by Angine de Poitrine
+
 《 [Spotify](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo?si=QzN0yTsvT92TRIZcx9tuUw) 》《 [Apple Music](https://music.apple.com/us/album/vol-ii/1876355936) 》《 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kkWWtOjOCB3gS0gK4_Dyq7U_E2SCladRg) 》《 [YouTube](https://youtube.com/playlist?list=OLAK5uy_kfWFQrnmYi9PkqVzhw8fTcaUZ1grxMLYc) 》
+
 ![Vol.II by Angine de Poitrine](https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png#center)
 
 ***Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.***   
 "Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
-
 
 ## Track 1: Fabienk ★
 
