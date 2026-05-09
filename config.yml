@@ -45,7 +45,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: true
-    MainSections: ["about","explore","posts"]
+    MainSections: ["about","explore","posts","contact"]
     ShowToc: false
     disableScrollToTop: false
     TocOpen: false
@@ -61,16 +61,16 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-              - name: start
+              # - name: start
+              #   url: explore/
+              - name: about
+                url: about/
+              - name: explore
                 url: explore/
-            # - name: about
-              # url: about/
-            # - name: explore
-              # url: explore/
-            # - name: posts
-              # url: posts/
-            # - name: contact
-              # url: contact/
+              - name: posts
+                url: posts/
+              - name: contact
+                url: contact/
 
     socialIcons:
         - name: Twitter
