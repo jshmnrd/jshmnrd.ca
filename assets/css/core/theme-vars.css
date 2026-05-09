@@ -7,7 +7,7 @@
     --footer-height: 70px;
     --radius: 8px;
 
-    /* light colours
+    /* light colours */
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -18,9 +18,8 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
     --profile-button: rgb(214, 214, 214);
-    */
 
-    /* dark colours */
+    /* dark colours
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
     --primary: rgb(218, 218, 219);
@@ -31,6 +30,7 @@
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);
     --profile-button: rgb(33, 34, 37); 
+    */
 
     --gray: rgb(165, 165, 165);
     --darkcolor: #3d9268; /* was #6a7ba2 */

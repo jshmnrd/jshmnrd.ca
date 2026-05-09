@@ -44,5 +44,5 @@
 
 .button:hover {
     background: var(--lightcolor);
-    color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+    /* color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
