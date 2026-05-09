@@ -7,14 +7,11 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
-languages:
-  en:
-    languageName: "EN"
-    weight: 1
-    taxonomies:
-      tag: tags
-    menu:
-      main:
+taxonomies:
+    tag: tags
+
+menu:
+    main:
         - name: about
           url: about/
           weight: 2 
@@ -30,51 +27,6 @@ languages:
         - name: contact
           url: contact/
           weight: 7
-
-  fr:
-    languageName: "FR"
-    weight: 2
-    taxonomies:
-      tag: tags
-    menu:
-      main:
-        - name: à propos
-          url: a-propos/
-          weight: 2
-        - name: explorer
-          url: explorer/
-          weight: 3
-        - name: articles
-          url: articles/
-          weight: 4
-        - name: 🔍
-          url: search/
-          weight: 8
-        - name: contact
-          url: contact/
-          weight: 7
-
-    params:
-      languageAltTitle: French
-      profileMode:
-        enabled: true
-        title: Joshua Maynard
-        subtitle: "Je suis un gars de 25 ans de Toronto, au Canada. Je suis un geek. J'adore les films, la télé, Donjons & Dragons, pis pas mal tout ce qui touche aux ordinateurs."
-        imageUrl: "jm-transparent.PNG"
-        imageWidth: 160
-        imageHeight: 160
-        buttons:
-            - name: commencer
-              url: explorer/
-          # - name: à propos
-            # url: a-propos/
-          # - name: explorer
-            # url: explorer/
-          # - name: posts
-            # url: posts/
-          # - name: contact
-            # url: contact/
-
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
