@@ -19,7 +19,7 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
   border: 1px solid var(--border);
   background: var(--entry);
   margin: 0px 0px 10px 10px;
-  padding: 2px;
+  padding: 2px 5px 2px 5px;
 }
 </style>
 <!-- Guestbook Form -->
@@ -62,11 +62,3 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
 <hr style="margin: 2em 0;"/>
 <h3 id="guestbooks___guestbook-messages-header">Messages</h3>
 <div id="guestbooks___guestbook-messages-container"></div>
-
-<iframe 
-  src="https://guestbooks.meadow.cafe/guestbook/6265" 
-  width="100%" 
-  height="600" 
-  frameborder="0"
-  style="border: 1px solid #e0e0e0; border-radius: 8px;">
-</iframe>
