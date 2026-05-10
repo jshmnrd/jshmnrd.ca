@@ -73,16 +73,35 @@
 }
 
 .post-content a {
-    box-shadow: 0 2px 0 var(--primary);
+    /* $$ box-shadow: 0 2px 0 var(--primary); */
+    text-decoration: underline 2px solid var(--primary);
+}
+
+/* $$ =when selected, links are underlined in inv. text color (code-bg)= */
+.post-content a::selection {
+    text-decoration: underline 2px solid var(--code-bg);
+}
+.post-content a::-mox-selection {
+    text-decoration: underline 2px solid var(--code-bg);
 }
 
 .post-content a:hover {
-    box-shadow: 0 2px 0 var(--darkcolor);
+    /* $$ =rem.= box-shadow: 0 2px 0 var(--darkcolor); */
+    text-decoration: underline 2px solid var(--darkcolor);
+}
+
+/* $$ =when selected & hovered, link underlines go wavy= */
+.post-content a:hover::selection {
+    text-decoration: underliine 2px wavy var(--code-bg);
+}
+.post-content a:hover::-mox-selection {
+    text-decoration: underline 2px wavy var(--code-bg);
 }
 
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 2px 0 var(--darkcolor);
+    /* $$ =rem.= box-shadow: 0 2px 0 var(--darkcolor); */
+    text-decoration: underline 2px solid var(--darkcolor);
     color: currentColor; 
 }
 
