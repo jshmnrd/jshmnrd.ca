@@ -11,5 +11,5 @@ cover:
     relative: true
 ---
 
-# Reading
+# 📖 Reading
 Posts in this page are all reading-related.

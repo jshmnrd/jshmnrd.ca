@@ -11,5 +11,5 @@ cover:
     relative: true
 ---
 
-# Music
+# 🎵 Music
 Posts in this page are all music-related.

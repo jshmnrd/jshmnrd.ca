@@ -11,5 +11,5 @@ cover:
     relative: true
 ---
 
-# Dungeons & Dragons
+# ⚔️ Dungeons & Dragons
 Posts in this page are all Dungeons & Dragons-related.

@@ -11,5 +11,5 @@ cover:
     relative: true
 ---
 
-# Food
+# 🍖 Food
 Posts in this page are all food-related.

@@ -13,6 +13,7 @@ editPost:
     URL: "https://www.artstation.com/artwork/8eK2nw"
     Text: "Cover art by Andreas Rocha (Artstation)"
 showToc: true
+TocOpen: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
 hidemeta: true

@@ -10,7 +10,7 @@ cover:
     alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
     relative: true
 ---
-# Library
+# 📚 Library
 This is my library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
 
 <details>
