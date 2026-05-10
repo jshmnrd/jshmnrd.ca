@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-31
 hidemeta: true
 cover:
-    image: "PixelThumbnail-dnd-b.gif"
+    image: "PixelThumbnail-dnd-b.jpg"
     alt: "“Wild Boy” by Kirokaze on 8bitdash"
     relative: true
 ---
