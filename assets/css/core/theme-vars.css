@@ -7,6 +7,19 @@
     --footer-height: 70px;
     --radius: 8px;
 
+    /* <--KEY-------->
+    --theme:            idk tbh...
+    --entry:            post background
+    --primary:          text color
+    --secondary:        footer text color & return-to-top arrow
+    --tertiary:         return-to-top circle
+    --content:          text color
+    --code-block-bg:    code block background
+    --code-bg:          main website background
+    --border:           post border
+    --profile-button:   button on profile mode
+    */
+
     /* light colours */
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
