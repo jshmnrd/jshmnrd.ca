@@ -5,10 +5,10 @@ tags: ["recipe","posts"]
 author: ["Joshua Maynard"]
 description: "My recipe for Tabasco Montreal Chicken"
 summary: "A chicken dish with Tabasco & Montreal Chicken spice."
-cover:
-    image: "tabasco-mtl-chicken-2.png"
-    alt: "A chicken dish with Tabasco & Montreal Chicken spice."
-    relative: true
+#cover:
+    #image: "#"
+    #alt: "A chicken dish with Tabasco & Montreal Chicken spice."
+    #relative: true
 # editPost:
     # URL: "https://anginedepoitrine.com/"
     # Text: "AngineDePoitrine.com"
@@ -16,7 +16,7 @@ showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
-![A chicken dish with Tabasco & Montreal Chicken spice.](tabasco-mtl-chicken.png)
+<span style="color:var(--gray);"><i>Photo coming soon</i></span>
 
 A simple spicy chicken dinner served over vegetables and rice, finished with the pan juices drizzled on top.
 

@@ -5,10 +5,10 @@ tags: ["recipe","posts"]
 author: ["Joshua Maynard"]
 description: "My recipe for Sriracha Chicken"
 summary: "A chicken dish with Sriracha."
-cover:
-    image: "sriracha-chicken-2.png"
-    alt: "A chicken dish with Sriracha."
-    relative: true
+#cover:
+    #image: "#"
+    #alt: "A chicken dish with Sriracha."
+    #relative: true
 # editPost:
     # URL: "#"
     # Text: "#"
@@ -17,7 +17,7 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 ---
 
-![A chicken dish with Sriracha.](sriracha-chicken.png)
+<span style="color:var(--gray);"><i>Photo coming soon</i></span>
 
 A simple spicy chicken dinner served over vegetables and rice, finished with the pan juices drizzled on top.
 

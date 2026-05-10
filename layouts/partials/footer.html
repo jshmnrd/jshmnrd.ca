@@ -1,4 +1,4 @@
-{{- if not (.Param "hideFooter") }}
+<!--{{- if not (.Param "hideFooter") }}
 <footer class="footer">
     {{- if not site.Params.footer.hideCopyright }}
     {{- if site.Copyright }}
@@ -16,6 +16,34 @@
     <span>
     <a href="https://jshmnrd.ca/index.xml" target="_blank">RSS Feed</a> · Made with <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a> &amp; <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>.
     </span>
+</footer>
+{{- end }} -->
+
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    <div class="footer-text">
+        {{- if not site.Params.footer.hideCopyright }}
+        {{- if site.Copyright }}
+        <span>{{ site.Copyright | markdownify }}</span>
+        {{- else }}
+        <span>&copy; {{ now.Year }} {{ site.Title }}</span>
+        {{- end }}
+        {{- print " · "}}
+        {{- end }}
+
+        {{- with site.Params.footer.text }}
+        {{ . | markdownify }}
+        {{- print " · "}}
+        {{- end }}    
+
+        <span>
+            <a href="https://jshmnrd.ca/index.xml" target="_blank">RSS Feed</a> · Made with <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a> &amp; <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>.
+        </span>
+    </div>
+
+    <a class="human-badge" href="https://notbyai.fyi/" target="_blank" rel="noopener">
+        <img src="/images/Written-By-a-Human-Not-By-AI-Badge-white.svg" alt="Written by a human, not by AI">
+    </a>
 </footer>
 {{- end }}
 

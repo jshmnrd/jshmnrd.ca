@@ -21,8 +21,6 @@ ShowWordCount: true
 
 <p>I tried a new (for me) format for this one, by time-stamping my thoughts as I had them, while watching the film. I probably won’t do this again, but I'm glad I did it because now I know. Interrupting the movie every time I had a thought and/or wanted to make a note was more disruptive to my viewing experience than I had anticipated. Regardless of that, here are my thoughts. Anything I added after the fact are encased in braces {}.</p>
 
----
-
 <b>[0h 0<span style="color:var(--darkcolor);">8m 33s</span>]</b>&emsp;The way everybody speaks is so strange and interesting to me. I know the movie opens explaining that this writer has written about this story in a book, but I love how it’s narrated, like I'm reading a book. I guess it's just not something I’ve seen very much if ever before and a movie.<br><i>(Perhaps that means I need to watch some more movies!)</i>
 
 <b>[0h 0<span style="color:var(--darkcolor);">9m 10s</span>]</b>&emsp;I love how M. Jean pops his head into frame just as the old man <span style="color:var(--gray);">{who I later learn this is Zero}</span> says “mutual friends predecessor” 😂
