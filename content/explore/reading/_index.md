@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-27
 hidemeta: true
 cover:
-    image: "PixelThumbnail-reading-a.gif"
+    image: "PixelThumbnail-reading-a.jpg"
     alt: "“Pixel Jeff X Divoom” by Pixel Jeff on 8bitdash"
     relative: true
 ---
