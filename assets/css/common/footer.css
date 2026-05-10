@@ -1,4 +1,4 @@
-/* .footer,
+.footer,
 .top-link {
     font-size: var(--footersize);
     color: var(--secondary);
@@ -56,53 +56,4 @@
 .top-link:focus,
 #theme-toggle:focus {
     outline: 0;
-}
-*/
-
-.footer {
-    position: relative;
-    margin: auto;
-    padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
-    text-align: center;
-    line-height: 20px;
-    background: var(--code-bg);
-}
-
-.footer-text {
-    text-align: center;
-}
-
-.human-badge {
-    position: absolute;
-    right: var(--gap);
-    bottom: 10px;
-    display: inline-block;
-}
-
-.human-badge img {
-    display: block;
-    width: 180px;
-    height: auto;
-}
-
-.human-badge:hover {
-    border-bottom: none;
-}
-
-@media (max-width: 768px) {
-    .footer {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 12px;
-    }
-
-    .human-badge {
-        position: static;
-        margin-top: 8px;
-    }
-
-    .human-badge img {
-        width: 150px;
-    }
 }

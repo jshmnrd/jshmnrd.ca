@@ -74,3 +74,10 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+::selection {
+  background: var(--darkcolor); /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: var(--darkcolor); /* Gecko Browsers */
+}
