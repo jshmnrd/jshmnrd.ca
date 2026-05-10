@@ -12,6 +12,12 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
 
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6265/script.js"></script>
+<style>
+.guestbooks___input-container {
+  border: 1px solid red;
+  background: aqua;
+}
+</style>
 <!-- Guestbook Form -->
 <div id="guestbooks___guestbook-form-container">
   <form id="guestbooks___guestbook-form" 
