@@ -10,12 +10,15 @@ You wanna talk to me?
 
 You can contact me via email, <a href="#" onClick="alert('no spam please!')">hello[at]jshmnrd.ca</a>.
 
+## Guestbook
+
 <!-- Guestbook Script -->
 <script async src="https://guestbooks.meadow.cafe/resources/js/embed_script/6265/script.js"></script>
 <style>
 .guestbooks___input-container {
-  border: 1px solid red;
-  background: aqua;
+  border: 1px solid var(--border);
+  background: var(--entry);
+  margin: 0px 0px 10px 10px;
 }
 </style>
 <!-- Guestbook Form -->
@@ -46,7 +49,7 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
                 required></textarea>
     </div>
     <div id="guestbooks___pow-status"></div>
-    <button type="submit">Sign Guestbook</button>
+    <button class="button" type="submit">Sign Guestbook</button>
     <div id="guestbooks___error-message"></div>
   </form>
 </div>
