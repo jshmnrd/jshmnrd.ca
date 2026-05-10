@@ -1,15 +1,15 @@
 ---
 title: "Dungeons & Dragons"
-description: "Dungeons & Dragons Resources"
-summary: "These pages hold pages with resources for Dungeons & Dragons. Both player & DM should find these helpful."
+description: "Dungeons & Dragons-related posts."
+summary: "Posts in this page are all Dungeons & Dragons-related."
 ShowBreadCrumbs: true
 date: 2026-03-31
 hidemeta: true
 cover:
-    image: "dnd-thumbnail-2.png"
-    alt: "“M I D G A R D II” by Raphael Lacoste on Artstation"
+    image: "PixelThumbnail-dnd-b.gif"
+    alt: "“Wild Boy” by Kirokaze on 8bitdash"
     relative: true
 ---
 
 # Dungeons & Dragons
-These pages hold resources for Dungeons & Dragons. Both player & DM should find these helpful.
+Posts in this page are all Dungeons & Dragons-related.

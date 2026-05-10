@@ -1,12 +1,15 @@
 ---
 title: "Film"
-description: "Anything film & tv related."
-summary: "Posts in this page are all film & tv related."
+description: "Film-related posts."
+summary: "Posts in this page are all film-related."
 ShowBreadCrumbs: true
 date: 2026-03-30
 hidemeta: false
-#cover:
-    #image: "dnd-thumbnail-2.png"
-    #alt: "“M I D G A R D II” by Raphael Lacoste on Artstation"
-    #relative: true
+cover:
+    image: "PixelThumbnail-film-a.gif"
+    alt: "“Starwars” by Pixel Jeff on 8bitdash"
+    relative: true
 ---
+
+# Film
+Posts in this page are all film-related.

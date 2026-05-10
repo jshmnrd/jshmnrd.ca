@@ -1,15 +1,15 @@
 ---
 title: "Reading"
-description: "Posts in this page are all reading & literature related."
-summary: "Posts in this page are all reading & literature related."
+description: "Reading-related posts"
+summary: "Posts in this page are all reading-related."
 ShowBreadCrumbs: true
 date: 2026-03-27
 hidemeta: false
-#cover:
-    #image: "reading-thumbnail.png"
-    #alt: "“Paper Discovery” by Steven Bongers on Artstation"
-    #relative: true
+cover:
+    image: "PixelThumbnail-reading-a.gif"
+    alt: "“Pixel Jeff X Divoom” by Pixel Jeff on 8bitdash"
+    relative: true
 ---
 
 # Reading
-Dive into my library, find resources for e-readers, and more!
+Posts in this page are all reading-related.
