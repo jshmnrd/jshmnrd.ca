@@ -6,16 +6,15 @@
     {{- else }}
     <span>&copy; {{ now.Year }} {{ site.Title }}</span>
     {{- end }}
-    <!-- {{- print " · "}} -->
+    {{- print " · "}}
     {{- end }}
 
     {{- with site.Params.footer.text }}
     {{ . | markdownify }}
     {{- print " · "}}
     {{- end }}    
-    <br>
     <span>
-    <a href="https://jshmnrd.ca/index.xml" target="_blank">RSS Feed</a> · Made with <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a> &amp; <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>.
+    Made with <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a> &amp; <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>
     </span>
 </footer>
 {{- end }}
