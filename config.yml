@@ -18,15 +18,18 @@ menu:
         - name: explore
           url: explore/
           weight: 3
-        - name: posts
-          url: posts/
+        - name: tags
+          url: tags/
           weight: 4
-        - name: 🔍
-          url:  search/
-          weight: 8
+        - name: archive
+          url: archives/
+          weight: 5
         - name: contact
           url: contact/
-          weight: 7
+          weight: 9
+        - name: 🔍
+          url:  search/
+          weight: 10
 
 params:
     description: "This is my personal website, where I keep pretty much whatever I want myself or others to be able to access freely."
@@ -45,7 +48,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: true
-    MainSections: ["about","explore","posts","contact"]
+    MainSections: ["about","explore","contact"]
     ShowToc: false
     disableScrollToTop: false
     TocOpen: false
@@ -61,14 +64,10 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-              # - name: start
-              #   url: explore/
               - name: about
                 url: about/
               - name: explore
                 url: explore/
-              - name: posts
-                url: posts/
               - name: contact
                 url: contact/
 
@@ -81,7 +80,6 @@ params:
           url: https://mstdn.ca/@jshmnrd/
         - name: LinkedIn
           url: https://www.linkedin.com/in/maynardjoshua/
-        # - name: spacer
         - name: Letterboxd
           url: https://letterboxd.com/jshmnrd/
         - name: Anilist
