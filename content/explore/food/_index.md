@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-29
 hidemeta: true
 cover:
-    image: "ramenshop.webp"
+    image: "ramenshop.gif"
     alt: "“Ramenshop” by Pixel Jeff on 8bitdash"
     relative: true
 ---

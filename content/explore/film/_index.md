@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-30
 hidemeta: true
 cover:
-    image: "starwars.webp"
+    image: "yoda.gif"
     alt: "“Starwars” by Pixel Jeff on 8bitdash"
     relative: true
 ---
