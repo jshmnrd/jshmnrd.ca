@@ -6,7 +6,7 @@ ShowBreadCrumbs: true
 date: 2026-03-01
 hidemeta: true
 cover:
-    image: "chill_of_the_wild.gif"
+    image: "https://www.8bitdash.com/uploads/artworks/a09012ef-fb2e-4237-a936-3da7ed0a0479.gif"
     alt: "“Window” by minimoss on 8bitdash"
     relative: true
 ---
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 <h1>
-  <span class="title-emoji">🎲</span>
+  <span class="title-emoji"></span>
   Other Stuff
 </h1>
 Posts in this page don't fit in any of the above topics.
