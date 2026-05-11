@@ -6,8 +6,8 @@ ShowBreadCrumbs: true
 date: 2026-03-27
 hidemeta: true
 cover:
-    image: "cozy_study_hour.gif"
-    alt: "“Pixel Jeff X Divoom” by Pixel Jeff on 8bitdash"
+    image: "library.gif"
+    alt: "“Library” by u/Disastrous-Thought84 on Reddit"
     relative: true
 ---
 

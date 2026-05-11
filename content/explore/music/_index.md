@@ -6,8 +6,8 @@ ShowBreadCrumbs: true
 date: 2026-03-28
 hidemeta: true
 cover:
-    image: "chillnap.gif"
-    alt: "“Chillnap” by Pixel Jeff on 8bitdash"
+    image: "extraordinary_attorney_woo.gif"
+    alt: "“Extraordinary Attorney Woo” by Pixel Jeff on 8bitdash"
     relative: true
 ---
 
