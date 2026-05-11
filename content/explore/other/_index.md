@@ -8,6 +8,7 @@ hidemeta: true
 cover:
     image: "chill_of_the_wild.gif"
     alt: "“Window” by minimoss on 8bitdash"
+    # src: https://www.8bitdash.com/gallery?artworkId=a09012ef-fb2e-4237-a936-3da7ed0a0479
     relative: true
 ---
 

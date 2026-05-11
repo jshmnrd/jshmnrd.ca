@@ -31,7 +31,7 @@
         {{- if $cover -}}
         {{/* If image is processable, crop it to 2000x500 */}}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
-        {{- $cropped := $cover.Fill "2000x500 Smart" -}}
+        {{- $cropped := $cover.Fill "2000x500 Center" -}}
         <img loading="{{ $loading }}" src="{{ $cropped.Permalink }}" width="{{ $cropped.Width }}"
             height="{{ $cropped.Height }}" alt="{{ $alt }}">
         {{- else }}

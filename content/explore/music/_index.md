@@ -8,6 +8,7 @@ hidemeta: true
 cover:
     image: "extraordinary_attorney_woo.gif"
     alt: "“Extraordinary Attorney Woo” by Pixel Jeff on 8bitdash"
+    # src: https://www.8bitdash.com/gallery?artworkId=5a9cceb6-5f04-4457-a9d5-62228610633c
     relative: true
 ---
 
