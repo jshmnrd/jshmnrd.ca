@@ -32,7 +32,7 @@ Need literally _any_ information about a colour? Here you go. Search for Pantone
 ### My notes
 Honestly, I mainly use this website for Pantone matching - that is, matching hex and rgb codes to their closest matching Pantone C and U colours. In my job Pantone colours are an international standard so naturally I use this website daily. I use _this_ website for it because I refuse to pay for Pantone's proprietary matching service.
 
->**My only piece of advice:** use Firefox when visiting ColorAbout.
+>**My only piece of advice:** use Firefox when visiting ColorAbout.  
 >Otherwise, the website will require you to watch ads to use it.
 
 ### Not using Firefox?
