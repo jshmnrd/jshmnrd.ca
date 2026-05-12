@@ -33,16 +33,16 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="title" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Title</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="author" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Author</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="series" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series</button> ]</span>&emsp;
-    <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="sernum" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series#</button> ]</span>&emsp;
+    <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="sernum" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series #</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="formats" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Formats</button> ]</span>&emsp;
-    <table>
+    <table style="vertical-align:top;">
         <thead>
             <tr>
                 <th title="Field #1">ID</th>
                 <th title="Field #2">Title</th>
                 <th title="Field #3">Author</th>
                 <th title="Field #4">Series</th>
-                <th title="Field #5">Series#</th>
+                <th title="Field #5">#</th>
                 <th title="Field #6">Links</th>
                 <th title="Field #7">Formats</th>
             </tr>
