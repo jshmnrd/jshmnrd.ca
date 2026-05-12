@@ -16,12 +16,19 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
 <details>
     <summary><b>Updates coming soon:</b></summary>
     <ul>
-        <li>✅ Goodreads links<span style="color:var(--darkcolor);"> - Done!</span></li>
-        <li>✅ Bookwyrm links<span style="color:var(--darkcolor);"> - Done!</span></li>
+        <li>Hardcover.app links</li>
         <li>ISBNs</li>
         <li>Read/not-read checkboxes</li>
-        <li>✅ Format (in what format do I own the book)<span style="color:var(--darkcolor);"> - Done!</span></li>
     </ul>
+    <hr>
+    <details>
+        <summary>Recently completed</summary>
+        <ul>
+            <li><s>Goodreads links</s></li>
+            <li><s>Bookwyrm links</s></li>
+            <li><s>Format (in what format do I own the book)</s></li>
+        </ul>
+    </details>
 </details>
 
 ---
