@@ -21,7 +21,7 @@ ShowWordCount: true
 
 I may add more in the future.
 
-## ColorAbout
+# ColorAbout
 Three words: "FREE", "PANTONE" and "MATCHING".
 
 [[Official Website]](https://www.colorabout.com/)
@@ -40,7 +40,7 @@ If you're not using Firefox for whatever reason, here's another good site that d
 
 ---
 
-## Ditto
+# Ditto
 Clipboard manager by sabrogden
 
 ![](https://upload.wikimedia.org/wikipedia/en/d/d4/Pokemon-Ditto-Artwork.png)
@@ -56,7 +56,7 @@ I absolutely LOVE Ditto. I use this every day without fail and every single time
 
 ---
 
-## I❤️PDF & I💙IMG
+# I❤️PDF & I💙IMG
 PDF and Image tools.
 
 [[iLovePDF]](https://www.ilovepdf.com/) [[iLoveIMG]](https://www.iloveimg.com/)
@@ -71,7 +71,7 @@ These two websites are basically a bunch of normally paid image & pdf tools avai
 
 ---
 
-## Mire
+# Mire
 FOSS RSS feed.
 
 [[Official Website]](https://mire.meadow.cafe/) [[My profile]](https://mire.meadow.cafe/u/jshmnrd)
@@ -84,7 +84,7 @@ Mire is great. I originally started using it to test if [my website's RSS feed](
 
 ---
 
-## Rainmeter
+# Rainmeter
 Customizeable modules for your desktop.
 
 [[Official Website]](https://www.rainmeter.net/)
