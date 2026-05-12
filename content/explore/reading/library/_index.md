@@ -35,7 +35,7 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="series" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="sernum" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series #</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="formats" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Formats</button> ]</span>&emsp;
-    <table style="vertical-align:top;">
+    <table>
         <thead>
             <tr>
                 <th title="Field #1">ID</th>
@@ -47,7 +47,7 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
                 <th title="Field #7">Formats</th>
             </tr>
         </thead>
-        <tbody class="list">
+        <tbody class="list" style="vertical-align:top;">
             <tr>
                 <td class="id">0001</td>
                 <td class="title">1984</td>
