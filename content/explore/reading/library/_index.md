@@ -35,7 +35,7 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="series" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="sernum" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Series #</button> ]</span>&emsp;
     <span onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">[ <button class="sort" data-sort="formats" onMouseOver="this.style.color='var(--darkcolor)'" onMouseOut="this.style.color='var(--primary)'">Formats</button> ]</span>&emsp;
-    <table width="90%">
+    <table>
         <thead>
             <tr>
                 <th title="Field #1">ID</th>
