@@ -78,10 +78,10 @@ params:
           url: https://bsky.app/profile/jshmnrd.ca/
         - name: Mastodon
           url: https://mstdn.ca/@jshmnrd/
-        #- name: Hardcover
-          #url: https://hardcover.app/@jshmnrd
-				#- name: Bookwyrm
-          #url: https://bookwyrm.social/user/jshmnrd/
+        # - name: Hardcover
+          # url: https://hardcover.app/@jshmnrd
+				# - name: Bookwyrm
+          # url: https://bookwyrm.social/user/jshmnrd/
         - name: Letterboxd
           url: https://letterboxd.com/jshmnrd/
         - name: Anilist
