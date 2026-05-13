@@ -11,12 +11,12 @@ cover:
     # src: https://www.8bitdash.com/gallery?artworkId=bd91e48a-0e15-47f4-b82c-b4311dda92ef
     relative: true
     crop: "Center"
-#editPost:
-    #URL: "https://letterboxd.com/jshmnrd/"
-    #Text: "Follow me on Letterboxd"
+editPost:
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/uses"
+    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
-ShowWordCount: true
+ShowWordCount: false
 ---
 
 I may add more in the future.

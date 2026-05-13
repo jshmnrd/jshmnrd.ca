@@ -12,7 +12,7 @@ cover:
     crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/books"
-    Text: "Version: 01"
+    Text: "version 01"
 showToc: true
 TocOpen: true
 disableAnchoredHeadings: false

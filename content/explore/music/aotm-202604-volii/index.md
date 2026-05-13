@@ -6,12 +6,13 @@ author: ["Joshua Maynard"]
 description: "Vol.II by Angine de Poitrine"
 summary: "My favourite album this month is definitely Vol.II by Angine de Poitrine"
 cover:
-    image: "aotm-202604-volii-thumbnail.png"
+    image: "angine-de-poitrine.jpg"
     alt: "Photo credit: Camille Gladu-Drouin"
     relative: true
+    crop: "Smart"
 editPost:
-    URL: "https://anginedepoitrine.com/"
-    Text: "AngineDePoitrine.com"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202604-volii"
+    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: false
@@ -21,7 +22,7 @@ ShowWordCount: false
 
 # Vol.II by Angine de Poitrine
 
-《 [Spotify](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo?si=QzN0yTsvT92TRIZcx9tuUw) 》《 [Apple Music](https://music.apple.com/us/album/vol-ii/1876355936) 》《 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kkWWtOjOCB3gS0gK4_Dyq7U_E2SCladRg) 》《 [YouTube](https://youtube.com/playlist?list=OLAK5uy_kfWFQrnmYi9PkqVzhw8fTcaUZ1grxMLYc) 》
+《 [Spotify](https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo?si=QzN0yTsvT92TRIZcx9tuUw) 》《 [Apple Music](https://music.apple.com/us/album/vol-ii/1876355936) 》《 [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kkWWtOjOCB3gS0gK4_Dyq7U_E2SCladRg) 》《 [YouTube](https://youtube.com/playlist?list=OLAK5uy_kfWFQrnmYi9PkqVzhw8fTcaUZ1grxMLYc) 》《 [Website](https://anginedepoitrine.com/) 》
 
 ![Vol.II by Angine de Poitrine](https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png#center)
 

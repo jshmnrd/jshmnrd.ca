@@ -12,7 +12,7 @@ cover:
     crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/tools"
-    Text: "Version 01"
+    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
@@ -89,4 +89,4 @@ _More Coming Soon!_
 
 ---
 
-Cover image: [Envar Studio on Artstation](https://www.artstation.com/artwork/b5RdeG)
+Cover image: [“Ornn's Forge” by Envar Studio on Artstation](https://www.artstation.com/artwork/b5RdeG)

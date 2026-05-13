@@ -12,7 +12,7 @@ cover:
     crop: "Bottom"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/movies2025"
-    Text: "Version 01"
+    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: true

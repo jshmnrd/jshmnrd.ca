@@ -12,13 +12,13 @@ cover:
     crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-grand-budapest-hotel-2014"
-    Text: "Version 01"
+    Text: "version 01"
 showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: true
 ---
 
-[Review on Letterboxd](https://letterboxd.com/jshmnrd/film/the-grand-budapest-hotel/)
+[My review on Letterboxd](https://letterboxd.com/jshmnrd/film/the-grand-budapest-hotel/)
 
 #### Introduction
 

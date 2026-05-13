@@ -4,12 +4,17 @@ description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
 ShowBreadCrumbs: true
 date: 2026-05-12
-hidemeta: true
+hidemeta: false
 cover:
-    image: "library-thumbnail.png"
+    image: "maethavee-kay-e-2.jpg"
     alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
     relative: true
+    crop: "Smart"
+editPost:
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/reading/library"
+    Text: "version 02"
 ---
+
 # 📚 Library
 This is my library. This page totally isn't ready, nor does it have all the stuff I want on it, but I'm publishing it anyways.
 
@@ -20,7 +25,6 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
         <li>ISBNs</li>
         <li>Read/not-read checkboxes</li>
     </ul>
-    <hr>
     <details>
         <summary>Recently completed</summary>
         <ul>
@@ -854,4 +858,4 @@ This is my library. This page totally isn't ready, nor does it have all the stuf
 
 ---
 
-<small><a href="https://www.artstation.com/artwork/AqKwKm" target="_blank">Thumbnail: Maethavee.Kay'E on Artstation</a>&emsp;|&emsp;Updated: 12 May 2026 (v02)</small>
+Cover image: [“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation](https://www.artstation.com/artwork/AqKwKm)

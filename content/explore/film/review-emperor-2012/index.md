@@ -9,13 +9,17 @@ cover:
     image: "emperor2012.jpg"
     alt: "Screenshot from the film."
     relative: true
+    crop: "Top"
 editPost:
-    URL: "https://letterboxd.com/jshmnrd/film/emperor-2012/"
-    Text: "My review on Letterboxd"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-emperor-2012"
+    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
+
+[My review on Letterboxd](https://letterboxd.com/jshmnrd/film/emperor-2012/)
+
 <span style="text-align:center;">[<a href="https://www.imdb.com/title/tt2103264/" target="_blank">IMDb</a>]&emsp;[<a href="https://letterboxd.com/film/emperor-2012/" target="_blank">Letterboxd</a>]&emsp;[<a href="https://www.themoviedb.org/movie/127372-emperor" target="_blank">TMDB</a>]</span>
 
 ## Initial Thoughts
