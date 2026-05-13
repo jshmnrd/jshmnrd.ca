@@ -18,11 +18,11 @@ menu:
         - name: explore
           url: explore/
           weight: 3
-        - name: tags
-          url: tags/
-          weight: 4
         - name: archive
           url: archives/
+          weight: 4
+        - name: tags
+          url: tags/
           weight: 5
         - name: contact
           url: contact/
