@@ -6,8 +6,8 @@ author: ["Joshua Maynard"]
 description: "My review of Emperor (2012)"
 summary: "My review of Emperor (2012)"
 cover:
-    image: "filmreview-emperor-thumbnail.png"
-    alt: "The film's poster with a screenshot of the film"
+    image: "emperor2012.jpg"
+    alt: "Screenshot from the film."
     relative: true
 editPost:
     URL: "https://letterboxd.com/jshmnrd/film/emperor-2012/"
@@ -16,8 +16,6 @@ showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
-![post cover - the film's poster with a screenshot of the film](filmreview-emperor-thumbnail.png#center)
-
 <span style="text-align:center;">[<a href="https://www.imdb.com/title/tt2103264/" target="_blank">IMDb</a>]&emsp;[<a href="https://letterboxd.com/film/emperor-2012/" target="_blank">Letterboxd</a>]&emsp;[<a href="https://www.themoviedb.org/movie/127372-emperor" target="_blank">TMDB</a>]</span>
 
 ## Initial Thoughts

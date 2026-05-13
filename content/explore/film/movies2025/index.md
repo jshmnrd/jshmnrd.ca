@@ -6,16 +6,18 @@ author: ["Joshua Maynard"]
 description: "A list of my favourite movies"
 summary: "Normally a list of the movies I watched in the past year, but since it's the first, it's just a list of my favourite movies."
 cover:
-    image: "movies2025-thumbnail.gif"
+    image: "spongebob-squarepants-television.gif"
     alt: "Spongebob on the floor eating popcorn watching TV"
     relative: true
+    crop: "Bottom"
 editPost:
-    URL: "https://letterboxd.com/jshmnrd/"
-    Text: "Follow me on Letterboxd"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/movies2025"
+    Text: "Version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: true
 ---
+[Follow me on Letterboxd!](https://letterboxd.com/jshmnrd/)
 
 #### Introduction
 For my first post on my website I figured I'd keep it light and do a list of my favourite movies. I love telling people about my favourite movies and if you know me I'd love to hear your thoughts about my picks!

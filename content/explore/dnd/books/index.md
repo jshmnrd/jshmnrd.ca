@@ -6,17 +6,18 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
 cover:
-    image: "dndbooks-thumbnail-2.png"
-    alt: "Dungeons & Dragons Books"
+    image: "andreas-rocha-readershall01.jpg"
+    alt: "“Reader's Hall” by Andreas Rocha on Artstation"
     relative: true
+    crop: "Center"
 editPost:
-    URL: "https://www.artstation.com/artwork/8eK2nw"
-    Text: "Cover art by Andreas Rocha (Artstation)"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/books"
+    Text: "Version: 01"
 showToc: true
 TocOpen: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
-hidemeta: true
+hidemeta: false
 ---
 
 ---
@@ -53,3 +54,7 @@ The files are quite large, so be sure to know what you're about to download. The
 + [High-Quality - AI Upscaled (~ 329MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/MonsterManual2024-3-AiUpscaled-HighQuality.pdf)
 + [Best-Quality - D&D Beyond Rip (~ 547MB)](https://github.com/jshmnrd/jshmnrd.github.io/releases/download/pdf-library/MonsterManual2024-1-DnDBeyondRip.pdf)
 + [Online version (5e.tools)](https://5e.tools/book.html#xmm)
+
+---
+
+Cover image: [“Reader's Hall” by Andreas Rocha on Artstation](https://www.artstation.com/artwork/8eK2nw)

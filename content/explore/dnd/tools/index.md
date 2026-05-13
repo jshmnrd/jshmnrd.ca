@@ -6,16 +6,17 @@ author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
 cover:
-    image: "dndtools-thumbnail-2.png"
-    alt: "Dungeons & Dragons Tools"
+    image: "envar-studio-ornnsforge-final.jpg"
+    alt: "“Ornn's Forge” by Envar Studio on Artstation"
     relative: true
+    crop: "Center"
 editPost:
-    URL: "https://www.artstation.com/artwork/b5RdeG"
-    Text: "Covert art by Envar Studio on Artstation"
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/tools"
+    Text: "Version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
-hidemeta: true
+hidemeta: false
 ---
 
 ---
@@ -85,3 +86,7 @@ Other tools.
 ---
 
 _More Coming Soon!_
+
+---
+
+Cover image: [Envar Studio on Artstation](https://www.artstation.com/artwork/b5RdeG)
