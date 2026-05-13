@@ -1,10 +1,10 @@
 ---
 title: "Library"
+date: 2026-05-12
+tags: ["lists","books","posts"]
+author: ["Joshua Maynard"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
-ShowBreadCrumbs: true
-date: 2026-05-12
-hidemeta: false
 cover:
     image: "maethavee-kay-e-2.jpg"
     alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
@@ -13,6 +13,11 @@ cover:
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/reading/library"
     Text: "version 02"
+showToc: false
+disableAnchoredHeadings: false
+ShowBreadCrumbs: true
+hidemeta: false
+
 ---
 
 # 📚 Library
