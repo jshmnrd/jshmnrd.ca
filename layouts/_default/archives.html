@@ -3,12 +3,9 @@
 <header class="page-header">
 </header>
 
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- if site.Params.ShowAllPagesInArchive }}
-{{- $pages = site.RegularPages }}
-{{- end }}
+{{- $pages := site.RegularPages }}
 
-{{- range $pages.GroupByPublishDate "2006" }}
+{{- range $pages.GroupByDate "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">
   {{- $year := replace .Key "0001" "" }}
