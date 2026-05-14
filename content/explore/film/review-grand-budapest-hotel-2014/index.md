@@ -1,5 +1,5 @@
 ---
-title: "Film Review: The Grand Budapest Hotel (2014)" 
+title: "🏨 Film Review: The Grand Budapest Hotel (2014)" 
 date: 2026-04-12
 tags: ["posts","film review","film","review"]
 author: ["Joshua Maynard"]

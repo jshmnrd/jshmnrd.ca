@@ -1,5 +1,5 @@
 ---
-title: "Dungeons & Dragons Books" 
+title: "📕 Dungeons & Dragons Books" 
 date: 2026-04-18
 tags: ["posts","dnd","books","resources"]
 author: ["Joshua Maynard"]

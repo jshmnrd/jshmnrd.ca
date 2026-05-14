@@ -1,5 +1,5 @@
 ---
-title: "Album of the Month - April 2026" 
+title: "🔺 Album of the Month - April 2026" 
 date: 2026-04-15
 tags: ["posts","album review","review","album of the month","music"]
 author: ["Joshua Maynard"]

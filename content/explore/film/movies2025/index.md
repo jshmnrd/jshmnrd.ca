@@ -1,5 +1,5 @@
 ---
-title: "My Film List 2025" 
+title: "📼 My Film List 2025" 
 date: 2026-04-12
 tags: ["posts","lists","film"]
 author: ["Joshua Maynard"]

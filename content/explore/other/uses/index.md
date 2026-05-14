@@ -1,5 +1,5 @@
 ---
-title: "Uses" 
+title: "🧰 Uses" 
 date: 2026-05-10
 tags: ["posts","lists","resources","tools","websites"]
 author: ["Joshua Maynard"]

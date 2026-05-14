@@ -1,5 +1,5 @@
 ---
-title: "Dungeons & Dragons Tools" 
+title: "🛠 Dungeons & Dragons Tools" 
 date: 2026-04-11
 tags: ["posts","dnd","websites","resources","tools"]
 author: ["Joshua Maynard"]
