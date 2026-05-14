@@ -20,17 +20,17 @@ ShowWordCount: false
 ---
 
 <style> /* Robert Birming copy-paste */
-    .copy a {
+    .copy span {
         cursor: pointer;
         text-decoration: underline 2px solid var(--primary);
     }
-    .copy a:hover {
+    .copy span:hover {
         text-decoration: underline 2px solid var(--darkcolor);
     }
-    .copy a::selection {
+    .copy span::selection {
         text-decoration: underline 2px solid var(--code-bg);
     }
-    .copy a::-moz-selection {
+    .copy span::-moz-selection {
         text-decoration: underline 2px solid var(--code-bg);
     }
 </style>
@@ -51,7 +51,7 @@ RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 
 # Robert Birming
 Website [robertbirming.com](https://robertbirming.com/)  
-RSS: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><a class="copy" onclick="myFunction()">robertbirming.com/feed/</a>
+RSS: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span class="copy" onclick="myFunction()">robertbirming.com/feed/</span>
 >**WARNING ⚠️**  
 >Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a [Bear Blog](https://bearblog.dev/) thing).
 
