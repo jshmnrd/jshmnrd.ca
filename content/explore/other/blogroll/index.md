@@ -23,33 +23,26 @@ These are my favourite blogs!
 The list is in alphabetical order and will be updated as often as I remember. For reading blogs, I use [Mire](https://mire.meadow.cafe), so the most up-to-date list is on there - [here's a link to my blogroll on Mire](https://mire.meadow.cafe/u/jshmnrd/blogroll).
 
 <h2>Aditya Telange</h2>
-<b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a>  
-<b>RSS feed:</b> adityatelange.in/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
+<b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a><br>
+<b>RSS feed:</b> adityatelange.in/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 
 <h2>Arduin</h2>
-<b>Website:</b> <a href="https://arduin.io/" target="_blank">adityatelange.in</a>  
-<b>RSS feed:</b> arduin.io/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
+<b>Website:</b> <a href="https://arduin.io/" target="_blank">adityatelange.in</a><br>
+<b>RSS feed:</b> arduin.io/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
 
-## James' Coffee Blog
-Website: [jamesg.blog](https://jamesg.blog/)  
-RSS feed: [jamesg.blog/feed/](https://jamesg.blog/feed)
+<h2>James' Coffee Blog</h2>
+<b>Website:</b> <a href="https://jamesg.blog/" target="_blank">jamesg.blog</a><br>
+<b>RSS feed:</b> jamesg.blog/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://jamesg.blog/feed">Copy</button>
 
-## Meadow
-Website: [meadow.cafe](https://meadow.cafe/)  
-RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
+<h2>Meadow</h2>
+<b>Website:</b> <a href="https://meadow.cafe/" target="_blank">meadow.cafe</a><br>
+<b>RSS feeds:</b> meadow.cafe/feeds/&emsp;&emsp;<button class="copy-btn" data-copy="https://meadow.cafe/feeds/">Copy</button>
 
-## Robert Birming
-Main website [robertbirming.com](https://robertbirming.com/)  
-Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
-<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;padding:10px;">
-    <p><b>WARNING ⚠️</b><br>Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a <a href="https://bearblog.dev/" target="_blank">Bear Blog</a> thing).</p>
-</div>
+<h2>Robert Birming</h2>
+<b>Websites:</b> <a href="https://robertbirming.com" target="_blank">robertbirming.com</a>&emsp;&emsp;&emsp;<a href="https://birming.com" target="_blank">birming.com</a><br>
+<b>RSS feeds:</b> robertbirming.com/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button>&emsp;&emsp;&emsp;birming.com/feed.xml<button class="copy-btn" data-copy="https://birming.com/feed.xml/">Copy</button>
 
-
-Alt website: [birming.com](https://birming.com/)  
-Alt RSS feed: [birming.com/feed.xml](https://birming.com/feed.xml)
-
-<script>
+<script> /* Copy to clipboard script */
 document.querySelectorAll(".copy-btn").forEach(button => {
   button.addEventListener("click", () => {
     const textToCopy = button.dataset.copy;
