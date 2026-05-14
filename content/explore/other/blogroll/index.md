@@ -30,6 +30,10 @@ RSS feed: [adityatelange.in/index.xml](https://adityatelange.in/index.xml)
 Website: [arduin.io](https://arduin.io/)  
 RSS feed: [arduin.io/index.xml](https://arduin.io/index.xml)
 
+## James' Coffee Blog
+Website: [jamesg.blog](https://jamesg.blog/)  
+RSS feed: [jamesg.blog/feed/](https://jamesg.blog/feed)
+
 ## Meadow
 Website: [meadow.cafe](https://meadow.cafe/)  
 RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
@@ -37,7 +41,7 @@ RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 ## Robert Birming
 Main website [robertbirming.com](https://robertbirming.com/)  
 Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
-<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;padding:10px;">
+<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;margin:10px;">
     <p><b>WARNING ⚠️</b><br>Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a <a href="https://bearblog.dev/" target="_blank">Bear Blog</a> thing).</p>
 </div>
 
