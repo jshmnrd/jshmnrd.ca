@@ -34,10 +34,13 @@ Website: [meadow.cafe](https://meadow.cafe/)
 RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 
 # Robert Birming
-Website [robertbirming.com](https://robertbirming.com/)  
-RSS: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
+Main website [robertbirming.com](https://robertbirming.com/)  
+Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
 >**WARNING ⚠️**  
 >Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a [Bear Blog](https://bearblog.dev/) thing).
+
+Alt website: [birming.com](https://birming.com/)
+Alt RSS feed: [birming.com/feed.xml](https://birming.com/feed.xml)
 
 <script> /* Robert Birming copy-paste */
 function myFunction() {
