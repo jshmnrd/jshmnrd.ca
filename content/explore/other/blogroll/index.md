@@ -1,7 +1,7 @@
 ---
-title: "Blogroll" 
+title: "🗞 Blogroll" 
 date: 2026-05-13
-tags: ["posts","lists","resources","websites"]
+tags: ["posts","lists","websites"]
 author: ["Joshua Maynard"]
 description: "My blogroll: a list of the blogs I read."
 summary: "My blogroll: a list of the blogs I read."
@@ -24,7 +24,7 @@ The list is in alphabetical order and will be updated as often as I remember. Fo
 
 <h2>Aditya Telange</h2>
 <b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a><br>
-&emsp;<b>RSS feed:</b> adityatelange.in/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
+&nbsp;<b>RSS feed:</b> adityatelange.in/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 
 <h2>Arduin</h2>
 <b>Website:</b> <a href="https://arduin.io/" target="_blank">adityatelange.in</a><br>
