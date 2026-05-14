@@ -14,26 +14,26 @@ summary: "My blogroll: a list of the blogs I read."
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/blogroll"
     Text: "version 01"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 ---
 
 For reading blogs, I use [Mire](https://mire.meadow.cafe) - the most up to date list of blogs I read is on there - [here's a link to my blogroll on Mire](https://mire.meadow.cafe/u/jshmnrd/blogroll).
 
-# Aditya Telange
+### Aditya Telange
 Website: [adityatelange.in](https://adityatelange.in/)  
 RSS feed: [adityatelange.in/index.xml](https://adityatelange.in/index.xml)
 
-# Arduin
+### Arduin
 Website: [arduin.io](https://arduin.io/)  
 RSS feed: [arduin.io/index.xml](https://arduin.io/index.xml)
 
-# Meadow
+### Meadow
 Website: [meadow.cafe](https://meadow.cafe/)  
 RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 
-# Robert Birming
+### Robert Birming
 Main website [robertbirming.com](https://robertbirming.com/)  
 Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="text-decoration:underline 2px solid var(--primary);" onmouseover="style='text-decoration:underline 2px solid var(--darkcolor);cursor:pointer;'" onmouseout="style='text-decoration:underline 2px solid var(--primary);'" onclick="myFunction()">robertbirming.com/feed/</span>
 >**WARNING ⚠️**  
@@ -59,4 +59,4 @@ function myFunction() {
 }
 </script>
 
-# 
+###
