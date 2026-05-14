@@ -22,15 +22,13 @@ ShowWordCount: false
 These are my favourite blogs!  
 The list is in alphabetical order and will be updated as often as I remember. For reading blogs, I use [Mire](https://mire.meadow.cafe), so the most up-to-date list is on there - [here's a link to my blogroll on Mire](https://mire.meadow.cafe/u/jshmnrd/blogroll).
 
-## Aditya Telange
-Website:
-
+<h2>Aditya Telange</h2>
 <b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a>  
-<b>RSS feed:</b> adityatelange.in/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
+<b>RSS feed:</b> adityatelange.in/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 
-## Arduin
-Website: [arduin.io](https://arduin.io/)  
-RSS feed: [arduin.io/index.xml](https://arduin.io/index.xml)
+<h2>Arduin</h2>
+<b>Website:</b> <a href="https://arduin.io/" target="_blank">adityatelange.in</a>  
+<b>RSS feed:</b> arduin.io/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
 
 ## James' Coffee Blog
 Website: [jamesg.blog](https://jamesg.blog/)  
