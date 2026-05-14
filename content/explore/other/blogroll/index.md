@@ -40,7 +40,7 @@ Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/"
 >**WARNING ⚠️**  
 >Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a [Bear Blog](https://bearblog.dev/) thing).
 
-<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;padding:10px;">
+<div style="background:var(--lightcolor);border:2px solid var(--darkcolor);border-radius:10px;padding:5px 10px 5px 10px;">
     <h4 style="color:var(--primary)">WARNING ⚠️</h4>
     <p>Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a <a href="https://bearblog.dev/" target="_blank">Bear Blog</a> thing).</p>
 </div>
