@@ -26,7 +26,7 @@ The list is in alphabetical order and will be updated as often as I remember. Fo
 Website:
 
 <b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a>  
-<b>RSS feed:</b> adityatelange.in/index.xml <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
+<b>RSS feed:</b> adityatelange.in/index.xml&nbsp;&nbsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
 
 ## Arduin
 Website: [arduin.io](https://arduin.io/)  
@@ -50,35 +50,6 @@ Main RSS feed: <input hidden type="text" value="https://robertbirming.com/feed/"
 
 Alt website: [birming.com](https://birming.com/)  
 Alt RSS feed: [birming.com/feed.xml](https://birming.com/feed.xml)
-
-<script> /* Robert Birming copy-paste */
-function myFunction() {
-  // Get the text field
-  var copyText = document.getElementById("AdityaTelange");
-
-  // Select the text field
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); // For mobile devices
-
-  // Copy the text inside the text field
-  navigator.clipboard.writeText(copyText.value);
-  
-  // Alert the copied text
-  alert("Copied the link");
-}
-</script>
-
-<button class="copy-btn" data-copy="joshua@example.com">
-  Copy Email
-</button>
-
-<button class="copy-btn" data-copy="https://jshmnrd.ca">
-  Copy Website
-</button>
-
-<button class="copy-btn" data-copy="Headwear Canada">
-  Copy Company Name
-</button>
 
 <script>
 document.querySelectorAll(".copy-btn").forEach(button => {
