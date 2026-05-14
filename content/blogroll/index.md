@@ -47,6 +47,6 @@ RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 
 # Robert Birming
 Website [robertbirming.com](https://robertbirming.com/)
-RSS feeds: <a onclick="myFunction()">robertbirming.com/feed/</a>
+RSS feeds: <a style="cursor:pointer;" onclick="myFunction()">robertbirming.com/feed/</a>
 >**WARNING ⚠️**  
 >Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a [Bear Blog](https://bearblog.dev/) thing).
