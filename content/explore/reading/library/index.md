@@ -1,5 +1,5 @@
 ---
-title: "Library"
+title: "📚 Library"
 date: 2026-05-12
 tags: ["posts","lists","books"]
 author: ["Joshua Maynard"]
@@ -20,7 +20,6 @@ hidemeta: false
 
 ---
 
-# 📚 Library
 This is my library. I keep it up to date as best I can, but the most up-to-date list is on my [Hardcover.app profile](https://hardcover.app/@jshmnrd?referrer_id=98561).
 
 <details>

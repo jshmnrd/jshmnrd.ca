@@ -19,15 +19,14 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 ---
 
-<script>
-    function myFunction() {
-        var copyText = document.getElementById("robertbirmingrss");
-        copyText.select();
-        copyText.setSelectionRange(0, 99999);
-        navigator.clipboard.writeText(copyText.value);
-        alert("Copied link to clipboard");
-    } 
-</script>
+<style>
+    button .bouton {
+        cursor: pointer;
+        color: var(--content);
+        line-height: var(--lineheight);
+        font-size: var(--textsize);
+    }
+</style>
 
 <span hidden id="robertbirmingrss">https://robertbirming.com/feed/</span>
 
@@ -47,6 +46,25 @@ RSS feeds: [meadow.cafe/feeds/](https://meadow.cafe/feeds/)
 
 # Robert Birming
 Website [robertbirming.com](https://robertbirming.com/)
-RSS feeds: <a style="cursor:pointer;" onclick="myFunction()">robertbirming.com/feed/</a>
+RSS: <input hidden type="text" value="https://robertbirming.com/feed/" id="myInput"><span style="cursor:pointer;" onclick="myFunction()">robertbirming.com/feed/</span>
 >**WARNING ⚠️**  
 >Only paste this into RSS feed viewer. Going to this link into the browser will download a document (not sure why, it's a [Bear Blog](https://bearblog.dev/) thing).
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+}
+</script>
+
+# 
