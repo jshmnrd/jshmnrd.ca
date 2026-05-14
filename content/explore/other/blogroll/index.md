@@ -24,25 +24,31 @@ The list is in alphabetical order and will be updated as often as I remember. Fo
 
 <h2>Aditya Telange</h2>
 <b>Website:</b> <a href="https://adityatelange.in/" target="_blank">adityatelange.in</a><br>
-&nbsp;<b>RSS feed:</b> adityatelange.in/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
+&emsp;&emsp;<b>RSS feed:</b> adityatelange.in/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 
 <h2>Arduin</h2>
 <b>Website:</b> <a href="https://arduin.io/" target="_blank">adityatelange.in</a><br>
-&emsp;<b>RSS feed:</b> arduin.io/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
+&emsp;&emsp;<b>RSS feed:</b> arduin.io/index.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
 
 <h2>James' Coffee Blog</h2>
 <b>Website:</b> <a href="https://jamesg.blog/" target="_blank">jamesg.blog</a><br>
-&emsp;<b>RSS feed:</b> jamesg.blog/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://jamesg.blog/feed">Copy</button>
+&emsp;&emsp;<b>RSS feed:</b> jamesg.blog/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://jamesg.blog/feed">Copy</button>
 
 <h2>Meadow</h2>
 <b>Website:</b> <a href="https://meadow.cafe/" target="_blank">meadow.cafe</a><br>
-&emsp;<b>RSS feeds:</b> meadow.cafe/feeds/&emsp;&emsp;<button class="copy-btn" data-copy="https://meadow.cafe/feeds/">Copy</button>
+&emsp;&emsp;<b>RSS feed:</b> meadow.cafe/feeds/&emsp;&emsp;<button class="copy-btn" data-copy="https://meadow.cafe/feeds/">Copy</button>
 
 <h2>Robert Birming</h2>
 <b>Main website:</b> <a href="https://robertbirming.com" target="_blank">robertbirming.com</a><br>
-&emsp;<b>RSS feed:</b> robertbirming.com/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button><br>
+&emsp;&emsp;<b>RSS feed:</b> robertbirming.com/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button><br>
 <b>Alt. website:</b> <a href="https://birming.com" target="_blank">birming.com</a><br>
-&emsp;<b>RSS feed:</b> birming.com/feed.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://birming.com/feed.xml/">Copy</button>
+&emsp;&emsp;<b>RSS feed:</b> birming.com/feed.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://birming.com/feed.xml/">Copy</button>
+
+<!-- TEMPLATE:
+<h2>title</h2>
+<b>Website:</b> <a href="#" target="_blank">website.com</a><br>
+&emsp;&emsp;<b>RSS feed:</b> website.com/feed&emsp;&emsp;<button class="copy-btn" data-copy="#">Copy</button>
+-->
 
 <script> /* Copy to clipboard script */
 document.querySelectorAll(".copy-btn").forEach(button => {
