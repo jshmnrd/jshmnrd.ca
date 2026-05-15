@@ -27,3 +27,5 @@ My pfp: [Notion Faces](https://faces.notion.com/)
 ---
 
 <a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" src="Created-By-a-Human-Not-By-AI-Badge-black.svg">
+
+---
