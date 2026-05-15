@@ -183,7 +183,7 @@
 .post-content table.badgegrid {
     border: 0px solid var(--code-bg);
     background: var(--code-bg);
-    padding: 2px;
+    margin: 2px;
 }
 
 .post-content .highlight:not(table) {
