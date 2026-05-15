@@ -27,6 +27,11 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 });
 </script>
 
+
+<hr>
+
+<img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
+
 <hr>
 
 <table class="badgegrid">
