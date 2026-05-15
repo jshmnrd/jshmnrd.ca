@@ -18,9 +18,9 @@ ShowBreadCrumbs: false
 
 <table class="badgegrid">
     <tr>
-        <td width="120px"><div class="tooltip"><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a><span class="tooltiptext">My button! I created it on May 14, 2026.</span></div></td>
         <td width="120px"><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a></td>
         <td width="120px"><a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" alt="notbyai.fyi" src="Created-By-a-Human-Not-By-AI-Badge-black.svg"></a></td>
+        <td width="120px">https://indieweb.org/images/4/42/indieweb88x31-flat.png</td>
         <td width="120px"></td>
         <td width="120px"></td>
         <td width="120px"></td>
