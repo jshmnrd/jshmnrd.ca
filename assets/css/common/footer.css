@@ -57,3 +57,13 @@
 #theme-toggle:focus {
     outline: 0;
 }
+
+img.badge {
+    margin: 1rem auto;
+    max-width: 88px;
+}
+
+a.badge {
+    text-align: center;
+    text-decoration: none;
+}
