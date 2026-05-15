@@ -30,7 +30,7 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 
 <hr>
 
-<img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
+<img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
 
 <hr>
 
