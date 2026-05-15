@@ -5,8 +5,9 @@ ShowBreadCrumbs: false
 ---
 
 # 88x31 Collection
-This is my [88x31 collection](https://88x31.nl/), because I can't help but collect things.
+This is my 88x31 collection, because I can't help but collect things.
 
 ---
-
-![test](https://pub.jshmnrd.ca/88x31.gif#88x31)
+Link me!  
+![jshmnrd.ca](https://jshmnrd.ca/88x31.gif#88x31)  
+'<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" src="https://jshmnrd.ca/88x31.gif"></a>'
