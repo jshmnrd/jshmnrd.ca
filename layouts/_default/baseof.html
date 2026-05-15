@@ -23,19 +23,6 @@
     <main class="main">
         {{- block "main" . }}{{ end }}
     </main>
-
-    <style>
-        img.badge {
-            margin: 1rem auto;
-            max-width: 88px;
-        }
-        a.badge {
-            text-align: center;
-            text-decoration: none;
-        }
-    </style>
-    <a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" src="Created-By-a-Human-Not-By-AI-Badge-black.svg"></a>
-
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 </html>
