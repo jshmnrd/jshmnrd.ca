@@ -32,6 +32,10 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 
 <img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
 
+---
+
+<a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+
 <hr>
 
 <table class="badgegrid">
