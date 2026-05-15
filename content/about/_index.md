@@ -22,4 +22,4 @@ I made this website for fun, and to use my domain for something. It's made using
 
 ---
 
-<a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" src="Created-By-a-Human-Not-By-AI-Badge-black.svg"></a>
+<a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" src="/static/Created-By-a-Human-Not-By-AI-Badge-black.svg"></a>
