@@ -58,3 +58,13 @@
     background: var(--lightcolor);
     /* color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
+
+img.badge {
+    margin: 1rem auto;
+    max-width: 88px;
+}
+
+a.badge {
+    text-align: center;
+    text-decoration: none;
+}
