@@ -181,7 +181,7 @@
 }
 
 .post-content table.badgegrid {
-    border: 0px solid var(--code-bg);
+    border: 0px hidden var(--code-bg);
     background: var(--code-bg);
     margin: 2px;
 }
