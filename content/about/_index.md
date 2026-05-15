@@ -23,3 +23,7 @@ I made this website for fun, and to use my domain for something. It's made using
 ---
 
 My pfp: [Notion Faces](https://faces.notion.com/)
+
+---
+
+<a href="https://notbyai.fyi/" target="_blank"><img style="text-align:center;" src="Created-By-a-Human-Not-By-AI-Badge-black.svg" max-width="80px"></a>
