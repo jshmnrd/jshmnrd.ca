@@ -9,4 +9,4 @@ This is my [88x31 collection](https://88x31.nl/), because I can't help but colle
 
 ---
 
-![test](pub.jshmnrd.ca/88x31.gif#88x31)
+![test](https://pub.jshmnrd.ca/88x31.gif#88x31)
