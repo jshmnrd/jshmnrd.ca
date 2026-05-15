@@ -37,7 +37,7 @@ params:
     googleAnalyticsID: "G-9HLZY4NJ0W"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: false
