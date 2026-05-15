@@ -30,11 +30,38 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 
 <hr>
 
+<p class="btn">
+  <!-- jshmnrd    15/05/2026 -->
+  <a href="https://jshmnrd.ca" target="_blank">
+    <img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
+  </a>
+  <!-- NotByAI    15/05/2026 -->
+  <a href="https://notbyai.fyi/" target="_blank">
+    <img class="in-text" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png">
+  </a>
+  <!-- IndieWeb   15/05/2026 -->
+  <a href="https://indieweb.org/" target="_blank">
+    <img class="in-text" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif">
+  </a>
+  <!-- Hugo       15/05/2026 -->
+  <a href="https://gohugo.io/" target="_blank">
+    <img class="in-text" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png">
+  </a>
+  <!-- Powered by Dr. Pepper  15/05/2026 -->
+  <img class="in-text" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
+  <!-- ADHD       15/05/2026 -->
+  <img class="in-text" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
+</p>
+
+---
+
 <img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
 
 ---
 
-<a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+<a href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="in-text" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+
+---
 
 <hr>
 
