@@ -95,7 +95,7 @@ ShowBreadCrumbs: false
 
 <p class="btns">
   <!-- Stampbook -->
-  <a href="https://stampbook.neocities.org/" target="_blank"><img class="btn" alt="Stampbook" title="Extension that collects 88x31 buttons (like this one!)" src="#"></a>
+  <a href="https://stampbook.neocities.org/" target="_blank"><img class="btn" alt="Stampbook" title="Extension that collects 88x31 buttons (like this one!)" src="stampbook.svg"></a>
   <!-- DaFont -->
   <a href="https://www.dafont.com/" target="_blank"><img class="btn" alt="DaFont" title="Free fonts!" src="dafont.gif"></a>
   <!-- Internet Archive -->
@@ -167,7 +167,7 @@ ShowBreadCrumbs: false
   <!-- Terraria -->
   <a href="https://terraria.org/" target="_blank"><img class="btn" alt="Terraria" title="Terraria!" src="terraria.gif"></a>
   <!-- Stardew Valley -->
-  <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank"><img class="btn" alt="v" title="#" src="stampbook.svg"></a>
+  <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank"><img class="btn" alt="Stardew Valley" title="Stardew Valley" src="stardew-valley.gif"></a>
 </p>
 
 <hr>
