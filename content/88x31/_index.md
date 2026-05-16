@@ -4,6 +4,22 @@ description: "My 88x31 button collection"
 ShowBreadCrumbs: false
 ---
 
+<style>
+  #content {
+    display: none;
+  }
+  #show:target #content {
+    display: inline-block;
+  }
+  #show:target #open {
+    display: none;
+  }
+</style>
+
+<div id="show">
+    <a href="#show" id="open">Open</a>
+    <div id="content"><a href="#hide" id="close" >Close</a>
+
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
@@ -294,6 +310,9 @@ ShowBreadCrumbs: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 <hr>
+
+</div>
+</div>
 
 <i>More to come!</i>
 
