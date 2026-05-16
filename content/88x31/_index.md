@@ -25,6 +25,8 @@ ShowBreadCrumbs: false
 <p class="btns">
   <!-- jshmnrd    15/05/2026 -->
   <a href="#"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
+  <!-- 88x31 -->
+  <img class="btn" alt="88x31" title="88x31" src="88x31.gif">
   <!-- NotByAI    15/05/2026 -->
   <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a>
   <!-- Canadian on the Web -->
@@ -66,6 +68,8 @@ ShowBreadCrumbs: false
   <a href="https://www.stopkillinggames.com/" target="_blank"><img class="btn" alt="Stop Killing Games" title="Stop Killing Games" src="stopkillinggames.gif"></a>
   <!-- Ukraine -->
   <img class="btn" alt="Ukraine flag" title="I stand with Ukraine" src="ukraine.png">
+  <!-- Open Source -->
+  <a href="https://github.com/jshmnrd/hugo/" target="_blank"><img class="btn" alt="Open Source" title="Visit the GitHub repo for this website." src="open-source.png"></a>
 </p>
 
 <hr>
@@ -90,12 +94,14 @@ ShowBreadCrumbs: false
 <h3>Tools & Websites</h3>
 
 <p class="btns">
+  <!-- Stampbook -->
+  <a href="https://stampbook.neocities.org/" target="_blank"><img class="btn" alt="Stampbook" title="Extension that collects 88x31 buttons (like this one!)" src="#"></a>
   <!-- DaFont -->
   <a href="https://www.dafont.com/" target="_blank"><img class="btn" alt="DaFont" title="Free fonts!" src="dafont.gif"></a>
   <!-- Internet Archive -->
   <a href="https://archive.org/" target="_blank"><img class="btn" alt="Internet Archive" title="Internet Archive" src="internet-archive.gif"></a>
   <!-- Mastodon -->
-  <a href="https://mastodon.social/" target="_blank"><img class="btn" alt="Mastodon" title="Join Mastodon" src="mastodon.png"></a>
+  <a href="https://mstdn.ca/@jshmnrd" target="_blank"><img class="btn" alt="Mastodon" title="Follow me on Mastodon" src="mastodon.png"></a>
   <!-- SCP -->
   <a href="https://scp-wiki.wikidot.com/" target="_blank"><img class="btn" alt="SCP" title="SCP Foundation" src="scp.gif"></a>
   <!-- Firefox -->
@@ -103,7 +109,7 @@ ShowBreadCrumbs: false
   <!-- Get Firefox -->
   <a href="https://www.firefox.com/" target="_blank"><img class="btn" alt="Get Firefox" title="Get Firefox" src="getfirefox.gif"></a>
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="github.gif"></a>
+  <a href="https://github.com/jshmnrd" target="_blank"><img class="btn" alt="GitHub" title="GitHub" src="github.gif"></a>
   <!-- Newgrounds -->
   <a href="https://www.newgrounds.com/" target="_blank"><img class="btn" alt="Newgrounds" title="Newgrounds" src="newground.gif"></a>
   <!-- Notepad++ -->
@@ -160,6 +166,8 @@ ShowBreadCrumbs: false
   <a href="https://minecraft.net/" target="_blank"><img class="btn" alt="Minecraft" title="Minecraft" src="minecraft.gif"></a>
   <!-- Terraria -->
   <a href="https://terraria.org/" target="_blank"><img class="btn" alt="Terraria" title="Terraria!" src="terraria.gif"></a>
+  <!-- Stardew Valley -->
+  <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank"><img class="btn" alt="v" title="#" src="stampbook.svg"></a>
 </p>
 
 <hr>
@@ -187,7 +195,7 @@ ShowBreadCrumbs: false
   <audio id="aah" src="aah.ogg"></audio>
   <span onclick="document.getElementById('aah').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
   <!-- RSS -->
-  <span class="copy-btn" data-copy='https://jshmnrd.ca/index.xml' onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></span>
+  <a href="https://jshmnrd.ca/index.xml" target="_blank"><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></a>
   <!-- Star Wars -->
   <img class="btn" alt="Star Wars Addict" title="Star Wars Addict!" src="starwars-addict.gif">
   <!-- Powered by the void -->
@@ -202,8 +210,11 @@ ShowBreadCrumbs: false
   <img class="btn" alt="Windows XP" title="Windows XP" src="xp.gif">
   <!-- Yoshi Hatch -->
   <img class="btn" alt="Yoshi" title="Yoshi" src="yoshihatch.gif">
+  <!-- Pizza -->
+  <img class="btn" alt="Pizza Powered" title="Pizza Powered" src="pizza.svg">
+  <!-- Guestbook -->
+  <a href="https://jshmnrd.ca/contact/" target="_blank"><img class="btn" alt="Sign Guestbook" title="Sign my guestbook!" src="signguestbook.gif"></a>
 </p>
-
 
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
