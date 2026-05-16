@@ -12,17 +12,9 @@ ShowBreadCrumbs: false
 
 <script> /* Copy to clipboard script */
 document.querySelectorAll(".copy-btn").forEach(button => {
-  button.addEventListener("click", () => {
-    const textToCopy = button.dataset.copy;
-    const originalText = button.textContent;
-
-    navigator.clipboard.writeText(textToCopy).then(() => {
-      button.textContent = "Copied!";
-
-      setTimeout(() => {
-        button.textContent = originalText;
-      }, 1500);
-    });
+  button.addEventListener("click", () => {const textToCopy = button.dataset.copy;const originalText = button.textContent;
+navigator.clipboard.writeText(textToCopy).then(() => {  button.textContent = "Copied!";
+  setTimeout(() => {    button.textContent = originalText;  }, 1500);});
   });
 });
 </script>
@@ -32,20 +24,15 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 
 <p class="btn">
   <!-- jshmnrd    15/05/2026 -->
-  <a href="https://jshmnrd.ca" target="_blank">
-    <img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif">
-  </a>
+  <a href="https://jshmnrd.ca" target="_blank"><img class="btn" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a>
   <!-- NotByAI    15/05/2026 -->
-  <a href="https://notbyai.fyi/" target="_blank">
-    <img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png">
+  <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png">
   </a>
   <!-- IndieWeb   15/05/2026 -->
-  <a href="https://indieweb.org/" target="_blank">
-    <img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif">
+  <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif">
   </a>
   <!-- Hugo       15/05/2026 -->
-  <a href="https://gohugo.io/" target="_blank">
-    <img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png">
+  <a href="https://gohugo.io/" target="_blank"><img class="btn" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png">
   </a>
   <!-- Powered by Dr. Pepper  15/05/2026 -->
   <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
@@ -65,35 +52,7 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 
 <hr>
 
-<table class="badgegrid">
-    <tr> <!-- TOP -->
-        <!-- jshmnrd 15/05/2026-->
-        <td width="120px"><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a></td>
-        <!-- NotByAI 15/05/2026 -->
-        <td width="120px"><a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a></td>
-        <!-- IndieWeb 15/05/2026 -->
-        <td width="120px"><a class="badge" href="https://indieweb.org/" target="_blank"><img class="badge" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a></td>
-        <!-- Hugo 15/05/2026-->
-        <td width="120px"><a class="badge" href="https://gohugo.io/" target="_blank"><img class="badge" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a></td>
-        <!-- Powered by Dr. Pepper 15/05/2026 -->
-        <td width="120px"><img class="badge" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif"></td>
-        <!-- ADHD 15/05/2026 -->
-        <td width="120px"><img class="badge" alt="ADHD" title="I have extreme ADHD..." src="adhd.png"></td>
-    </tr>
-    <tr> <!-- MOVEMENTS/CAUSES -->
-        <!-- Stop Killing Games 15/05/2026-->
-        <td width="120px"><a class="badge" href="https://www.stopkillinggames.com/" target="_blank"><img class="badge" alt="STOP KILLING GAMES!" title="Stop Killing Games!" src="stopkillinggames.gif"></a></td>
-        <!-- CINNAMOROLL 01 15/05/2026 -->
-        <td width="120px"><img class="badge" alt="Cinnamoroll" title="CINNAMOROLL!" src="cinnamoroll-01.gif"></td>
-        <!-- Right To Repair 15/05/2026 -->
-        <td width="120px"><a class="badge" href="https://www.ifixit.com/right-to-repair-action" target="_blank"><img class="badge" alt="Right to repair" title="I support right to repair" src="righttorepair.gif"></a></td>
-        <!-- Anything bu Chrome 15/05/2026 -->
-        <td width="120px"><a class="badge" href="https://killedbygoogle.com/" target="_blank"><img class="badge" alt="Anything but Chrome" title="Use Firefox!!" src="anythingbutchrome.gif"></a></td>
-        <!-- James' Coffee Blog 15/05/2026 -->
-        <td width="120px"><a class="badge" href="https://jamesg.blog/" target="_blank"><img class="badge" alt="James' Coffee Blog" title="James' Coffee Blog - a big inspiration for me!" src="james-coffee-blog.png"></a></td>
-        <!-- Benji Dog 15/05/2026-->
-        <td width="120px"><a class="badge" href="https://www.benji.dog/" target="_blank"><img class="badge" alt="Benji.Dog" title="Talented software dev." src="benjidog.gif"></a></td>
-    </tr>
+<table class="badgegrid"><tr> <!-- TOP -->    <!-- jshmnrd 15/05/2026-->    <td width="120px"><a class="badge" href="https://jshmnrd.ca" target="_blank"><img class="badge" alt="jshmnrd.ca" title="MY BANNER!" src="jshmnrd.gif"></a></td>    <!-- NotByAI 15/05/2026 -->    <td width="120px"><a class="badge" href="https://notbyai.fyi/" target="_blank"><img class="badge" alt="created by a human - not by AI" title="My site is NOT created with any AI!" src="notbyai.png"></a></td>    <!-- IndieWeb 15/05/2026 -->    <td width="120px"><a class="badge" href="https://indieweb.org/" target="_blank"><img class="badge" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a></td>    <!-- Hugo 15/05/2026-->    <td width="120px"><a class="badge" href="https://gohugo.io/" target="_blank"><img class="badge" alt="HUGO" title="This site is built on the Hugo framework" src="hugo.png"></a></td>    <!-- Powered by Dr. Pepper 15/05/2026 -->    <td width="120px"><img class="badge" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif"></td>    <!-- ADHD 15/05/2026 -->    <td width="120px"><img class="badge" alt="ADHD" title="I have extreme ADHD..." src="adhd.png"></td></tr><tr> <!-- MOVEMENTS/CAUSES -->    <!-- Stop Killing Games 15/05/2026-->    <td width="120px"><a class="badge" href="https://www.stopkillinggames.com/" target="_blank"><img class="badge" alt="STOP KILLING GAMES!" title="Stop Killing Games!" src="stopkillinggames.gif"></a></td>    <!-- CINNAMOROLL 01 15/05/2026 -->    <td width="120px"><img class="badge" alt="Cinnamoroll" title="CINNAMOROLL!" src="cinnamoroll-01.gif"></td>    <!-- Right To Repair 15/05/2026 -->    <td width="120px"><a class="badge" href="https://www.ifixit.com/right-to-repair-action" target="_blank"><img class="badge" alt="Right to repair" title="I support right to repair" src="righttorepair.gif"></a></td>    <!-- Anything bu Chrome 15/05/2026 -->    <td width="120px"><a class="badge" href="https://killedbygoogle.com/" target="_blank"><img class="badge" alt="Anything but Chrome" title="Use Firefox!!" src="anythingbutchrome.gif"></a></td>    <!-- James' Coffee Blog 15/05/2026 -->    <td width="120px"><a class="badge" href="https://jamesg.blog/" target="_blank"><img class="badge" alt="James' Coffee Blog" title="James' Coffee Blog - a big inspiration for me!" src="james-coffee-blog.png"></a></td>    <!-- Benji Dog 15/05/2026-->    <td width="120px"><a class="badge" href="https://www.benji.dog/" target="_blank"><img class="badge" alt="Benji.Dog" title="Talented software dev." src="benjidog.gif"></a></td></tr>
 </table>
 
 <i>More to come!</i>
@@ -109,12 +68,5 @@ document.querySelectorAll(".copy-btn").forEach(button => {
 -->
 
 <!-- NEW ROW TEMPLATE
-<tr>
-        <td width="120px"></td>
-        <td width="120px"></td>
-        <td width="120px"></td>
-        <td width="120px"></td>
-        <td width="120px"></td>
-        <td width="120px"></td>
-    </tr>
+<tr>    <td width="120px"></td>    <td width="120px"></td>    <td width="120px"></td>    <td width="120px"></td>    <td width="120px"></td>    <td width="120px"></td></tr>
 -->
