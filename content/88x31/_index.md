@@ -49,6 +49,8 @@ ShowBreadCrumbs: false
   <img class="btn" alt="Zimbabwe" title="Zimbabwe" src="zimbabwe.gif">
 </p>
 
+<hr>
+
 <h3>Movements / Causes / Beliefs</h3>
 
 <p class="btns">
@@ -185,7 +187,7 @@ ShowBreadCrumbs: false
   <audio id="aah" src="aah.ogg"></audio>
   <span onclick="document.getElementById('aah').play()" onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="MP3" title="Aah!" src="mp3com.gif"></span>
   <!-- RSS -->
-  <span class="copy-btn" data-copy='https://jshmnrd.ca/index.xml'><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></a></span>
+  <span class="copy-btn" data-copy='https://jshmnrd.ca/index.xml' onmouseover="style='cursor:pointer;'" onmousout="style='cursor:auto;'"><img class="btn" alt="RSS" title="RSS feed" src="rss.gif"></span>
   <!-- Star Wars -->
   <img class="btn" alt="Star Wars Addict" title="Star Wars Addict!" src="starwars-addict.gif">
   <!-- Powered by the void -->
