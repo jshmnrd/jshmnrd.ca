@@ -4,6 +4,15 @@ description: "My 88x31 button collection"
 ShowBreadCrumbs: false
 ---
 
+<style>
+.panel {
+  display: none;
+}
+.panel.active {
+  display: block;
+}
+</style>
+
 <h1><img class="btn" alt="88x31" title="88x31" src="88x31.gif"> Button Collection</h1>
 
 <p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> button collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
