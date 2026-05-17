@@ -41,7 +41,7 @@ ShowBreadCrumbs: false
     <!-- 32-Bit Cafe | 2026-05-16 -->
     <a href="https://32bit.cafe/" target="_blank"><img class="btn" alt="32-Bit Cafe" title="32-Bit Cafe" src="32bitcafe.png"></a>
     <!-- 88x31 | 2026-05-16 -->
-    <img class="btn" alt="88x31" title="88x31" src="88x31.png">
+    <img class="btn" alt="88x31" title="88x31" src="88x31.gif">
   <!-- alpha-A -->
     <!-- ADHD | 2026-05-15 -->
     <img class="btn" alt="ADHD" title="I have extreme ADHD..." src="adhd.png">
