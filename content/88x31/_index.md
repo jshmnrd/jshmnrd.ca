@@ -73,7 +73,7 @@ ShowBreadCrumbs: false
     <!-- Cinnamoroll 06  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-06.gif">
     <!-- Cinnamoroll 07  | 2026-05-15 -->
-    <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif">
+    <!-- REMOVED: not 31px wide! <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif"> -->
     <!-- Cinnamoroll 08  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-08.gif">
     <!-- Cinnamoroll 09  | 2026-05-15 -->
