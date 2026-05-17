@@ -1,10 +1,25 @@
 ---
-title: "88x31 Collection"
-description: "My 88x31 button collection"
-ShowBreadCrumbs: false
+title: "88x31 Button Collection" 
+date: 2026-05-15
+tags: ["collections","posts","lists","websites"]
+author: ["Joshua Maynard"]
+description: "My collection of 88x31 buttons."
+summary: "My collection of 88x31 buttons."
+#cover:
+    #image: "#"
+    #alt: "“title” by artist on website"
+    # src: #
+    #relative: true
+    #crop: "Center"
+editPost:
+    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/other/88x31"
+    Text: "version 01"
+showToc: false
+disableAnchoredHeadings: false
+ShowWordCount: false
 ---
 
-<style>
+<style> /* For toggling the views */
 .panel {
   display: none;
 }
@@ -12,8 +27,6 @@ ShowBreadCrumbs: false
   display: block;
 }
 </style>
-
-<h1><img class="btn" alt="88x31" title="88x31" src="88x31.gif"> Button Collection</h1>
 
 <p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> button collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
 
@@ -24,19 +37,19 @@ ShowBreadCrumbs: false
 <hr>
 
 <h2>Link me on your site!</h2>
-<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><br><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
+<p class="btns"><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd.gif"><br><button class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd.gif"></a>'>Copy Embed Code</button></p>
 
 <hr>
 
-<button class="button" onclick="showPanel('all')">All Buttons</button>
-<button class="button" onclick="showPanel('categories')">Button Categories</button>
+<button hidden class="button" onclick="showPanel('all')">All Buttons</button>
+<button hidden class="button" onclick="showPanel('categories')">Button Categories</button>
 
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
 <div id="all" class="panel active">
-  <h2>All Buttons</h2>
+  <h2 hidden >All Buttons</h2>
   <p class="btns">
   <!-- alpha-# -->
     <!-- 32-Bit Cafe | 2026-05-16 -->
@@ -125,7 +138,11 @@ ShowBreadCrumbs: false
     <!-- I am Canadian | 2026-05-15 -->
     <img class="btn" alt="I am Canadian" title="I am Canadian" src="iamcanadian.gif"></a>
     <!-- I Hate Squarespace | 2026-05-15 -->
-    <img class="btn" alt="I hate Squarespace." title="I have squarespace!!" src="ihatesquarespace.jpg">
+    <img class="btn" alt="I hate Squarespace." title="I hate squarespace!!" src="ihatesquarespace.jpg">
+    <!-- I Love Horror | 2026-05-17 -->
+    <img class="btn" alt="I love horror" title="I love horror" src="ilovehorror.gif">
+    <!-- Increment | 2026-05-17 -->
+    <iframe src="//incr.easrng.net/badge?key=changeme" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
     <!-- IndieWeb | 2026-05-15 -->
     <a href="https://indieweb.org/" target="_blank"><img class="btn" alt="IndieWeb.org" title="Support the Indie Web!" src="indieweb.gif"></a>
     <!-- Internet Archive | 2026-05-15 -->
@@ -145,6 +162,8 @@ ShowBreadCrumbs: false
     <!-- Korn | 2026-05-16 -->
     <a href="https://kornofficial.com/" target="_blank"><img class="btn" alt="Korn" title="Korn" src="korn.png"></a>
   <!-- alpha-L -->
+    <!-- Letterboxd | 2026-05-17 -->
+    <a href="https://letterboxd.com/jshmnrd/" target="_blank"><img class="btn" alt="Letterboxd" title="I track movies on Letterboxd" src="letterboxd.png"></a>
   <!-- alpha-M -->
     <!-- Andy Carolan - Made by a Human | 2026-05-16 -->
     <a href="https://ko-fi.com/s/4662b19f61" target="_blank"><img class="btn" alt="made by a human (Andy Carolan's design)" title="My site is NOT created with any AI!" src="madebyahuman.svg"></a>
@@ -241,7 +260,7 @@ ShowBreadCrumbs: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<div id="categories" class="panel">
+<div hidden id="categories" class="panel">
   <h2>Button Categories</h2>
   <h3>Favourites</h3>
   <p class="btns">
