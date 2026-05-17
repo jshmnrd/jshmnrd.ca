@@ -28,13 +28,8 @@ ShowBreadCrumbs: false
 
 <hr>
 
-<button onclick="showPanel('all')">All</button>
-<button onclick="showPanel('categories')">Categories</button>
-
-<div class="button-row">
-  <button onclick="showPanel('all')">All</button>
-  <button onclick="showPanel('categories')">Categories</button>
-</div>
+<button class="button" onclick="showPanel('all')">All Buttons</button>
+<button class="button" onclick="showPanel('categories')">Button Categories</button>
 
 <!-- TEMPLATE
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
