@@ -465,3 +465,10 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
 }
+
+.button {
+    background: var(--profile-button); /* was var(--tertiary) */
+    border-radius: var(--radius);
+    margin: 6px 12px 6px 0px;
+    padding: 10px;
+}
