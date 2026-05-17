@@ -1,5 +1,5 @@
 ---
-title: "88x31 Button Collection" 
+title: "🪧 88x31 Button Collection" 
 date: 2026-05-15
 tags: ["collections","posts","lists","websites"]
 author: ["Joshua Maynard"]
