@@ -38,8 +38,8 @@ ShowWordCount: false
 
 <h2>Link me on your site!</h2>
 <p>Click to copy html embed!<br>
-<!-- v01 2026-05-15 --><a class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif"></a>
-<!-- v02 2026-05-17 --><a class="copy-btn" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif"></a>
+<!-- v01 2026-05-15 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'>
+<!-- v02 2026-05-17 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'>
 </p>
 
 <hr>
@@ -477,7 +477,7 @@ ShowWordCount: false
 
 <i>More to come!</i>
 
-<script> /* Copy to clipboard script */
+<script> /* Copy to clipboard - text button */
   document.querySelectorAll(".copy-btn").forEach(button => {
     button.addEventListener("click", () => {
       const textToCopy = button.dataset.copy; const originalText = button.textContent;
@@ -487,6 +487,17 @@ ShowWordCount: false
       });
     });
   });
+</script>
+
+<script> /* Copy to clipboard - image */
+document.querySelectorAll(".copy-img").forEach(img => {
+  img.addEventListener("click", () => {
+    const textToCopy = img.dataset.copy;
+    navigator.clipboard.writeText(textToCopy).then(() => {
+      img.alt = "Copied!";
+    });
+  });
+});
 </script>
 
 <script> /* Toggle content */

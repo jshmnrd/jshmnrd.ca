@@ -45,6 +45,10 @@
     padding: 1px 7px 1px 7px;
 }
 
+.copy-img {
+    cursor: pointer;
+}
+
 .button-inner {
     padding: 0 8px;
 }
