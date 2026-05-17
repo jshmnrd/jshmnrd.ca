@@ -291,7 +291,6 @@ ShowBreadCrumbs: false
     <a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank"><img class="btn" alt="ISO  8601" title="ISO 8601 - the correct date & time format!" src="iso8601.jpg"></a>
   </p>
   <h4>Anti-AI</h4>
-  <p><i>A.I. will ruin the world.</i></p>
   <p class="btns">
     <!-- NotByAI | 2026-05-15 -->
     <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="notbyai.svg"></a>
@@ -371,7 +370,7 @@ ShowBreadCrumbs: false
     <!-- Cinnamoroll 06  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-06.gif">
     <!-- Cinnamoroll 07  | 2026-05-15 -->
-    <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif">
+    <!-- REMOVED: not 31px wide! <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif"> -->
     <!-- Cinnamoroll 08  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-08.gif">
     <!-- Cinnamoroll 09  | 2026-05-15 -->
