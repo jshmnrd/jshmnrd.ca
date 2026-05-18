@@ -451,6 +451,18 @@ img.in-text {
     margin: auto;
 }
 
+img.star {
+    color: var(--star-empty);
+    display: inline;
+    max-height: 24px;
+}
+
+img.star-fill {
+    color: var(--star-fill);
+    display: inline;
+    max-height: 24px;
+}
+
 .post-content img[src*="#star"] { /* For star ratings on film reviews */
     display: inline;
     margin: auto;
@@ -472,4 +484,25 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
+}
+
+.star {
+  width: 1em;
+  height: auto;
+  display: inline-block;
+
+  --star-left: var(--star-filled);
+  --star-right: var(--star-empty);
+}
+
+.star.filled .star-path {
+  fill: var(--star-filled);
+}
+
+.star.empty .star-path {
+  fill: var(--star-empty);
+}
+
+.star.half .star-path {
+  fill: url(#star-half-fill);
 }

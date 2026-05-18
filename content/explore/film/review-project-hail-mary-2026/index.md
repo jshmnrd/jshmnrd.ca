@@ -19,9 +19,22 @@ disableAnchoredHeadings: false
 ShowWordCount: true
 ---
 
-| Originally Watched | Review written | Star Rating          |
-| ------------------ | -------------- | -----------          |
-| May 11, 2026       | 18 May 2026    | 4.5 / 5 ![fill](https://pub.jshmnrd.ca/stars/fill.svg#star)![fill](https://pub.jshmnrd.ca/stars/fill.svg#star)![fill](https://pub.jshmnrd.ca/stars/fill.svg#star)![fill](https://pub.jshmnrd.ca/stars/fill.svg#star)![half](https://pub.jshmnrd.ca/stars/half.svg#star) |
+<table>
+    <thead>
+        <td>Originally Watched</td>
+        <td>Review Written</td>
+        <td>Star Rating</td>
+    </thead>
+    <tbody>
+        <td>2026-05-11</td>
+        <td>2026-05-18</td>
+        <td>
+            <svg class="star filled">...</svg>
+            <svg class="star half">...</svg>
+            <svg class="star empty">...</svg>
+        </td>
+    </tbody>
+</table>
 
 # Initial Thoughts
 
