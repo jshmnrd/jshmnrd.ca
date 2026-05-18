@@ -454,6 +454,7 @@ img.in-text {
 .post-content img[src*="#star"] { /* For star ratings on film reviews */
     display: inline;
     margin: auto;
+    max-height: var(--textsize);
 }
 
 img[src*="#center"]
