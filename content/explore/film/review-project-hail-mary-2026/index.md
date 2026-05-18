@@ -19,6 +19,7 @@ disableAnchoredHeadings: false
 ShowWordCount: true
 ---
 
+
 <table>
     <thead>
         <td>Originally Watched</td>
@@ -29,9 +30,9 @@ ShowWordCount: true
         <td>2026-05-11</td>
         <td>2026-05-18</td>
         <td>
-            <svg class="star filled">...</svg>
-            <svg class="star half">...</svg>
-            <svg class="star empty">...</svg>
+            {{ partial "svg.html" (dict "name" "star" "class" "filled") }}
+            {{ partial "svg.html" (dict "name" "star" "class" "half") }}
+            {{ partial "svg.html" (dict "name" "star" "class" "empty") }}
         </td>
     </tbody>
 </table>

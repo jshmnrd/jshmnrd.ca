@@ -451,18 +451,6 @@ img.in-text {
     margin: auto;
 }
 
-img.star {
-    color: var(--star-empty);
-    display: inline;
-    max-height: 24px;
-}
-
-img.star-fill {
-    color: var(--star-fill);
-    display: inline;
-    max-height: 24px;
-}
-
 .post-content img[src*="#star"] { /* For star ratings on film reviews */
     display: inline;
     margin: auto;
