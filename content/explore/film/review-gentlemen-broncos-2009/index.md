@@ -21,7 +21,7 @@ ShowWordCount: true
 ---
 <a class="copy-btn" href="https://letterboxd.com/film/gentlemen-broncos/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt1161418/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/22820/">TMDB</a>
 ![gentlemen-broncos.jpg](gentlemen-broncos.jpg)
-<p>
+<p style="vertical-align:center;">
     <b>My rating:</b> 3.5 / 5
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
