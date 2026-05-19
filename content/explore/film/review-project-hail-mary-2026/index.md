@@ -11,7 +11,7 @@ summary: "My review of Phil Lord's 2026 film 'Project Hail Mary'."
     #relative: true
     #crop: "Center"
 editPost:
-    URL: "https://letterboxd.com/jshmnrd/film/project-hail-mary/"
+    URL: "https://letterboxd.com/jshmnrd/film/project-hail-mary/1/"
     Text: "My Review on Letterboxd"
 showToc: false
 TocOpen: false
