@@ -33,9 +33,10 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
-<hr>
 
-![Grand Budapest Hotel (2014) cover & screenshot](grand-budapest-hotel.jpg)
+![Emperor (2012) cover & screenshot](emperor.jpg)
+
+---
 
 ## Initial Thoughts
 I'm watching this film because I saw a clip of it on YouTube Shorts. In honestly, it's how I decide to watch a lot of the films I watch. I went into this with little to no knowledge on the topic, aside from what I <s>learned</s> <i>remember</i> about WWII from grade 10 history class (10 years ago as I write this). It should be fun!

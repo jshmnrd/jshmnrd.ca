@@ -33,9 +33,10 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
-<hr>
 
 ![Grand Budapest Hotel (2014) cover & screenshot](grand-budapest-hotel.jpg)
+
+---
 
 # Introduction
 

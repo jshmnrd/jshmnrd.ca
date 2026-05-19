@@ -33,9 +33,10 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/empty.svg">
 </p>
-<hr>
 
 ![gentlemen-broncos.jpg](gentlemen-broncos.jpg)
+
+---
 
 Very funny, very awkward, very [Jared Hess](https://letterboxd.com/director/jared-hess/). Hess is always so good at capturing the clumsiness of human beings, in a way that feels very realistic. I believe this is part of what makes his films amusing & relatable and I really feel this come through with Gentlemen Broncos.
 

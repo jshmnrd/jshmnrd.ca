@@ -33,9 +33,10 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
 </p>
-<hr>
 
 ![Project Hail Mary (2026) cover & screenshot](project-hail-mary.jpg)
+
+---
 
 >Computer: "Please record video diary."  
 >Grace: "No."
