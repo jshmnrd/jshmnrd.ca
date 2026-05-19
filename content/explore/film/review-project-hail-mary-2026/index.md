@@ -19,7 +19,21 @@ disableAnchoredHeadings: false
 ShowWordCount: true
 #GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-project-hail-mary-2026
 ---
-<a class="copy-btn" href="https://letterboxd.com/film/project-hail-mary/">Letterboxd</a> <a class="copy-btn" href="http://www.imdb.com/title/tt12042730/">IMDb</a> <a class="copy-btn" href="https://www.themoviedb.org/movie/687163/">TMDB</a>
+<p style="text-align:center;">
+    <a class="copy-btn" href="https://letterboxd.com/film/project-hail-mary/">Letterboxd</a>
+    &nbsp;
+    <a class="copy-btn" href="http://www.imdb.com/title/tt12042730/">IMDb</a>
+    &nbsp;
+    <a class="copy-btn" href="https://www.themoviedb.org/movie/687163/">TMDB</a>
+    <br>
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
+</p>
+<hr>
+
 ![Project Hail Mary (2026) cover & screenshot](project-hail-mary.jpg)
 
 ---
