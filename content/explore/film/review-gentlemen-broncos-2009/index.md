@@ -24,7 +24,7 @@ ShowWordCount: true
 
 <table>
     <tr style="width:100%;">
-        <td style="text-align:center;">
+        <td style="text-align:center;width:100%;">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
