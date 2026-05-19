@@ -23,8 +23,8 @@ ShowWordCount: true
 ![gentlemen-broncos.jpg](gentlemen-broncos.jpg)
 
 <table>
-    <tr style="width:100%;">
-        <td style="text-align:center;width:100%;">
+    <tr width="100%">
+        <td width="100%" style="text-align:center;">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
             <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
