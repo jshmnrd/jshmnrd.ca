@@ -26,6 +26,7 @@ ShowWordCount: true
     &nbsp;
     <a class="copy-btn" href="https://www.themoviedb.org/movie/687163/">TMDB</a>
     <br>
+    <br>
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
@@ -35,18 +36,6 @@ ShowWordCount: true
 <hr>
 
 ![Project Hail Mary (2026) cover & screenshot](project-hail-mary.jpg)
-
----
-
-<p style="text-align:center;">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/fill.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/stars/half.svg">
-</p>
-
----
 
 >Computer: "Please record video diary."  
 >Grace: "No."
