@@ -70,3 +70,9 @@ a.copy-btn {
     background: var(--lightcolor);
     /* color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
+
+a.copy-btn:hover {
+    background: var(--lightcolor);
+    text-decoration: none;
+    /* color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+}
