@@ -57,6 +57,10 @@ a.copy-btn {
     max-width: 88px;
 }
 
+a.copy-btn2 {
+    text-decoration: none;
+}
+
 .button-inner {
     padding: 0 8px;
 }

@@ -39,19 +39,32 @@ ShowWordCount: false
 <h2>Link me on your site!</h2>
 <p>Click to copy html embed!</p>
 <p class="btns">
-<!-- v01 2026-05-15 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'>
-<!-- v02 2026-05-17 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'>
-<!-- v03 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-03.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-03.gif"></a>'>
-<!-- v04 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-04.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-04.gif"></a>'>
-<!-- HIDDEN - v05 2026-05-20 <img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-05.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-05.gif"></a>'>-->
-<!-- v06 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-06.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-06.gif"></a>'>
-<!-- v07 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-07.png" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-07.png"></a>'>
-<!-- v08 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-08.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-08.jpg"></a>'>
-<!-- v09 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-09.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-09.jpg"></a>'>
-<!-- v10 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-10.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-10.jpg"></a>'>
-<!-- v11 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-11.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-11.jpg"></a>'>
-<!-- v12 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-12.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-12.jpg"></a>'>
-<!-- HIDDEN - v13 2026-05-20 <img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-13.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-13.jpg"></a>'>-->
+  <!-- v01 2026-05-15 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif"></a>
+  <!-- v02 2026-05-17 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif"></a>
+  <!-- v03 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-03.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-03.gif"></a>
+  <!-- v04 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-04.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-04.gif"></a>
+  <!-- HIDDEN - v05 2026-05-20 
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-05.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-05.gif"></a>-->
+  <!-- v06 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-06.gif"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-06.gif"></a>
+  <!-- v07 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-07.png"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-07.png"></a>
+  <!-- v08 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-08.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-08.jpg"></a>
+  <!-- v09 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-09.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-09.jpg"></a>
+  <!-- v10 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-10.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-10.jpg"></a>
+  <!-- v11 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-11.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-11.jpg"></a>
+  <!-- v12 2026-05-20 -->
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-12.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-12.jpg"></a>
+  <!-- HIDDEN - v13 2026-05-20 
+    <a class="copy-btn2" href="#" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-13.jpg"></a>'><img class="btn" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-13.jpg"></a>-->
 </p>
 
 <hr>
