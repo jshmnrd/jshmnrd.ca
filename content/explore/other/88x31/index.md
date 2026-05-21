@@ -40,6 +40,17 @@ ShowWordCount: false
 <p>Click to copy html embed!<br>
 <!-- v01 2026-05-15 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-01.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-01.gif"></a>'>
 <!-- v02 2026-05-17 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-02.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-02.gif"></a>'>
+<!-- v03 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-03.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-03.gif"></a>'>
+<!-- v04 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-04.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-04.gif"></a>'>
+<!-- v05 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-05.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-05.gif"></a>'>
+<!-- v06 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-06.gif" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-06.gif"></a>'>
+<!-- v07 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-07.png" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-07.png"></a>'>
+<!-- v08 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-08.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-08.jpg"></a>'>
+<!-- v09 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-09.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-09.jpg"></a>'>
+<!-- v10 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-10.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-10.jpg"></a>'>
+<!-- v11 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-11.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-11.jpg"></a>'>
+<!-- v12 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-12.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-12.jpg"></a>'>
+<!-- v13 2026-05-20 --><img class="copy-img" alt="jshmnrd.ca" title="MY BANNER! ✌️" src="jshmnrd-13.jpg" data-copy='<a href="https://jshmnrd.ca" target="_blank"><img alt="jshmnrd.ca" title="jshmnrd.ca" src="https://jshmnrd.ca/explore/other/88x31/jshmnrd-13.jpg"></a>'>
 </p>
 
 <hr>
@@ -72,6 +83,8 @@ ShowWordCount: false
     <!-- Robert Birming ✌️ | 2026-05-16 -->
     <a href="https://robertbirming.com/" target="_blank"><img class="btn" alt="Robert Birming" title="Robert Birming - my internet oshi! ✌️" src="birming.png"></a>
   <!-- alpha-C -->
+    <!-- Canada ✌️ | 2026-05-20 -->
+    <img class="btn" alt="Canada Flag" title="Oh Canada! ✌️" src="canada.png">
     <!-- Canadian on the Web | 2026-05-15 -->
     <img class="btn" alt="Canadian on the web" title="Canadian on the web" src="canadianontheweb.gif">
     <!-- Cinnamoroll 15  | 2026-05-16 -->
@@ -88,8 +101,8 @@ ShowWordCount: false
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-05.gif">
     <!-- Cinnamoroll 06  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-06.gif">
-    <!-- Cinnamoroll 07  | 2026-05-15 -->
-    <!-- REMOVED: not 31px wide! <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif"> -->
+    <!-- HIDDEN - Cinnamoroll 07  | 2026-05-15 -->
+    <img hidden class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif">
     <!-- Cinnamoroll 08  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-08.gif">
     <!-- Cinnamoroll 09  | 2026-05-15 -->
@@ -102,8 +115,8 @@ ShowWordCount: false
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-12.gif">
     <!-- Cinnamoroll 13  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-13.gif">
-    <!-- Cinnamoroll 14  | 2026-05-15 -->
-    <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-14.gif">
+    <!-- HIDDEN - Cinnamoroll 14  | 2026-05-15 -->
+    <img hidden class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-14.gif">
     <!-- Powered by Coffee | 2026-05-16 -->
     <img class="btn" alt="Powered by Coffee" title="Powered by Coffee" src="coffee-powered.gif">
   <!-- alpha-D -->
@@ -215,6 +228,8 @@ ShowWordCount: false
     <img class="btn" alt="ScottGames" title="ScottGames" src="scottgames.gif">
     <!-- SCP | 2026-05-15 -->
     <a href="https://scp-wiki.wikidot.com/" target="_blank"><img class="btn" alt="SCP" title="SCP Foundation" src="scp.gif"></a>
+    <!-- Shake Ass ✌️ | 2026-05-20 -->
+    <img class="btn" alt="Shake Ass!" title="Shake Ass ✌️" src="shakeass.gif">
     <!-- Guestbook | 2026-05-16 -->
     <a href="https://jshmnrd.ca/contact/" target="_blank"><img class="btn" alt="Sign Guestbook" title="Sign my guestbook!" src="signguestbook.gif"></a>
     <!-- Stampbook | 2026-05-16 -->
@@ -263,7 +278,7 @@ ShowWordCount: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<div hidden id="categories" class="panel">
+<div hidden id="categories" class="panel"> <!-- Hidden -->
   <h2>Button Categories</h2>
   <h3>Favourites</h3>
   <p class="btns">
@@ -391,8 +406,8 @@ ShowWordCount: false
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-05.gif">
     <!-- Cinnamoroll 06  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-06.gif">
-    <!-- Cinnamoroll 07  | 2026-05-15 -->
-    <!-- REMOVED: not 31px wide! <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif"> -->
+    <!-- HIDDEN - Cinnamoroll 07  | 2026-05-15 -->
+    <img hidden class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-07.gif">
     <!-- Cinnamoroll 08  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-08.gif">
     <!-- Cinnamoroll 09  | 2026-05-15 -->
@@ -405,8 +420,8 @@ ShowWordCount: false
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-12.gif">
     <!-- Cinnamoroll 13  | 2026-05-15 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-13.gif">
-    <!-- Cinnamoroll 14  | 2026-05-15 -->
-    <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-14.gif">
+    <!-- HIDDEN - Cinnamoroll 14  | 2026-05-15 -->
+    <img hidden class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamoroll-14.gif">
     <!-- Cinnamoroll 15  | 2026-05-16 -->
     <img class="btn" alt="Cinnamoroll!!!" title="Cinnamoroll!!!" src="cinnamonoll.gif">
   </p>
