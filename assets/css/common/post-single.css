@@ -466,6 +466,7 @@ img.star { /* For star ratings on film reviews */
 img.btn {
     display: inline;
     margin: auto;
+    border-radius: 0px;
     max-height: 31px;
     max-width: 88px;
 }

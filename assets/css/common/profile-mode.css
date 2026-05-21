@@ -53,6 +53,7 @@ a.copy-btn {
     cursor: pointer;
     display: inline;
     margin: auto;
+    border-radius: 0px;
     max-height: 31px;
     max-width: 88px;
 }
