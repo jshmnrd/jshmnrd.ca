@@ -39,10 +39,8 @@ The list is in alphabetical order and will be updated as often as I remember. Fo
 &emsp;&emsp;<b>RSS feed:</b> meadow.cafe/feeds/&emsp;&emsp;<button class="copy-btn" data-copy="https://meadow.cafe/feeds/">Copy</button>
 
 <h2>Robert Birming</h2>
-<b>Main website:</b> <a href="https://robertbirming.com" target="_blank">robertbirming.com</a><br>
+<b>Website:</b> <a href="https://robertbirming.com" target="_blank">robertbirming.com</a><br>
 &emsp;&emsp;<b>RSS feed:</b> robertbirming.com/feed/&emsp;&emsp;<button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button><br>
-<b>Alt. website:</b> <a href="https://birming.com" target="_blank">birming.com</a><br>
-&emsp;&emsp;<b>RSS feed:</b> birming.com/feed.xml&emsp;&emsp;<button class="copy-btn" data-copy="https://birming.com/feed.xml/">Copy</button>
 
 <!-- TEMPLATE:
 <h2>title</h2>
