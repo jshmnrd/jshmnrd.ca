@@ -105,7 +105,7 @@ At home for simple tasks, I have a 2015 MacBook Pro.
 ## Fastmail
 Personal and brand email.
 
-<a class="copy-btn" href="https://www.fastmail.com/" target="_blank">Fastmail*</a>&nbsp;<a class="copy-btn" href="https://join.fastmail.com/c0f4c1b4" target="_blank">Join Fastmail*</a>
+<a class="copy-btn" href="https://www.fastmail.com/" target="_blank">Fastmail</a>&nbsp;<a class="copy-btn" href="https://join.fastmail.com/c0f4c1b4" target="_blank">Join Fastmail*</a>
 
 After getting hacked in early 2025 I switched to Fastmail and haven't looked back. Yes, there's a cost, but the experience is so much better, it's absolutely worth it. Imagine not having to tell your email to look for new emails, but instead getting instantly notified that an email was received. Mindblowing event more than a year into using it! I genuinely don't think I'll ever go back to a free email.
 
