@@ -88,34 +88,58 @@ pre:hover .copy-code {
 .callout {
     font-size:95%;
     padding: 16px;
-    color: var(--entry);
+    color: var(--content);
+    background-color: var(--entry);
     border: 2px solid var(--border);
     border-radius: var(--radius);
 }
-.grey_callout {
-    background: rgb(241, 241, 239);
+.callout.green {
+    color: var(--lightcolor);
+    border: 2px solid var(--bottle);
+    background-color: var(--darkcolor);
 }
-.brown_callout {
-    background: rgb(244, 238, 238);
+.callout.grey {
+    color: var(--content);
+    border: 2px solid var(--primary);
+    background-color: var(--gray);
 }
-.orange_callout {
-    background: rgb(251, 236, 221);
+.callout.black {
+    color: var(--theme);
+    border: 2px solid var(--border);
+    background-color: var(--primary);
 }
-.yellow_callout {
-    background: rgb(251, 243, 219);
+.callout.brown {
+    color: #e8dbd1;
+    border: 2px solid #16100b;
+    background-color: #6f4e37;
 }
-.green_callout {
-    background: rgb(237, 243, 236);
+.callout.orange {
+    color: #ffe0cc;
+    border: 2px solid #331400;
+    background-color: #ff6600;
 }
-.blue_callout {
-     background: rgb(231, 243, 248);
+.callout.yellow {
+    color: var(--primary);
+    border: 2px solid #332c00;
+    background-color: #ffdd00;
 }
-.purple_callout {
-    background: rgba(244, 240, 247, 0.8);
+.callout.blue {
+    color: #d9e1f9;
+    border: 2px solid #081232;
+    background-color: #4169e1;
 }
-.pink_callout {
-    background: rgba(249, 238, 243, 0.8);
+.callout.purple {
+    color: #ddd9f0;
+    border: 2px solid #120e24;
+    background-color: #5946b2;
 }
-.red_callout {
-    background: rgb(253, 235, 236);
+.callout.pink {
+    color: var(--primary);
+    border: 2px solid #460427;
+    background-color: #f77fbe;
+}
+.callout.red {
+    color: #ffc0cf;
+    border: 2px solid #270009;
+    background-color: #c2002f;
 }
