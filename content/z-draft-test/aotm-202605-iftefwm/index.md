@@ -21,9 +21,19 @@ ShowWordCount: yes
 
 *My album of the month in May 2026 was...*
 
+<h1>
+    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
+    <img class="inline" src="explore/music/explicit.svg">
+</h1>
+
+<h1>
+    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
+    <img class="inline" src="explicit.svg">
+</h1>
+
 <p class="h1">
     <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
-    <img class="inline" src="https://jshmnrd.ca/static/explicit.svg">
+    <img class="inline" src="explicit.svg">
 </p>
 
 <a class="copy-btn" href="https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw?si=jJ3w3EonSHGpAyjZVLHHyg" target="_blank">Spotify</a>&emsp;
@@ -163,7 +173,10 @@ I've thought a lot about it lately and I've concluded that for me, the melody of
 ## 6. Lionheart
 <a class="copy-btn" href="https://genius.com/Lorna-shore-lionheart-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292985" target="_blank" title="Genius">Song Bio</a>
 
-_
+This song feels like its about bravery. Will says in the [song bio](https://genius.com/35292985),  
+>"This song is supposed to feel like you’re going into battle."
+
+The lyrics convey this and the magesticness of the music helps get this feeling across nicely.
 
 ## 7. Death Can Take Me
 <a class="copy-btn" href="https://genius.com/Lorna-shore-death-can-take-me-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292986" target="_blank" title="Genius">Song Bio</a>
