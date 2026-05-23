@@ -231,7 +231,7 @@ ShowWordCount: false
     <!-- Powered by Dr. Pepper | 2026-05-15 -->
     <img class="btn" alt="Powered by Dr. Pepper" title="I freaking love Dr. Pepper" src="poweredbydrpepper.gif">
     <!-- powRSS | 2026-05-22 -->
-    <a href="https://powrss.com/" target="_blank"><img class="btn" alt="powRSS" title="I'm on powRSS!" src="https://powrss.com/powrss-88-31.png"></a>
+    <a href="https://powrss.com/feeds/501" target="_blank"><img class="btn" alt="powRSS" title="I'm on powRSS!" src="https://powrss.com/powrss-88-31.png"></a>
   <!-- alpha-Q -->
   <!-- alpha-R -->
     <!-- Right to Repair | 2026-05-15 -->
@@ -408,7 +408,7 @@ ShowWordCount: false
     <!-- Johnny Decimal | 2026-05-16 -->
     <a href="https://johnnydecimal.com/" target="_blank"><img class="btn" alt="Powered by Johnny Decimal" title="use the Johnny Decimal system!" src="johnnydecimal.png"></a>
     <!-- powRSS | 2026-05-22 -->
-    <a href="https://powrss.com/" target="_blank"><img class="btn" alt="powRSS" title="I'm on powRSS!" src="https://powrss.com/powrss-88-31.png"></a>
+    <a href="https://powrss.com/feeds/501" target="_blank"><img class="btn" alt="powRSS" title="I'm on powRSS!" src="https://powrss.com/powrss-88-31.png"></a>
   </p>
   <hr>
   <h3>Cinnamoroll!</h3>
