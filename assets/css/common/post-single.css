@@ -44,7 +44,17 @@
     font-size: 40px;
 }
 
+.post-content p.h1 { /* When you want h1 style but not h1 status */
+    margin: 40px auto 32px;
+    font-size: 40px;
+}
+
 .post-content h2 {
+    margin: 32px auto 24px;
+    font-size: 24px;
+}
+
+.post-content p.h2 { /* When you want h2 style but not h2 status */
     margin: 32px auto 24px;
     font-size: 24px;
 }
@@ -53,7 +63,18 @@
     font-size: 19px;    
 }
 
+.post-content p.h3 { /* When you want h3 style but not h3 status */
+    font-size: 19px;
+}
+
 .post-content h4 {
+    font-size: 15px;    
+    font-weight: var(--semibold);
+    text-transform: uppercase;
+    color: var(--gray);
+}
+
+.post-content p.h4 { /* When you want h4 style but not h4 status */
     font-size: 15px;    
     font-weight: var(--semibold);
     text-transform: uppercase;
@@ -456,6 +477,12 @@ img.in-text {
 }
 
 img.inline {
+    height: 1em;
+    width: auto;
+    vertical-align: -0.125em;
+}
+
+svg.inline {
     height: 1em;
     width: auto;
     vertical-align: -0.125em;
