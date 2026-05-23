@@ -258,6 +258,10 @@
     margin: 1rem 0;
 }
 
+.post-content svg.center {
+    margin: 1rem auto;
+}
+
 .post-content p.btns {
     text-align: left;
     vertical-align: middle;
