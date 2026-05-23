@@ -58,11 +58,12 @@
     outline: 0;
 }
 
-.webring a {
+.webring {
     text-decoration: none;
+    color: var(--secondary);
 }
 
-.webring a:hover {
+.webring:hover {
     text-decoration: none;
     color: var(--darkcolor);
 }
