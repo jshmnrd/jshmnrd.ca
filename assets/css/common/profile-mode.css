@@ -81,3 +81,7 @@ a.copy-btn:hover {
     text-decoration: none;
     /* color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
+
+.hide {
+    visibility: hidden;
+}
