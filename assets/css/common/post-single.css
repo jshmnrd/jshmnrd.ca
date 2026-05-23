@@ -455,6 +455,12 @@ img.in-text {
     margin: auto;
 }
 
+img.inline {
+    height: 1em;
+    width: auto;
+    vertical-align: -0.125em;
+}
+
 img.star { /* For star ratings on film reviews */
     display: inline;
     max-height: 24px;
@@ -481,4 +487,13 @@ a[href^="#fn:"], a[href^="#fnref:"] {
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
     color: var(--darkcolor);
+}
+
+mark {
+    background-color: var(--darkcolor);
+    color: var(--theme);
+}
+
+mark a {
+    text-decoration: underline 2px solid var(--code-bg);
 }
