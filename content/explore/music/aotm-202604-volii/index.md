@@ -11,11 +11,12 @@ summary: "My favourite album this month is definitely Vol.II by Angine de Poitri
     #relative: true
     #crop: "Smart"
 editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202604-volii"
-    Text: "version 01"
+    URL: "https://musicboard.app/jshmnrd/review/album/vol-ii/angine-de-poitrine/"
+    Text: "My review on Musicboard"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: false
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202604-volii
 ---
 
 *My album of the month in April was...*
