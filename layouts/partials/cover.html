@@ -44,7 +44,7 @@
         {{/* If image is processable, crop it to 2000x700 */}}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
         {{- $crop := .Params.cover.crop | default "Center" -}}
-        {{- $fillSpec := printf "2000x500 %s" $crop -}}
+        {{- $fillSpec := printf "2000x300 %s" $crop -}}
         {{- $cropped := $cover.Fill $fillSpec -}}
         <img loading="{{ $loading }}" src="{{ $cropped.Permalink }}" width="{{ $cropped.Width }}"
             height="{{ $cropped.Height }}" alt="{{ $alt }}">
