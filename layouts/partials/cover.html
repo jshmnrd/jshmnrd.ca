@@ -9,20 +9,7 @@
     true }}
 
     {{- $pageBundleCover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
-{{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
-
-{{- $remoteCover := false -}}
-{{- if hasPrefix .Params.cover.image "http" -}}
-    {{- with try (resources.GetRemote .Params.cover.image) -}}
-        {{- with .Err -}}
-            {{- warnf "Could not fetch remote cover image %q: %s" $.Params.cover.image . -}}
-        {{- else with .Value -}}
-            {{- $remoteCover = . -}}
-        {{- end -}}
-    {{- end -}}
-{{- end -}}
-
-{{- $cover := (or $pageBundleCover $globalResourcesCover $remoteCover)}}
+    {{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
     {{- $cover := (or $pageBundleCover $globalResourcesCover)}}
     {{- /* We are not using the .Param.cover.relative to decide the location of image */}}
     {{- /* If we have the image in pageBundle or globalResources we can process the image */}}
@@ -42,21 +29,20 @@
     <a href="{{ $imgdl }}" target="_blank" rel="noopener noreferrer">
         {{- end }}
         {{- if $cover -}}
-    {{- if (in $processableFormats $cover.MediaType.SubType) }}
+        {{/* If image is processable, crop it to 2000x700 */}}
+        {{- if (and (in $processableFormats $cover.MediaType.SubType) (eq $prod true)) }}
         {{- $crop := .Params.cover.crop | default "Center" -}}
-        {{- $fillSpec := printf "2000x500 %s" $crop -}}
+        {{- $fillSpec := printf "2000x700 %s" $crop -}}
         {{- $cropped := $cover.Fill $fillSpec -}}
-
-        <img
-            loading="{{ $loading }}"
-            src="{{ $cropped.Permalink }}"
-            width="{{ $cropped.Width }}"
-            height="{{ $cropped.Height }}"
-            alt="{{ $alt }}">
-    {{- else }}
+        <img loading="{{ $loading }}" src="{{ $cropped.Permalink }}" width="{{ $cropped.Width }}"
+            height="{{ $cropped.Height }}" alt="{{ $alt }}">
+        {{- else }}
         <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
-    {{- end }}
-{{- else }}
+        {{- end }}
+        {{- else }}
+        {{- /* For absolute urls and external links, no img processing here */}}
+        <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
+        {{- end }}
 
         {{- if $addLink }}
     </a>
