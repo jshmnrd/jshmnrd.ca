@@ -54,16 +54,6 @@ ShowWordCount: yes
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2002-Star_Empty.svg">
 </p>
 
-
-
-<p style="text-align:center;">
-<img class="inline" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
-<img class="inline" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
-<img class="inline" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
-<img class="inline" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
-<img class="inline" src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
-</p>
-
 <p class="h4">Album Statistics</p>
 <table>
     <tr>
