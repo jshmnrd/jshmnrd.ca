@@ -31,7 +31,7 @@ ShowWordCount: true
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img class="star" src="https://pub.jshmnrd.ca/w/svg/2002-Star_Half.svg">
-    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2003-Star_Empty.svg">
+    <img class="star" src="https://pub.jshmnrd.ca/w/svg/2002-Star_Empty.svg">
 </p>
 
 ![Emperor (2012) cover & screenshot](https://pub.jshmnrd.ca/w/img/2003-Emperor.jpg)
