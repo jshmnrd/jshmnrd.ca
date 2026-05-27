@@ -99,7 +99,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 
 <p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
-<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
+<img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
@@ -116,7 +116,7 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
     <span style="cursor:auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
 </details>
 
-<h2 id="2-oblivion">2. Oblivion ★<span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
+<h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 
 Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review [Glenwood](#5-glenwood) was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.
@@ -133,7 +133,7 @@ I really liked this one.
 ## 3. In Darkness
 <a class="copy-btn" href="https://genius.com/Lorna-shore-in-darkness-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292982" target="_blank" title="Genius">Song Bio</a>
 
-Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell for a second <span title="I mean this as a compliment">(/positive)</span>! Once again Lorna Shore can write beautiful melodic lines, man!
+Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell <span title="/positive">⁎</span> for a second! Once again Lorna Shore can write beautiful melodic lines, man!
 
 Ok. At first, this was my least favourite song on the album, but it's really grown on me since the first few listens. I sort of get it! At first I just couldn't relate and didn't find the music on-par with the previous two songs. It still isn't, but I like this one.
 
@@ -144,16 +144,14 @@ That said, I did enjoy other songs on the album more.
 
 I liked the grandness of this song, a very big feeling behind it that I understand was intentional from the band.
 
-Despite this, like [In Darkness](#3-in-darkness), this track was really filler to me, unfortunately.
+Despite this, this track was really filler to me, unfortunately.
 
 I like the message and feeling behind it, but compared to the songs around it, I just didn't feel the same. Again, not bad by any means, in fact I like it better than [In Darkness](#3-in-darkness), but just not stand-out awesome like the others.
 
 ## 5. Glenwood
 <a class="copy-btn" href="https://genius.com/Lorna-shore-glenwood-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292984" target="_blank" title="Genius">Song Bio</a>
 
-This is my favourite track in the entire album. It was the first song I heard, yes, but I really like it the most.
-
-The music has a really hopeful sort of feel to it, almost conforting.
+This is a close second for my favourite track in the entire album. It was the first song I heard, too! The music has a really hopeful sort of feel to it, almost conforting.
 
 I've thought a lot about it lately and I've concluded that for me, the melody of *Glenwood* makes me feel two main things:
 1.  **Nostalgia.**  
