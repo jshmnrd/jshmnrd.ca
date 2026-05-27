@@ -1,5 +1,7 @@
 ---
 title: "Elements"
+hidemeta: true
+ShowBreadCrumbs: false
 ---
 
 <ul>
