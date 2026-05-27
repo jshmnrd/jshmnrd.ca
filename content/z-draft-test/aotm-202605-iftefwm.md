@@ -97,7 +97,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 }
 </style>
 
-<p>The outro to this song is friggin' <span title="GRODY" style="font-size:1.125em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span title="GRODY" style="font-size:1.125em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
@@ -133,7 +133,7 @@ I really liked this one.
 ## 3. In Darkness
 <a class="copy-btn" href="https://genius.com/Lorna-shore-in-darkness-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292982" target="_blank" title="Genius">Song Bio</a>
 
-Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell <span title="/positive">⁎</span> for a second! Once again Lorna Shore can write beautiful melodic lines, man!
+Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell <sup title="/positive">ⓘ</sup> for a second! Once again Lorna Shore can write beautiful melodic lines, man!
 
 Ok. At first, this was my least favourite song on the album, but it's really grown on me since the first few listens. I sort of get it! At first I just couldn't relate and didn't find the music on-par with the previous two songs. It still isn't, but I like this one.
 
