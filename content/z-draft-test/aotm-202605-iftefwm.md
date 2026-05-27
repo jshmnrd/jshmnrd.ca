@@ -97,7 +97,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 }
 </style>
 
-<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin'<span title="GRODY" style="font-size:1.25em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
