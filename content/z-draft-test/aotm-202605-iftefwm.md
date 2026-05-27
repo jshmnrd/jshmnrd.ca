@@ -95,7 +95,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 }
 </style>
 
-<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="text-size:24px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
+<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-size:24px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
 
 <b><i>What an opening to an album!</i></b>
 
