@@ -64,6 +64,8 @@
 .post-content p.h2 img {
     display: inline;
     margin: auto;
+    max-height: 1em;
+    max-width: auto;
 }
 
 .post-content h3 {
