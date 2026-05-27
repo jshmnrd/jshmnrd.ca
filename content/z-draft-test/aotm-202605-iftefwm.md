@@ -21,16 +21,6 @@ ShowWordCount: yes
 
 *My album of the month in May 2026 was...*
 
-<h1>
-    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
-    <img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
-</h1>
-
-<h1>
-    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore
-    <img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
-</h1>
-
 <p class="h1">
     <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
 </p>
