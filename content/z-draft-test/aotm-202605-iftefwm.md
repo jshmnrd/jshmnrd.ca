@@ -32,7 +32,7 @@ ShowWordCount: yes
 <a class="copy-btn" href="https://musicboard.app/album/i-feel-the-everblack-festering-within-me/lorna-shore/" target="_blank">Musicboard</a>&emsp;
 <a class="copy-btn" href="https://lornashoreband.com/" target="_blank">Website</a>
 
-<img style="max-width:70%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj">
+<img style="max-width:60%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj">
 
 <p class="h2">My Rating: 4.5/5
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
