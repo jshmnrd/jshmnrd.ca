@@ -88,10 +88,6 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 ## 1. Prison of Flesh
 <a class="copy-btn" href="https://genius.com/Lorna-shore-prison-of-flesh-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292981" target="_blank" title="Genius">Song Bio</a>
 
-<b><i>What an opening to an album!</i></b>
-
-The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
-
 <style>
 @font-face {
     font-family: Darker;
@@ -99,18 +95,20 @@ The build up at the start is fantastic, it builds anticipation really well. Not 
 }
 </style>
 
-<p>The outro to this song is friggin'...</p>
-<p class="h1" title="GRODY" style="font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</p>
-<p>Makes you want to put your head through the floor!</p>
+<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="text-size:24px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
+
+<b><i>What an opening to an album!</i></b>
+
+The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
 
-Will even says in the [song bio](https://genius.com/35292981),  
+Will says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
 
-Again, I'm new to deathcore, so the metal vocal types I'm familiar with are basically clean/regular singing, harsh/screams and vocal fry. I guess I never considered there were more - why would I?
+Again, I'm new to deathcore, so the metal vocals I'm familiar with are basically clean/regular singing, harsh/screams and vocal fry. I guess I never considered there were more - why would I?
 
-Anyways, I just found it really impressive that Will can (I assume) safely do all those vocals, he seems like a really talented musician right off the bat - I didn't take much convincing!
+Anyways, I just found it really impressive that Will can safely do all those vocals, he seems like a really talented musician right off the bat - I didn't take much convincing!
 
 Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
 
