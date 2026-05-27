@@ -38,8 +38,8 @@ ShowWordCount: yes
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
+    <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
-    <img src="https://pub.jshmnrd.ca/w/svg/2002-Star_Empty.svg">
 </p>
 
 <p class="h4">Album Statistics</p>
@@ -88,18 +88,18 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 ## 1. Prison of Flesh
 <a class="copy-btn" href="https://genius.com/Lorna-shore-prison-of-flesh-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292981" target="_blank" title="Genius">Song Bio</a>
 
+<b><i>What an opening to an album!</i></b>
+
 <style>
 @font-face {
-    font-family: Darker;
-    src: url(https://pub.jshmnrd.ca/w/font/darker_2/Darker.ttf);
+    font-family: BlackGoth;
+    src: url(https://pub.jshmnrd.ca/w/font/black-goth/BlackGoth-Reguler.otf);
 }
 </style>
 
-<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-size:40px;font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span><br>Makes you want to put your head through the floor!</p>
+<p style="text-align:center;">The outro to this song is friggin'...<br><span title="GRODY" style="font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
-
-<b><i>What an opening to an album!</i></b>
 
 The build up at the start is fantastic, it builds anticipation really well. Not that it's news to anyone but [Will](https://en.wikipedia.org/wiki/Will_Ramos), the lead singer, has some super impressive vocal talent!
 
@@ -116,7 +116,7 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
     <span style="cursor:auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
 </details>
 
-<h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
+<h2 id="2-oblivion">2. Oblivion ★<span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 
 Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review [Glenwood](#5-glenwood) was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.
@@ -128,16 +128,16 @@ That melodic line is really beautiful. It conveys a sense of sadness & regret mi
 >We only know how to burn the forest, stain the ocean  
 >Rip the Earth from its revolution
 
-I really liked this one. Probably second favourite on the whole album!
+I really liked this one.
 
 ## 3. In Darkness
 <a class="copy-btn" href="https://genius.com/Lorna-shore-in-darkness-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292982" target="_blank" title="Genius">Song Bio</a>
 
 Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell for a second <span title="I mean this as a compliment">(/positive)</span>! Once again Lorna Shore can write beautiful melodic lines, man!
 
-Despite this, I have to be honest, this might be my least favourite of the album. And I know it's apparently the band's favourite, but I just don't really vibe with it.
+Ok. At first, this was my least favourite song on the album, but it's really grown on me since the first few listens. I sort of get it! At first I just couldn't relate and didn't find the music on-par with the previous two songs. It still isn't, but I like this one.
 
-It's not bad by any means, I just enjoyed the other tracks more.
+That said, I did enjoy other songs on the album more.
 
 ## 4. Unbreakable
 <a class="copy-btn" href="https://genius.com/Lorna-shore-unbreakable-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292983" target="_blank" title="Genius">Song Bio</a>
