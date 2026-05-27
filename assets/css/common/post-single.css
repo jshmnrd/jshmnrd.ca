@@ -48,11 +48,13 @@
     font-weight: 700;
     margin: 40px auto 32px;
     font-size: 40px;
+    line-height: 0.8em;
 }
 
 .post-content p.h1 img {
     display: inline;
     margin: auto;
+    line-height: 0.8em;
     max-height: 1em;
     max-width: auto;
 }
