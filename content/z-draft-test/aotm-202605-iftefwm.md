@@ -97,7 +97,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 }
 </style>
 
-<p>The outro to this song is friggin'<span title="GRODY" style="font-size:1.25em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span title="GRODY" style="font-size:1.125em;font-family:'BlackGoth','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
@@ -119,7 +119,7 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
 <h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 
-Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review [Glenwood](#5-glenwood) was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.
+<p>Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review <a href="#5-glenwood">Glenwood</a> was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.</p>
 
 <img style="max-width:50%;" src="https://cdn.mos.cms.futurecdn.net/RNkGDQtvnzgqJeASKPQN5k.jpg">
 
