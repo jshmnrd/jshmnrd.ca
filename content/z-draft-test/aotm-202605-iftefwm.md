@@ -94,14 +94,14 @@ The build up at the start is fantastic, it builds anticipation really well. Not 
 
 <style>
 @font-face {
-    font-family: Heartless;
-    src: url(https://pub.jshmnrd.ca/w/font/heartless/Heartless.ttf);
+    font-family: Darker;
+    src: url(https://pub.jshmnrd.ca/w/font/darker_2/Darker.ttf);
 }
 </style>
 
-The outro to this song is friggin' <span style="font-family:'Heartless','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
+The outro to this song is friggin' <span title="GRODY" style="font-family:'Darker','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘 Makes you want to put your head through the floor!
 
-<img src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
+<img style="max-height:20%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif#center">
 
 Will even says in the [song bio](https://genius.com/35292981),  
 >"We took all the heaviest stuff we had, to create this incredibly dark, high-stress/tension song."
