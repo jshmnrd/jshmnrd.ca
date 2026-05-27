@@ -68,11 +68,6 @@ I've been a metal fan for a long time. Years and year and years. Never have I ha
 
 I feel as though I <s>was kept</s> kept myself in the dark for so long, this album felt like a fresh experience - a rare thing for me these days!
 
-<p class="callout red">
-    <b>Disclaimer:</b><br>
-    Not everyone who reads this will enjoy this album, <u>and that's okay!</u> Metal is an acquired taste to begin with, but this especially is a tough pill for the "uninitiated".I'd encourage everyone who reads this to give it a shot - <i>who knows, you might like it!</i>
-</p>
-
 <p class="callout lt-red">
     <b>Disclaimer:</b><br>
     Not everyone who reads this will enjoy this album, <u>and that's okay!</u> Metal is an acquired taste to begin with, but this especially is a tough pill for the "uninitiated".I'd encourage everyone who reads this to give it a shot - <i>who knows, you might like it!</i>
