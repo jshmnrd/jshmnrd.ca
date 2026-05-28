@@ -43,7 +43,7 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 </p>
 
-<p class="br-h2"><img class="in-text" src="https://arduin.io/favicon-square.png"> Arduin Findeis</p>
+<p class="br-h2"><img class="inline" src="https://arduin.io/favicon-square.png"> Arduin Findeis</p>
 <p>
   <b>Website:</b>
   <a href="https://arduin.io/" target="_blank">Arduin.io</a>
