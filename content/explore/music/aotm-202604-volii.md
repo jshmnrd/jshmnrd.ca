@@ -15,7 +15,7 @@ editPost:
     Text: "My review on Musicboard"
 showToc: true
 disableAnchoredHeadings: false
-ShowWordCount: false
+ShowWordCount: true
 #GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202604-volii
 ---
 
