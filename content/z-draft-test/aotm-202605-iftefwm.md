@@ -44,7 +44,7 @@ ShowWordCount: yes
 
 <table style="text-align:center;">
     <tr>
-        <td colspan="4"><p class="h4">Album Statistics</p></td>
+        <td colspan="4" style="text-align:left;"><p class="h4">Album Statistics</p></td>
     </tr>
     <tr>
         <th style="text-align:center;">Released</th>
