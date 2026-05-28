@@ -1,6 +1,6 @@
 ---
 title: "🖤 Album of the Month - May 2026" 
-date: 2026-04-15
+date: 2026-05-27
 tags: ["posts","album review","review","album of the month","music"]
 author: ["Joshua Maynard"]
 description: "“I Feel The Everblack Festering Within Me” by Lorna Shore"
@@ -10,9 +10,10 @@ summary: "My favourite album this month is “I Feel The Everblack Festering Wit
     #alt: ""
     #relative: true
     #crop: "Smart"
-editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202605-iftefwm.md"
-    Text: "version 01"
+editPost: 
+    URL: "https://musicboard.app/jshmnrd/review/album/i-feel-the-everblack-festering-within-me/lorna-shore/"
+    Text: "My review on Musicboard"
+#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/music/aotm-202605-iftefwm.md
 showToc: true
 TocOpen: false
 disableAnchoredHeadings: false
@@ -32,16 +33,16 @@ ShowWordCount: yes
 <a class="copy-btn" href="https://youtube.com/playlist?list=OLAK5uy_kGPR8eMmmrbhNRAdt2QPbg5dvk6oPiWTQ&si=90Kd0rIYE4W5WxEp" target="_blank">YouTube</a>&emsp;
 <a class="copy-btn" href="https://musicboard.app/album/i-feel-the-everblack-festering-within-me/lorna-shore/" target="_blank">Musicboard</a>&emsp;
 <a class="copy-btn" href="https://lornashoreband.com/" target="_blank">Website</a>
-
+<br>
 <img style="max-width:60%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj#center">
 </div>
 
-<p class="h2" style="text-align:center;">My Rating: 4.5/5
+<p class="h2" style="text-align:center;">My Rating: 4/5
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
-    <img src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
+    <img src="https://pub.jshmnrd.ca/w/svg/2002-Star_Empty.svg">
 </p>
 
 <table style="text-align:center;">
@@ -76,7 +77,7 @@ Because it's incredible, yes, but mostly because it was a novel experience. I di
 
 I haven't been shying away from it - as I said I've been a metalhead for a *really* long time - I've just never come across or been recommended music like this.
 
-From the first time I heard [Glenwood](#5-glenwood-), I was hooked. I listed to *literally* nothing else the entire month, and began writing this post that same day. I just immediately knew this would be my favourite album this month.
+From the first time I heard [Glenwood](#5-glenwood), I was hooked. I listed to *literally* nothing else the entire month, and began writing this post that same day. I just immediately knew this would be my favourite album this month.
 
 ### Note about my review
 
@@ -137,7 +138,7 @@ I really liked this one.
 ## 3. In Darkness
 <a class="copy-btn" href="https://genius.com/Lorna-shore-in-darkness-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292982" target="_blank" title="Genius">Song Bio</a>
 
-Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell <sup title="/positive">ⓘ</sup> for a second! Once again Lorna Shore can write beautiful melodic lines, man!
+Wow, the choral opening is actually beautiful! I thought I was listening to Two Steps from Hell<sup title="/positive">ⓘ</sup> for a second! Once again Lorna Shore can write beautiful melodic lines, man!
 
 Ok. At first, this was my least favourite song on the album, but it's really grown on me since the first few listens. I sort of get it! At first I just couldn't relate and didn't find the music on-par with the previous two songs. It still isn't, but I like this one.
 
@@ -165,45 +166,58 @@ I've thought a lot about it lately and I've concluded that for me, the melody of
     It makes me think back to all the things I wish I'd done differently. Interactions I should've handled better, decisions I regret, bridges I wish I'd never burned.  
     It makes me feel like I'm not alone in that feeling of wishing I couldn't made different decisions in my past.
 
-<details style="cursor:pointer;"><summary>Trauma Dump</summary>
-    <span style="cursor:auto;">
-        I know a thing or two about not getting along with my parents. I can't say any more than that.
-        <p class="callout red">By the way, if you know me personally, please don't make a thing of this. Thanks</p>
-    </span>
-</details>
-
 ## 6. Lionheart
 <a class="copy-btn" href="https://genius.com/Lorna-shore-lionheart-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292985" target="_blank" title="Genius">Song Bio</a>
 
-This song feels like its about bravery. Will says in the [song bio](https://genius.com/35292985),  
->"This song is supposed to feel like you’re going into battle."
+![](https://pub.jshmnrd.ca/w/img/3011-HelmsDeep.gif#center)
 
-The lyrics convey this and the magesticness of the music helps get this feeling across nicely.
+Definitely an anthem, great vibes. Unfortunately, like [Unbreakable](#4-unbreakable) this was really filler for me to be honest. It just wasn't as musically interesting to me as others on the album.
 
 ## 7. Death Can Take Me
 <a class="copy-btn" href="https://genius.com/Lorna-shore-death-can-take-me-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292986" target="_blank" title="Genius">Song Bio</a>
 
-_
+I'm honestly not sure how I feel about this track. Musically it's cool, but I'm not sure I can relate. It's about the stress of not wanting to lose the position/status you worked so hard to get (to) and how overwhelming that stress can be.
+
+I'm in a managerial at my job, and I have to be honest, I've never felt that way. I'm not saying it's an invalid take or anything, it's just that *me personnally* I can't relate to it.
+
+I enjoyed the breakdown & outro of this song, it was really nice and heavy. I've noticed while listening to this album that I really like the heavier moments (relatively speaking).
 
 ## 8. War Machine
 <a class="copy-btn" href="https://genius.com/Lorna-shore-war-machine-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292987" target="_blank" title="Genius">Song Bio</a>
 
-_
+Good but, and this will sound crazy, boring! I don't know man, the first few songs of the album set a vibe for me that I just don't feel this track has. It's the same thing as [Unbreakable](#4-unbreakable) and [Lionheart](#6-lionheart), I just don't think it's as good.
 
 ## 9. A Nameless Hymn
 <a class="copy-btn" href="https://genius.com/Lorna-shore-a-nameless-hymn-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292988" target="_blank" title="Genius">Song Bio</a>
 
-_
+Oh boy...I hestitate to touch this one.
+
+I like the track and the music is good - it's good deathcore metal music - I'm just not going to comment on the lyrics and meaning. You can take a look & listen for yourself and craft your own opinions.
+
+This topic of discussion just isn't something I want to have on my site. That's not me giving any opinion, that's just me abstaining.
 
 ## 10. Forevermore
 <a class="copy-btn" href="https://genius.com/Lorna-shore-forevermore-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292989" target="_blank" title="Genius">Song Bio</a>
 
-_
+The song bio for this song really hits close to home. The trauma dump is below if you want to read. Beautiful song - personal bias aside, it's really nice.
 
+The melody is very emotionally stirring but you still get the harsh vocals and drums you came for. Neither the choral bits or harsh vocals & blast beats seem out of place, they're both well-crafted and go together really nicely in this track.
+
+I think this was a great song to end the album on.
+
+<details>
+    <summary style="cursor:pointer;">Trauma Dump</summary>
+    <span style="cursor:auto;">In 2012, when I was 11, my mother died of a blood clot in her heart.
+    </span>
+</details>
 
 ## Conclusion
 
-My biggest takeaway from this album is that it's very poetic! I know music in general is poetry, but had I only read the lyrics without the music I'dve thought it was very good poetry! Which is true, it is!
+My biggest takeaway from this album is that it's very poetic! I know music in general is poetry, but had I only read the lyrics without the music I'd have thought it was very good poetry! Which is true, it is!
+
+My only issue is that some of the tracks seem a bit filler. We get such a strong start but then almost lose steam around the middle-end area. Thankfully [Forevermore](#10-forevermore) brings everything to a nice close.
+
+Overall, I really enjoyed this album. It was a new subgenre for me and I had a really good time exploring it.
 
 <script> // Image Pop-up
     function showImage(elemId, imgSrc) {
