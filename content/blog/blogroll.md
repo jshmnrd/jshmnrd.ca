@@ -24,7 +24,7 @@ This is my [blogroll](https://indieweb.org/blogroll), a collection of the blogs 
 
 I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too.
 
-<h2>Aditya Telange</h2><br>
+<h2>Aditya Telange</h2>
 <b>Website:</b> <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a><br>
 &emsp;&emsp;&emsp;<a href="#!" data-copy="https://adityatelange.in/index.xml">AdityaTelange.in/index.xml</a>
 &emsp;&emsp;<button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
