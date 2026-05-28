@@ -20,11 +20,33 @@ ShowWordCount: false
 layout: dev
 ---
 
+<style>
+  .post-content p.br-h2 {
+    font-weight: 700;
+    font-size: 24px;
+  }
+  .post-content p.br-h3 {
+    font-weight: 700;
+    font-size: 19px;
+  }
+</style>
+
 This is my [blogroll](https://indieweb.org/blogroll), a collection of the blogs I read regularly.
 
 I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too.
 
-<p class="h2">Aditya Telange</p>
+<p class="br-h2">Aditya Telange</p>
+<p>
+  <b>Website:</b>
+  <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a>
+  <br>&emsp;&emsp;&emsp;
+  <b>Feed</b>
+  <a href="#!" data-copy="https://adityatelange.in/index.xml">AdityaTelange.in/index.xml</a>
+  &emsp;&emsp;
+  <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">copy</button>
+</p>
+
+<p class="br-h3">Aditya Telange</p>
 <p>
   <b>Website:</b>
   <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a>
