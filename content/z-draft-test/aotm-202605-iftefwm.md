@@ -42,6 +42,23 @@ ShowWordCount: yes
     <img src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
 </p>
 
+<p class="h4">*Album Statistics</p>
+<table>
+    <tr>
+        <th>Released</th>
+        <th>Genre</th>
+        <th>Length</th>
+        <th>Label</th>
+    </tr>
+    <tr>
+        <td><span title="September 12, 2025">2025-09-12</span></td>
+        <td>Deathcore, symphonic deathcore, extreme metal</td>
+        <td>66 hours, 27 minutes</td>
+        <td>Century Media</td>
+    </tr>
+</table>
+<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
+
 <p class="h4">Album Statistics</p>
 <table>
     <tr>
