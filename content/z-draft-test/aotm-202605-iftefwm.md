@@ -25,6 +25,7 @@ ShowWordCount: yes
     <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<img class="inline" src="https://pub.jshmnrd.ca/w/svg/3001-ExplicitIcon.svg">
 </p>
 
+<div>
 <a class="copy-btn" href="https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw?si=jJ3w3EonSHGpAyjZVLHHyg" target="_blank">Spotify</a>&emsp;
 <a class="copy-btn" href="https://music.apple.com/us/album/i-feel-the-everblack-festering-within-me/1809986177" target="_blank">Apple Music</a>&emsp;
 <a class="copy-btn" href="https://music.youtube.com/playlist?list=OLAK5uy_lYRmaw3rp4ozS0tdQ6gQFBcDxxhIx0LJA" target="_blank">YouTube Music</a>&emsp;
@@ -33,6 +34,7 @@ ShowWordCount: yes
 <a class="copy-btn" href="https://lornashoreband.com/" target="_blank">Website</a>
 
 <img style="max-width:60%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj#center">
+</div>
 
 <p class="h2" style="text-align:center;">My Rating: 4.5/5
     <img src="https://pub.jshmnrd.ca/w/svg/2001-Star_Fill.svg">
@@ -52,7 +54,7 @@ ShowWordCount: yes
     <tr>
         <td><span title="September 12, 2025">2025-09-12</span></td>
         <td>Deathcore, symphonic deathcore, extreme metal</td>
-        <td>66 hours, 27 minutes</td>
+        <td>66 hrs, 27 mins</td>
         <td>Century Media</td>
     </tr>
     <tr>
