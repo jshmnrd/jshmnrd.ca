@@ -121,7 +121,7 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
     <span style="cursor:auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
 </details>
 
-<h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
+<h2 id="2-oblivion">2. Oblivion <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2><br>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 
 <p>Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review <a href="#5-glenwood">Glenwood</a> was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.</p>
