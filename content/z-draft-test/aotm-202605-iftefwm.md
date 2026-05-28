@@ -42,8 +42,13 @@ ShowWordCount: yes
     <img src="https://pub.jshmnrd.ca/w/svg/2003-Star_Half.svg">
 </p>
 
-<p class="h4">*Album Statistics</p>
 <table style="text-align:center;">
+    <tr>
+        <td><p class="h4">Album Statistics</p></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
     <tr>
         <th style="text-align:center;">Released</th>
         <th style="text-align:center;">Genre</th>
