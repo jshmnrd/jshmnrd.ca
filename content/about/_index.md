@@ -8,7 +8,7 @@ ShowBreadCrumbs: false
 
 I'm Joshua and this is my website.
 
-I am a 25 year old from Toronto, Canada. I'm a geek. I love movies, TV, Dungeons & Dragons and pretty much anything computer-related. My favourite food changes depending on when you ask me, but my mom's chicken casserole is always on the list.
+I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. My favourite food changes depending on when you ask me, but my mom's chicken casserole is always on the list.
 
 I enjoy tinkering and fiddling, that's how I taught myself Adobe Illustrator, a fact I'm quite proud of, but my crippling ADHD makes it difficult to learn new things. I know that's like a default statement for people in my age group, but it really is bad. They legally _cannot_ medicate me any more than I am already - I can't be prescribed a higher dose 😂
 (idk why I'm sharing this, btw...)
