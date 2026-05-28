@@ -52,10 +52,10 @@ ShowWordCount: yes
         <th width="20%" style="text-align:center;">Label</th>
     </tr>
     <tr>
-        <td><span title="September 12, 2025">2025-09-12</span></td>
-        <td>Deathcore, symphonic deathcore, extreme metal</td>
-        <td>66 hrs, 27 mins</td>
-        <td>Century Media</td>
+        <td width="20%" ><span title="September 12, 2025">2025-09-12</span></td>
+        <td width="40%" >Deathcore, symphonic deathcore, extreme metal</td>
+        <td width="20%" >66 hrs, 27 mins</td>
+        <td width="20%" >Century Media</td>
     </tr>
     <tr>
         <td colspan="4"><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
@@ -69,7 +69,7 @@ I feel as though I <s>was kept</s> kept myself in the dark for so long, this alb
 
 <p class="callout lt-red">
     <b>Disclaimer:</b><br>
-    Not everyone who reads this will enjoy this album, <u>and that's okay!</u> Metal is an acquired taste to begin with, but this especially is a tough pill for the "uninitiated".I'd encourage everyone who reads this to give it a shot - <i>who knows, you might like it!</i>
+    Not everyone who reads this will enjoy this album, <u>and that's okay!</u> Metal is an acquired taste to begin with, but this especially is a tough pill for the "uninitiated". I'd encourage everyone who reads this to give it a shot - <i>who knows, you might like it!</i>
 </p>
 
 ### Why did I pick this album?
