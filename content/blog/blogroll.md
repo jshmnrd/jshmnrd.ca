@@ -32,7 +32,7 @@ This is my [blogroll](https://indieweb.org/blogroll), a collection of the blogs 
 
 I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too.
 
-<p class="br-h2">⚡️ Aditya Telange</p>
+<p class="br-h2">Aditya Telange</p>
 <p>
   <b>Website:</b>
   <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a>
@@ -43,7 +43,7 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 </p>
 
-<p class="br-h2"><img class="inline2" src="https://arduin.io/favicon-square.png"> Arduin Findeis</p>
+<p class="br-h2">Arduin Findeis</p>
 <p>
   <b>Website:</b>
   <a href="https://arduin.io/" target="_blank">Arduin.io</a>
