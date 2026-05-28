@@ -1,5 +1,5 @@
 ---
-title: "🗞 Blogroll" 
+title: "Blogroll" 
 date: 2026-05-27
 tags: ["posts","lists","websites"]
 author: ["Joshua Maynard"]
