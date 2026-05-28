@@ -62,7 +62,7 @@ params:
     profileMode:
           enabled: true
           title: Joshua Maynard
-          subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related."
+          subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. Be sure to pet the bird & enjoy 😊"
           imageUrl: "jm-transparent.PNG"
           imageWidth: 160
           imageHeight: 160
