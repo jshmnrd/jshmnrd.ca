@@ -88,7 +88,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 <!--width="200" height="87"-->
 
 <p style="text-align:center;">
-<svg viewBox="0 0 400 174" width="70%" height="auto" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 174" width="50%" height="auto" xmlns="http://www.w3.org/2000/svg">
   <title>Lorna Shore Logo</title>
   <desc>
     Vectorized by Joshua Maynard
@@ -108,7 +108,7 @@ Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-dept
 @import url('https://fonts.googleapis.com/css2?family=Astloch:wght@400;700&display=swap');
 </style>
 
-<p>The outro to this song is friggin' <span title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
+<p>The outro to this song is friggin' <span title="GRODY" style="font-family:'Astloch','Atkinson Hyperlegible Next',sans-serif;font-weight:700;">grody</span> 🤘<br>Makes you want to put your head through the floor!</p>
 
 <img style="max-width:30%;" src="https://pub.jshmnrd.ca/w/img/3009-Headbanging.gif">
 
