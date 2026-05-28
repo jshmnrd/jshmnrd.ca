@@ -26,15 +26,15 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
 
 <ul>
   <li> <!-- Aditya Telange -->
-    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
-    &emsp;&emsp;
     <a href="https://adityatelange.in/" target="_blank">Aditya Telange</a>
+    &emsp;&emsp;
+    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
   </li>
 
   <li> <!-- Arduin Findeis -->
-    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
-    &emsp;&emsp;
     <a href="https://arduin.io/" target="_blank">Arduin Findeis</a>
+    &emsp;
+    <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">feed</button>
   </li>
 
   <li> <!-- James -->
