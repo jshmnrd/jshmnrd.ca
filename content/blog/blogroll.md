@@ -24,10 +24,12 @@ layout: dev
   .post-content p.br-h2 {
     font-weight: 700;
     font-size: 24px;
+    margin: 0;
   }
   .post-content p.br-h3 {
     font-weight: 700;
     font-size: 19px;
+    margin: 0;
   }
 </style>
 
