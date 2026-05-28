@@ -43,7 +43,7 @@ ShowWordCount: yes
 </p>
 
 <p class="h4">*Album Statistics</p>
-<table>
+<table style="text-align:center;">
     <tr>
         <th>Released</th>
         <th>Genre</th>
