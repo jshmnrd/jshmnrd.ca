@@ -126,8 +126,7 @@ Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
 
 <p>Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review <a href="#5-glenwood">Glenwood</a> was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.</p>
 
-<img style="max-width:50%;" src="https://cdn.mos.cms.futurecdn.net/RNkGDQtvnzgqJeASKPQN5k.jpg">
-
+<!--<img style="max-width:50%;" src="https://cdn.mos.cms.futurecdn.net/RNkGDQtvnzgqJeASKPQN5k.jpg">-->
 That melodic line is really beautiful. It conveys a sense of sadness & regret mixed with anger & frustration that really comes through in the jumps between the blastbeat verses and more melodic chorus. It makes me feel *exactly* what (I believe) the band wants the listener to feel: despair and remorse. And not for no reason!
 
 >We only know how to burn the forest, stain the ocean  
