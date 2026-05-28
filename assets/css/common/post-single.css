@@ -497,7 +497,7 @@ img.in-text {
 }
 
 img.inline {
-    height: 1em;
+    height: 0.5em;
     width: auto;
     vertical-align: -0.125em;
 }
