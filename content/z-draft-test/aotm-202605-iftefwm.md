@@ -45,10 +45,10 @@ ShowWordCount: yes
 <p class="h4">*Album Statistics</p>
 <table style="text-align:center;">
     <tr>
-        <th>Released</th>
-        <th>Genre</th>
-        <th>Length</th>
-        <th>Label</th>
+        <th style="text-align:center;">Released</th>
+        <th style="text-align:center;">Genre</th>
+        <th style="text-align:center;">Length</th>
+        <th style="text-align:center;">Label</th>
     </tr>
     <tr>
         <td><span title="September 12, 2025">2025-09-12</span></td>
@@ -56,8 +56,10 @@ ShowWordCount: yes
         <td>66 hours, 27 minutes</td>
         <td>Century Media</td>
     </tr>
+    <tr>
+        <td><small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small></td>
+    </tr>
 </table>
-<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
 
 <p class="h4">Album Statistics</p>
 <table>
