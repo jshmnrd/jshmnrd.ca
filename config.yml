@@ -59,11 +59,8 @@ params:
     # UseHugoToc: true
     comments: false
     math: true
-    homeInfoParams:
-          title: Joshua Maynard
-          content: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. Be sure to pet the bird & enjoy 😊"
     profileMode:
-          enabled: false
+          enabled: true
           title: Joshua Maynard
           subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. Be sure to pet the bird & enjoy 😊"
           imageUrl: "jm-transparent.PNG"
