@@ -2,11 +2,54 @@
 title: "Site Info"
 description: "Information about this website."
 layout: "dev"
-ShowBreadCrumbs: true
+ShowToc: false
 build:
   list: never
 ---
 
 # Site Info
 
-This is the website info.
+#### Summary
+| Topic                | Service      | Cost (/yr)      | Navigate                |
+|----------------------|--------------|-----------------|-------------------------|
+| **Site hosting**     | GitHub Pages | ```$ 0.00```   | [go](#hosting)          |
+| **Domain registrar** | Porkbun      | ```$13.00```   | [go](#domain-registrar) |
+| **Framework**        | Hugo         | ```$  0.00```   | [go](#framework)        |
+| **Theme**            | PaperMod     | ```$  0.00```   | [go](#theme)            |
+
+---
+
+## Hosting
+To host my site I use GitHub pages. It's completely free, so long as you don't mind ALL the code for your website being available to literally anyone. As a believer in FOSS I don't mind at all, besides I have nothing to hide!
+
+## Domain Registrar
+I use [Porkbun](https://porkbun.com) because they offer a lot of domain services for free, services other registrars charge extra for...
+- WHOIS privacy
+- SSL certificates
+- URL forwarding
+- Email forwarding
+- CLoudflare DNS management
+
+[[source](https://porkbun.com/#:~:text=Save%20Money)]
+
+## Framework
+My website uses [Hugo](https://gohugo.io), an open-source static site generator.
+
+I like Hugo most for it's speed. My website will build and deploy in less than 30 seconds and scores very high on PageSpeed Insights.
+
+<details style="cursor:pointer;">
+    <summary title="Click ▶ for image"><b>Desktop score: 100</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=desktop" target="_blank">Open Report ↗</a></summary>
+    <img alt="PageSpeed Insights Desktop Score. Performance: 100 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0003-PageSpeedInsights-20260528-224349-Desktop.png">
+</details>
+
+<details style="cursor:pointer;">
+    <summary title="Click ▶ for image"><b>Mobile score: 99.75</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=mobile" target="_blank">Open Report ↗</a></summary>
+    <img alt="PageSpeed Insights Desktop Score. Performance: 99 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0004-PageSpeedInsights-20260528-224349-Mobile.png">
+</details>
+
+<br>
+
+It's popularity also means there's lots of support available, and it's easy to Google questions and get quick answers.
+
+## Theme
+I was looking online for a template to use for my website and found [Pascal Michaillat](https://pascalmichaillat.org/)'s GitHub repo '[hugo-website](https://github.com/pmichaillat/hugo-website)', which is an academic-focused website template made from [Papermod](https://github.com/adityatelange/hugo-PaperMod/) by [Aditya Telange](https://adityatelange.in), which is itself a modification of the `[Paper](https://github.com/nanxiaobei/hugo-paper)' theme by [nanxiaobei](https://github.com/nanxiaobei). (wow that's a lot of hyperlinks!)
