@@ -2,6 +2,7 @@
 title: "Elements"
 layout: "dev"
 ---
+<h1>Elements</h1>
 <ul>
     <li>
         <a href="#text">Text</a>
