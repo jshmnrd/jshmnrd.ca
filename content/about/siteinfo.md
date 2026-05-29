@@ -12,9 +12,9 @@ build:
 <h4>Summary</h4>
 <table>
     <tr>
-        <th width="50%" colspan="2" style="text-align:center;">Section</th>
-        <th width="25%" style="text-align:center;">Cost</th>
-        <th width="25%" style="text-align:center;">Navigate</th>
+        <th width="50%" colspan="2">Section</th>
+        <th width="25%">Cost</th>
+        <th width="25%">Navigate</th>
     </tr>
     <tr>
         <td width="25%"><b>Site hosting</b></td>
