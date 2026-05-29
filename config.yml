@@ -61,7 +61,7 @@ params:
     math: true
     homeInfoParams:
           title: Joshua Maynard
-          subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. Be sure to pet the bird & enjoy 😊"
+          content: "I'm a geek from Toronto, Canada. I love movies, TV, D&D and pretty much anything computer-related. Be sure to pet the bird & enjoy 😊"
     profileMode:
           enabled: false
           title: Joshua Maynard
