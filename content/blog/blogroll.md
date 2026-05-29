@@ -5,12 +5,6 @@ tags: ["posts","lists","websites"]
 author: ["Joshua Maynard"]
 description: "My blogroll: a list of the blogs I read."
 summary: "My blogroll: a list of the blogs I read."
-#cover:
-    #image: "#"
-    #alt: "“title” by artist on website"
-    # src: #
-    #relative: true
-    #crop: "Center"
 editPost:
     URL: "https://pub.jshmnrd.ca/w/share/0001-blogroll.opml"
     Text: "OPML Download"
@@ -19,6 +13,7 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 layout: dev
 ---
+```UPDATED: 2026-05-27```
 
 <style>
   .post-content p.br-h2 {
