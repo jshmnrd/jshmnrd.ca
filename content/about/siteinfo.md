@@ -12,9 +12,9 @@ build:
 <h4>Summary</h4>
 <table>
     <tr>
-        <th width="50%" colspan="2" text-align="center">Section</th>
-        <th width="25%" text-align="center">Cost</th>
-        <th width="25%" text-align="center">Navigate</th>
+        <th width="50%" colspan="2" style="text-align:center;">Section</th>
+        <th width="25%" style="text-align:center;">Cost</th>
+        <th width="25%" style="text-align:center;">Navigate</th>
     </tr>
     <tr>
         <td width="25%"><b>Site hosting</b></td>
@@ -41,8 +41,6 @@ build:
         <td width="25%"><a class="copy-btn" href="#theme">Jump to section ↓</a></td>
     </tr>
 </table>
-
----
 
 ## Site Hosting
 To host my site I use GitHub pages. It's completely free, so long as you don't mind ALL the code for your website being available to literally anyone. As a believer in FOSS I don't mind at all, besides I have nothing to hide!
