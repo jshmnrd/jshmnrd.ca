@@ -1,9 +1,6 @@
 {{ define "main" }}
 
 <article class="post-single">
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
   <div class="post-content">
     {{ .Content }}
   </div>

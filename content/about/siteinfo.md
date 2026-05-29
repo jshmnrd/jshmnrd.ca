@@ -9,17 +9,42 @@ build:
 
 # Site Info
 
-#### Summary
-| Topic                | Service      | Cost (/yr)      | Navigate                |
-|----------------------|--------------|-----------------|-------------------------|
-| **Site hosting**     | GitHub Pages | ```$ 0.00```   | [go](#hosting)          |
-| **Domain registrar** | Porkbun      | ```$13.00```   | [go](#domain-registrar) |
-| **Framework**        | Hugo         | ```$  0.00```   | [go](#framework)        |
-| **Theme**            | PaperMod     | ```$  0.00```   | [go](#theme)            |
+<h4>Summary</h4>
+<table>
+    <tr>
+        <th width="50%" colspan="2">Section</th>
+        <th width="25%">Cost</th>
+        <th width="25%">Navigate</th>
+    </tr>
+    <tr>
+        <td width="25%"><b>Site hosting</b></td>
+        <td width="25%">GitHub Pages</td>
+        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><a class="copy-btn" href="#site-hosting">Jump to section ↓</a></td>
+    </tr>
+    <tr>
+        <td width="25%"><b>Domain registrar</b></td>
+        <td width="25%">Porkbun</td>
+        <td width="25%"><code>$13.00 </code>/yr</td>
+        <td width="25%"><a class="copy-btn" href="#domain-registrar">Jump to section ↓</a></td>
+    </tr>
+    <tr>
+        <td width="25%"><b>Framework</b></td>
+        <td width="25%">Hugo</td>
+        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><a class="copy-btn" href="#framework">Jump to section ↓</a></td>
+    </tr>
+    <tr>
+        <td width="25%"><b>Theme</b></td>
+        <td width="25%">PaperMod</td>
+        <td width="25%"><code>$ 0.00 </code>/yr</td>
+        <td width="25%"><a class="copy-btn" href="#theme">Jump to section ↓</a></td>
+    </tr>
+</table>
 
 ---
 
-## Hosting
+## Site Hosting
 To host my site I use GitHub pages. It's completely free, so long as you don't mind ALL the code for your website being available to literally anyone. As a believer in FOSS I don't mind at all, besides I have nothing to hide!
 
 ## Domain Registrar
