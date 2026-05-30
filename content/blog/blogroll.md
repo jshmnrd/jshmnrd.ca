@@ -14,6 +14,8 @@ ShowWordCount: false
 layout: dev
 ---
 ```UPDATED: 2026-05-27```
+# Blogroll
+^[OPML Download](https://pub.jshmnrd.ca/w/share/0001-blogroll.opml)^
 
 <style>
   .post-content p.br-h2 {
