@@ -13,13 +13,9 @@ disableAnchoredHeadings: false
 ShowWordCount: false
 layout: dev
 ---
-<h1>Blogroll</h1>
-<table>
-  <tr width="100%">
-    <td width="50%"><code>Updated: 2026-05-27</code></td>
-    <td width="50%" style="text-align:right;"><a href="https://pub.jshmnrd.ca/w/share/0001-blogroll.opml" target="_blank">OPML Download</a></td>
-  </tr>
-</table>
+<sup><code>Updated: 2026-05-27</code></sup>
+
+# Blogroll
 
 <br>
 
@@ -33,7 +29,7 @@ layout: dev
 
 This is my [blogroll](https://indieweb.org/blogroll), a collection of the blogs I read regularly.
 
-I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too.
+I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reader. You can check out my [blogroll there](https://mire.meadow.cafe/u/jshmnrd/blogroll) too. Here's an <a href="https://pub.jshmnrd.ca/w/share/0001-blogroll.opml" target="_blank">OPML download</a> as well.
 
 <p class="br-h2">Aditya Telange</p>
 <p>
