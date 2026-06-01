@@ -21,16 +21,16 @@
     */
 
     /* dark colours 2 */
-    --theme: rgb(18, 18, 18);
-    --entry: rgb(37, 37, 37);
+    --theme: rgb(37, 37, 37);
+    --entry: rgb(18, 18, 18);
     --primary: rgb(255, 255, 255);
     --secondary: rgb(189, 189, 189); 
     --tertiary: rgb(79, 79, 79);
     --content: rgb(228, 228, 228);
-    --code-block-bg: rgb(37, 37, 37);
+    --code-block-bg: rgb(18, 18, 18);
     --code-bg: rgb(57, 57, 57);
     --border: rgb(57, 57, 57);
-    --profile-button: rgb(18, 18, 18);
+    --profile-button: rgb(37, 37, 37);
     --opposite: rgb(255, 255, 255);
 
     /* light colours
