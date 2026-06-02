@@ -20,7 +20,7 @@
     --profile-button:   button on profile mode
     */
 
-    /* dark colours 2 */
+    /* dark colours 2 
     --theme: rgb(57, 57, 57);
     --entry: rgb(37, 37, 37);
     --primary: rgb(255, 255, 255);
@@ -32,8 +32,9 @@
     --border: rgb(18, 18, 18);
     --profile-button: rgb(57, 57, 57);
     --opposite: rgb(255, 255, 255);
+    */
 
-    /* light colours
+    /* light colours */
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -45,7 +46,7 @@
     --border: rgb(238, 238, 238);
     --profile-button: rgb(214, 214, 214);
     --opposite: rgb(0, 0, 0);
-    */
+    
 
     /* dark colours
     --theme: rgb(29, 30, 32);
