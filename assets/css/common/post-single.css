@@ -418,7 +418,7 @@
 }
 
 .paginav a:hover {
-    background: var(--lightcolor);
+    background: var(--darkcolor);
     color: var(--lightcolor);
 }
 
