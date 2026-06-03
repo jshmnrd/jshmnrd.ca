@@ -21,17 +21,18 @@
     */
 
     /* dark colours 2 */
-    --theme: #F60000; /* post background */
-    --entry: #FF8C00; /* post list entry bg */
-    --primary: #FFEE00; /* home text & icons + link text */
-    --secondary: #4DE94C; /* footer text */
-    --tertiary: #3783FF;
-    --content: #4815AA; /* post/page body text */
-    --code-block-bg: #00ffff;
+    --theme: #292929; /* post background */
+    --entry: #444444; /* post list entry bg */
+    --primary: #E0E0E0; /* home text & icons + link text */
+    --secondary: #B0B0B0; /* footer text */
+    --tertiary: #444444;
+    --content: #E0E0E0; /* post/page body text */
+    --code-block-bg: #444444;
     --code-bg: #121212; /* home & non-post page bg */
-    --border: #9fb853;
-    --profile-button: #0a1948; /* home buttons */
-    --opposite: #0000ff;
+    --border: #565656;
+    --profile-button: #444444; /* home buttons */
+    --opposite: #E0E0E0;
+    --gray: #B0B0B0;
 
     /* light colours
     --theme: rgb(255, 255, 255);
@@ -45,6 +46,7 @@
     --border: rgb(238, 238, 238);
     --profile-button: rgb(214, 214, 214);
     --opposite: rgb(0, 0, 0);
+    --gray: rgb(165, 165, 165);
     */
     
 
@@ -60,9 +62,9 @@
     --border: rgb(51, 51, 51);
     --profile-button: rgb(33, 34, 37);
     --opposite: rgb(255, 255, 255);
+    --gray: rgb(165, 165, 165);
     */
 
-    --gray: rgb(165, 165, 165);
     --darkcolor: #3d9268; /* was #6a7ba2 */
     --lightcolor: #d4ede1; /* was #cbd1de */
     --bottle: #0c1d15;
