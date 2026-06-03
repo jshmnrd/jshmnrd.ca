@@ -95,7 +95,7 @@ pre:hover .copy-code {
     border-radius: var(--radius);
 }
 .callout.green {
-    color: var(--lightcolor);
+    color: var(--lightcolor); 
     border: 2px solid var(--bottle);
     background-color: var(--darkcolor);
 }
