@@ -8,29 +8,29 @@
     --radius: 8px;
 
     /* <--KEY-------->
-    --theme:            idk tbh...
-    --entry:            post background
-    --primary:          main/heading text color
+    --theme:            post background
+    --entry:            post list entry background
+    --primary:          home text & icons + link text
     --secondary:        footer text color & return-to-top arrow
-    --tertiary:         return-to-top circle
-    --content:          post/page/body text color
+    --tertiary:         return-to-top circle, tags page button background
+    --content:          post/page body text color
     --code-block-bg:    code block background
-    --code-bg:          main website background
+    --code-bg:          home & non-post page background
     --border:           post border
     --profile-button:   button on profile mode
     */
 
     /* dark colours 2 */
-    --theme: #292929; /* post background */
-    --entry: #444444; /* post list entry bg */
-    --primary: #E0E0E0; /* home text & icons + link text */
-    --secondary: #B0B0B0; /* footer text */
+    --theme: #292929;
+    --entry: #444444;
+    --primary: #E0E0E0;
+    --secondary: #B0B0B0;
     --tertiary: #444444;
-    --content: #E0E0E0; /* post/page body text */
+    --content: #E0E0E0;
     --code-block-bg: #444444;
-    --code-bg: #121212; /* home & non-post page bg */
+    --code-bg: #121212;
     --border: #565656;
-    --profile-button: #444444; /* home buttons */
+    --profile-button: #444444;
     --opposite: #E0E0E0;
     --gray: #B0B0B0;
 
