@@ -6,6 +6,7 @@ ShowToc: true
 build:
   list: never
 ---
+<small><code>Updated: 2026-06-02</code></small>
 
 # Site Info
 
@@ -15,6 +16,12 @@ build:
         <th width="50%" colspan="2">Section</th>
         <th width="25%">Cost</th>
         <th width="25%">Navigate</th>
+    </tr>
+    <tr>
+        <td width="25%"><b>Analytics</b></td>
+        <td width="25%">Cabin</td>
+        <td width="25%"><code>$ 0.00</code> /yr</td>
+        <td width="25%"><a class="copy-btn" href="#analytics">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Site hosting</b></td>
@@ -41,6 +48,11 @@ build:
         <td width="25%"><a class="copy-btn" href="#theme">Jump to section ↓</a></td>
     </tr>
 </table>
+
+## Analytics
+For analytics, I use [Cabin](https://withcabin.com/), a privacy-focused alternative to Google Analytics.
+
+For more info on how Cabin collects analytics, please visit [Cabin's privacy page](https://withcabin.com/privacy/jshmnrd.ca).
 
 ## Site Hosting
 To host my site I use GitHub pages. It's completely free, so long as you don't mind ALL the code for your website being available to literally anyone. As a believer in FOSS I don't mind at all, besides I have nothing to hide!
