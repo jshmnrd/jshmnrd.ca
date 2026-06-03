@@ -14,6 +14,6 @@
 }
 
 .terms-tags a:hover {
-    background: var(--darkcolor); /* was lightcolor */
+    background: var(--button-hover); /* was lightcolor */
 }
 
