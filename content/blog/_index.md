@@ -6,7 +6,7 @@ ShowBreadCrumbs: false
 
 <h1>🖊 Blog</h1>
 <p>
-    This page is just for quick updates.<br>
+    This page is just for quick updates. Check out my <a href="blogroll">blogroll</a><br>
     <button title="Copy RSS feed URL" class="copy-btn" data-copy="https://jshmnrd.ca/index.xml">Subscribe to my RSS!</button>
 </p>
 

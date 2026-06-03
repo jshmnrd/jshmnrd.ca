@@ -12,6 +12,8 @@ showToc: false
 disableAnchoredHeadings: false
 ShowWordCount: false
 layout: dev
+build:
+  list: never
 ---
 <sup><code>Updated: 2026-05-27</code></sup>
 
