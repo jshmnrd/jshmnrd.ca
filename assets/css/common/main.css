@@ -78,11 +78,11 @@ pre:hover .copy-code {
 
 ::selection { /* WebKit/Blink Browsers */
   background: var(--darkcolor);
-  color: var(--theme);
+  color: var(--lightcolor);
 }
 ::-moz-selection { /* Gecko Browsers */
   background: var(--darkcolor);
-  color: var(--theme);
+  color: var(--lightcolor);
 }
 
 /* Notion-Like Callouts. Original: https://mighil.com/notion-like-callouts */

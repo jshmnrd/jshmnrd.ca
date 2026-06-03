@@ -118,10 +118,12 @@
 }
 
 .post-content a::selection {
-    text-decoration: underline 2px solid var(--code-bg);
+    text-decoration: underline 2px solid var(--lightcolor);
+    color: var(--lightcolor);
 }
 .post-content a::-moz-selection {
-    text-decoration: underline 2px solid var(--code-bg);
+    text-decoration: underline 2px solid var(--lightcolor);
+    color: var(--lightcolor);
 }
 
 .post-content a:hover {
