@@ -21,16 +21,16 @@
     */
 
     /* dark colours 2 */
-    --theme: #F60000;
-    --entry: #FF8C00;
-    --primary: #FFEE00;
-    --secondary: #4DE94C; 
+    --theme: #F60000; /* post background */
+    --entry: #FF8C00; /* post list entry bg */
+    --primary: #FFEE00; /* home text & icons + link text */
+    --secondary: #4DE94C; /* footer text */
     --tertiary: #3783FF;
-    --content: #4815AA;
+    --content: #4815AA; /* post/page body text */
     --code-block-bg: #00ffff;
-    --code-bg: #ff00e6;
+    --code-bg: #121212; /* home & non-post page bg */
     --border: #9fb853;
-    --profile-button: #0a1948;
+    --profile-button: #0a1948; /* home buttons */
     --opposite: #0000ff;
 
     /* light colours
