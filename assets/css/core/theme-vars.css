@@ -20,21 +20,20 @@
     --profile-button:   button on profile mode
     */
 
-    /* dark colours 2 
-    --theme: rgb(57, 57, 57);
-    --entry: rgb(37, 37, 37);
-    --primary: rgb(255, 255, 255);
-    --secondary: rgb(189, 189, 189); 
-    --tertiary: rgb(79, 79, 79);
-    --content: rgb(228, 228, 228);
-    --code-block-bg: rgb(37, 37, 37);
-    --code-bg: rgb(18, 18, 18);
-    --border: rgb(18, 18, 18);
-    --profile-button: rgb(57, 57, 57);
-    --opposite: rgb(255, 255, 255);
-    */
+    /* dark colours 2 */
+    --theme: #F60000;
+    --entry: #FF8C00;
+    --primary: #FFEE00;
+    --secondary: #4DE94C; 
+    --tertiary: #3783FF;
+    --content: #4815AA;
+    --code-block-bg: #00ffff;
+    --code-bg: #ff00e6;
+    --border: #9fb853;
+    --profile-button: #0a1948;
+    --opposite: #0000ff;
 
-    /* light colours */
+    /* light colours
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -46,6 +45,7 @@
     --border: rgb(238, 238, 238);
     --profile-button: rgb(214, 214, 214);
     --opposite: rgb(0, 0, 0);
+    */
     
 
     /* dark colours
