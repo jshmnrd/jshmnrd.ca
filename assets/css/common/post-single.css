@@ -413,11 +413,13 @@
 }
 
 .post-tags a:hover {
-    background: var(--lightcolor); 
+    background: var(--darkcolor); 
+    color: var(--lightcolor);
 }
 
 .paginav a:hover {
     background: var(--lightcolor);
+    color: var(--lightcolor);
 }
 
 .share-buttons {

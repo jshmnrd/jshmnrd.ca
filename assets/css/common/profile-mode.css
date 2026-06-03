@@ -67,19 +67,19 @@ a.copy-btn2 {
 }
 
 .button:hover {
-    background: var(--lightcolor);
-    color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+    background: var(--darkcolor);
+    color: var(--lightcolor); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
 
 .copy-btn:hover {
-    background: var(--lightcolor);
-    color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+    background: var(--darkcolor);
+    color: var(--lightcolor); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
 
 a.copy-btn:hover {
-    background: var(--lightcolor);
+    background: var(--darkcolor);
     text-decoration: none;
-    color: var(--profile-button); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
+    color: var(--lightcolor); /* only activate when forcing dark mode through css  (assets > css > core > theme-vars.css) */
 }
 
 .hide {
