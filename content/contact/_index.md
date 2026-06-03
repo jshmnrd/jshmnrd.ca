@@ -20,7 +20,7 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
   background: var(--entry);
   margin: 0px 0px 10px 10px;
   padding: 2px 5px 2px 5px;
-  color: red;
+  color: #f00;
 }
 </style>
 <!-- Guestbook Form -->
