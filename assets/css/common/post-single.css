@@ -512,6 +512,12 @@ svg.inline {
     vertical-align: -0.125em;
 }
 
+svg.intext {
+    height: var(--h1size);
+    width: auto;
+    vertical-align: 0.1em;
+}
+
 img.star { /* For star ratings on film reviews */
     display: inline;
     max-height: 24px;

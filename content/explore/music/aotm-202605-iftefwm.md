@@ -23,7 +23,7 @@ ShowWordCount: yes
 *My album of the month in May 2026 was...*
 
 <p class="h1">
-    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<svg class="inline" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><defs><mask id="a"><path d="M115.167 199.833V312H291.5v-50.333H172.333V221.5h69.834v-49.833h-69.834v-33.834h117.834V87.667h-175z"/></mask></defs><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" mask="url(#a)"/><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" fill="var(--primary)"/></svg>
+    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<svg class="intext" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><defs><mask id="a"><path d="M115.167 199.833V312H291.5v-50.333H172.333V221.5h69.834v-49.833h-69.834v-33.834h117.834V87.667h-175z"/></mask></defs><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" mask="url(#a)"/><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" fill="var(--primary)"/></svg>
 </p>
 
 <div>
