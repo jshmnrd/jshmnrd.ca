@@ -23,7 +23,7 @@ ShowWordCount: true
 *My album of the month in May 2026 was...*
 
 <p class="h1">
-    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<svg class="intexth1" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><defs><mask id="a"><path d="M115.167 199.833V312H291.5v-50.333H172.333V221.5h69.834v-49.833h-69.834v-33.834h117.834V87.667h-175z"/></mask></defs><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" mask="url(#a)"/><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" fill="var(--primary)"/></svg>
+    <i>I Feel The Everblack Festering Within Me</i> by Lorna Shore&emsp;<svg class="intexth1" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><defs><mask id="one"><path d="M115.167 199.833V312H291.5v-50.333H172.333V221.5h69.834v-49.833h-69.834v-33.834h117.834V87.667h-175z"/></mask></defs><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" mask="url(#one)"/><path d="M0 200v200h400V0H0zm290.167-87.25v25.083H172.333v33.834h69.834V221.5h-69.834v40.167H291.5V312H115.167V87.667h175z" fill="var(--primary)"/></svg>
 </p>
 
 <div>
@@ -37,7 +37,7 @@ ShowWordCount: true
 <img style="max-width:60%;" alt="Album Cover: “I Feel The Everblack Festering Within Me” by Lorna Shore" src="https://yt3.googleusercontent.com/xYBAyRW2uzeA3gB5gT4dbir-LHUVxe4ZObmYWrFHkUaYOPd_abOd-UP67apJsTWdnc5FZyUiyml2TWQZ=w544-h544-l90-rj#center">
 </div>
 
-<p class="h2" style="text-align:center;">My Rating: 4/5
+<p style="text-align:center;">My Rating: 4/5
     &nbsp;
     <svg class="inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><clipPath id="b" clipPathUnits="userSpaceOnUse"><path d="M0 0h50v100H0z"/></clipPath><clipPath id="c" clipPathUnits="userSpaceOnUse"><path d="M50 0h50v100H50z"/></clipPath><path d="m93.516 36.188-29.914-.555-9.77-28.277c-1.257-3.636-6.402-3.636-7.66 0l-9.77 28.281-29.913.555c-3.852.07-5.442 4.965-2.367 7.285l23.875 18.031-8.72 28.621c-1.12 3.684 3.044 6.707 6.2 4.504l24.527-17.137 24.527 17.137c3.156 2.203 7.32-.82 6.2-4.504l-8.72-28.62 23.875-18.032c3.07-2.32 1.48-7.215-2.367-7.285z" transform="translate(5 5.8)scale(.899)" id="a"/></defs><use href="#a" clip-path="url(#b)" fill="var(--left-color, var(--darkcolor))"/><use href="#a" clip-path="url(#c)" fill="var(--right-color, var(--darkcolor))"/><use href="#a" fill="none" stroke="var(--stroke-color, var(--code-bg))" stroke-width="6" stroke-linejoin="round" vector-effect="non-scaling-stroke"/></svg>
     &nbsp;
