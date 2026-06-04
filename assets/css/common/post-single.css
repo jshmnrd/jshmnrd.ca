@@ -507,7 +507,7 @@ img.inline {
 }
 
 svg.inline {
-    height: 1em;
+    height: var(--h1size);
     width: auto;
     vertical-align: -0.125em;
 }
