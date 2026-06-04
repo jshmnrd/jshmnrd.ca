@@ -495,12 +495,12 @@ h1>a>svg {
     display: inline;
 }
 
-.post-content img.in-text {
+img.in-text {
     display: inline;
     margin: auto;
 }
 
-.post-content img.inline {
+img.inline {
     height: 0.5em;
     width: auto;
     vertical-align: 0.1em;
@@ -524,7 +524,7 @@ h1>a>svg {
     vertical-align: 0em;
 }
 
-.post-content img.star { /* For star ratings on film reviews */
+img.star { /* For star ratings on film reviews */
     display: inline;
     max-height: 24px;
     margin: auto;
