@@ -515,7 +515,7 @@ img.inline {
 .post-content svg.intext {
     height: 1em;
     width: auto;
-    vertical-align: -1em;
+    vertical-align: -0.5em;
 }
 
 .post-content svg.intexth1 {
