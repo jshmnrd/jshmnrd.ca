@@ -619,9 +619,15 @@ mark a {
 }
 
 .post-title {
-  display: flex;
-  align-items: center;
-  gap: 0.35em;
+  display: block;
+}
+
+.post-title-emoji {
+  display: inline-block;
+  margin-right: 0.25em;
+  line-height: 1;
+  vertical-align: -0.08em;
+  font-size: 0.85em;
 }
 
 .post-title-emoji {
