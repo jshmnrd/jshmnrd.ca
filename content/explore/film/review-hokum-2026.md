@@ -2,22 +2,11 @@
 title: "🐰 Film Review: Hokum (2026)" 
 date: 2026-06-04
 tags: ["posts","film review","film","review"]
-author: ["Joshua Maynard"]
 description: "My review of Damian McCarthy's 2026 film 'Hokum'."
 summary: "My review of Damian McCarthy's 2026 film 'Hokum'."
-#cover:
-    #image: "#"
-    #alt: ""
-    #relative: true
-    #crop: "Center"
 editPost:
     URL: "https://letterboxd.com/jshmnrd/film/hokum/"
     Text: "My Review on Letterboxd"
-showToc: false
-TocOpen: false
-disableAnchoredHeadings: false
-ShowWordCount: true
-#GitHub: https://github.com/jshmnrd/hugo/tree/main/content/explore/film/review-hokum-2026.md
 layout: "review"
 rating: 4
 review_links:

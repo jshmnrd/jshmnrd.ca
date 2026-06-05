@@ -45,7 +45,7 @@ params:
     ShowShareButtons: true
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: true
+    disableAnchoredHeadings: false
     ShowRssButtonInSectionTermList: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
