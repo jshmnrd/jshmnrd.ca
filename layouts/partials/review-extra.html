@@ -1,0 +1,22 @@
+{{ if or .Params.rating .Params.review_links }}
+<div class="review-extra">
+
+  {{ with .Params.rating }}
+    <div class="review-rating" aria-label="Rating: {{ . }} out of 5">
+      {{ partial "stars.html" . }}
+      <span class="rating-number">{{ . }}/5</span>
+    </div>
+  {{ end }}
+
+  {{ with .Params.review_links }}
+    <div class="review-links">
+      {{ range . }}
+        <a class="review-button" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+          {{ .name }}
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</div>
+{{ end }}
