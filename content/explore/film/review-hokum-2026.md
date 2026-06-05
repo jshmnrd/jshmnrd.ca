@@ -77,7 +77,7 @@ ShowWordCount: true
 </details>
 
 ## Initial Thoughts
-<p class="callout">My thoughts on the film at my first viewing - written immediately after watching. [Posted on my Letterboxd](https://letterboxd.com/jshmnrd/film/hokum/).</p>
+<p class="callout">My thoughts on the film at my first viewing - written immediately after watching. <a href="https://letterboxd.com/jshmnrd/film/hokum/" target="_blank">Posted on my Letterboxd</a>.</p>
 
 I thought the scares in this film were simple but well executed and effective. Not just cheap jumpscares like a lot of horror movies lately.
 
