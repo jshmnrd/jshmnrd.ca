@@ -597,7 +597,7 @@ mark a {
 
 .review-button {
   display: inline-block;
-  padding: 3px 7px 3px 7px;
+  padding: 4px 7px 4px 7px;
   margin: 6px 12px 6px 0px;
   border-radius: var(--radius);
   background: var(--profile-button);
