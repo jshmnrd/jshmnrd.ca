@@ -4,7 +4,10 @@
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <h1 class="post-title entry-hint-parent">
-      {{ .Title }}
+      {{ with .Params.emoji }}
+        <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
+      {{ end }}
+      <span>{{ .Title }}</span>
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="42" viewBox="0 -960 960 960" fill="currentColor">

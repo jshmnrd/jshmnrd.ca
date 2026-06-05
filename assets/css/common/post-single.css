@@ -617,3 +617,15 @@ mark a {
   background: var(--darkcolor);
   color: var(--lightcolor);
 }
+
+.post-title {
+  display: flex;
+  align-items: center;
+  gap: 0.35em;
+}
+
+.post-title-emoji {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
