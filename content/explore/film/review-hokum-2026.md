@@ -1,5 +1,5 @@
 ---
-title: "Film Review: Hokum (2026)"
+title: "🐰 Film Review: Hokum (2026)"
 emoji: "🐰"
 date: 2026-06-04
 tags: ["posts","film review","film","review"]
