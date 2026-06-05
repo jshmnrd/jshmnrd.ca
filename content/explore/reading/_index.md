@@ -3,7 +3,7 @@ title: "Reading"
 description: "Reading-related posts"
 summary: "Posts in this page are all reading-related."
 ShowBreadCrumbs: true
-#date: 2026-03-28
+disableAnchoredHeadings: true
 hidemeta: true
 cover:
     image: "https://pub.jshmnrd.ca/w/img/4001-Library.gif"

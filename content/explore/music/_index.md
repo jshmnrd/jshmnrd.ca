@@ -3,7 +3,7 @@ title: "Music"
 description: "Music-related posts."
 summary: "Posts in this page are all music-related."
 ShowBreadCrumbs: true
-#date: 2026-03-29
+disableAnchoredHeadings: true
 hidemeta: true
 cover:
   image: "https://pub.jshmnrd.ca/w/img/3001-ExtraordinaryAttorneyWoo.gif"

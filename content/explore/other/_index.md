@@ -3,7 +3,7 @@ title: "Other Stuff"
 description: "Posts related to other/random topics"
 summary: "Posts in this page don't fit in any of the above topics."
 ShowBreadCrumbs: true
-#date: 2026-03-01
+disableAnchoredHeadings: true
 hidemeta: true
 cover:
     image: "https://pub.jshmnrd.ca/w/img/5001-ChillOfTheWild.gif"
