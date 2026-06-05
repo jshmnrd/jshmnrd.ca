@@ -1,22 +1,26 @@
 {{ if or .Params.rating .Params.review_links }}
 <div class="review-extra">
 
-  {{ with .Params.rating }}
-    <div class="review-rating" aria-label="Rating: {{ . }} out of 5">
-      <span class="rating-number">{{ . }}/5</span>
-      {{ partial "stars.html" . }}
-    </div>
-  {{ end }}
+  <div class="review-topline">
 
-  {{ with .Params.review_links }}
-    <div class="review-links">
-      {{ range . }}
-        <a class="review-button" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
-          {{ .name }}
-        </a>
-      {{ end }}
-    </div>
-  {{ end }}
+    {{ with .Params.rating }}
+      <div class="review-rating" aria-label="Rating: {{ . }} out of 5">
+        <span class="rating-number">{{ . }}/5</span>
+        {{ partial "stars.html" . }}
+      </div>
+    {{ end }}
+
+    {{ with .Params.review_links }}
+      <div class="review-links">
+        {{ range . }}
+          <a class="review-button" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+            {{ .name }}
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </div>
 
 </div>
 {{ end }}
