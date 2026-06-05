@@ -16,13 +16,6 @@ I enjoy tinkering and fiddling, that's how I taught myself Adobe Illustrator, a 
 
 I used to say I was bilingual, having been in French Immersion throughout primary and secondary school & graduating with a 'French Immersion Seal' on my diploma. I don't say this anymore. Now I feel I sound like a toddler when attempting to speak French.
 
----
-
-#### Making this website
-I made this website for fun, and to use my domain for something. It's made using [Hugo](https://gohugo.io) & a theme called [Papermod](https://github.com/adityatelange/hugo-PaperMod/) by Aditya Telange. I was introduced to both of these by [Pascal Michaillat](https://pascalmichaillat.org/), who I don't know personally, but when I was googling a free template for a GitHub pages website, his repo [hugo-website](https://github.com/pmichaillat/hugo-website) came up as a result. Credit to all 3 of these, and thank you!
-
-
-
 <p class="btns">
     <a href="https://notbyai.fyi/" target="_blank"><img class="btn" alt="created by a human, not by AI (notbyai.fyi design)" title="My site is NOT created with any AI!" src="https://pub.jshmnrd.ca/w/svg/5001-NotByAI_White.svg"></a>
 </p>
