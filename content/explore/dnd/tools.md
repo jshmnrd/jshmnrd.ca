@@ -1,22 +1,15 @@
 ---
-title: "🛠 Dungeons & Dragons Tools" 
+title: "Dungeons & Dragons Tools"
+emoji: "🛠"
 date: 2026-04-11
 tags: ["posts","dnd","websites","resources","tools"]
-author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
-#cover:
-    #image: "https://pub.jshmnrd.ca/w/img/1003-EnvarStudio_OrnnsForge.jpg"
-    #alt: "“Ornn's Forge” by Envar Studio on Artstation"
-    #relative: true
-    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/tools"
     Text: "version 01"
 showToc: true
-disableAnchoredHeadings: false
 ShowPostNavLinks: false
-hidemeta: false
 ---
 
 ---

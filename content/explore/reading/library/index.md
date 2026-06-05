@@ -1,23 +1,14 @@
 ---
-title: "📚 Library"
+title: "Library"
+emoji: "📚"
 date: 2026-05-12
 tags: ["posts","lists","books"]
-author: ["Joshua Maynard"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
-#cover:
-    #image: "https://pub.jshmnrd.ca/w/img/4002-MaethaveeKayE.jpg"
-    #alt: "“Celestial Library : Arias Rune” by Maethavee.Kay'E on Artstation"
-    #relative: true
-    #crop: "Smart"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/reading/library"
     Text: "version 02"
-showToc: false
-disableAnchoredHeadings: false
-ShowBreadCrumbs: true
-hidemeta: false
-
+ShowPostNavLinks: false
 ---
 
 This is my library. I keep it up to date as best I can, but the most up-to-date list is on my [Hardcover.app profile](https://hardcover.app/@jshmnrd?referrer_id=98561).

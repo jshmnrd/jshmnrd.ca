@@ -1,15 +1,10 @@
 ---
-title: "📕 Dungeons & Dragons Books" 
+title: "Dungeons & Dragons Books"
+emoji: "📕"
 date: 2026-04-18
 tags: ["posts","dnd","books","resources"]
-author: ["Joshua Maynard"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
-#cover:
-    #image: "https://pub.jshmnrd.ca/w/img/1002-AndreasRocha_ReadersHall.jpg"
-    #alt: "“Reader's Hall” by Andreas Rocha on Artstation"
-    #relative: true
-    #crop: "Center"
 editPost:
     URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/books"
     Text: "version 01"
@@ -17,7 +12,6 @@ showToc: true
 TocOpen: true
 disableAnchoredHeadings: false
 ShowPostNavLinks: false
-hidemeta: false
 ---
 
 ---
