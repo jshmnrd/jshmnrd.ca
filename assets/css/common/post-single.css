@@ -603,7 +603,7 @@ mark a {
   background: var(--profile-button);
   color: var(--content);
   text-decoration: none;
-  line-height: 1;
+  /*line-height: 1;*/
 }
 
 .review-button:hover {
