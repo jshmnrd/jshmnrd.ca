@@ -5,7 +5,7 @@
 
     {{ with .Params.rating }}
       <div class="review-rating" aria-label="Rating: {{ . }} out of 5">
-        <span class="rating-number">{{ . }}/5</span>
+        <span class="rating-number"><b>My Rating:</b> {{ . }}/5</span>
         {{ partial "stars.html" . }}
       </div>
     {{ end }}
