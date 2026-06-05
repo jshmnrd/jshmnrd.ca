@@ -2,6 +2,7 @@
 title: "Contact"
 description: "Contact me"
 ShowBreadCrumbs: false
+disableAnchoredHeadings: true
 ---
 
 # Contact Me

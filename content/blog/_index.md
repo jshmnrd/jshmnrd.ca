@@ -2,6 +2,7 @@
 title: "Blog"
 description: "My Blog"
 ShowBreadCrumbs: false
+disableAnchoredHeadings: true
 ---
 
 <h1>🖊 Blog</h1>
