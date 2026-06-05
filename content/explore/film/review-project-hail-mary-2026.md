@@ -1,5 +1,6 @@
 ---
-title: "🪨 Film Review: Project Hail Mary (2026)" 
+title: "Film Review: Project Hail Mary (2026)"
+emoji: "🪨"
 date: 2026-05-11
 tags: ["posts","film review","film","review"]
 description: "My review of Phil Lord's 2026 film 'Project Hail Mary'."

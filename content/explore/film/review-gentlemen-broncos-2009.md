@@ -1,5 +1,6 @@
 ---
-title: "📝 Film Review: Gentlemen Broncos (2009)" 
+title: "Film Review: Gentlemen Broncos (2009)"
+emoji: "📝"
 date: 2026-05-18
 tags: ["posts","film review","film","review"]
 description: "My review of Jared Hess' 2009 film 'Gentlemen Broncos'."

@@ -1,5 +1,6 @@
 ---
-title: "🏯 Film Review: Emperor (2012)" 
+title: "Film Review: Emperor (2012)"
+emoji: "🏯"
 date: 2026-04-25
 tags: ["posts","film review","film","review"]
 description: "My review of Emperor (2012)"

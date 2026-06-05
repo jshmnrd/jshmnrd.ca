@@ -1,5 +1,6 @@
 ---
-title: "🏨 Film Review: The Grand Budapest Hotel (2014)" 
+title: "Film Review: The Grand Budapest Hotel (2014)"
+emoji: "🏨"
 date: 2026-04-12
 tags: ["posts","film review","film","review"]
 description: "My review of Wes Anderson's 2014 film 'The GRand Budapest Hotel'."
