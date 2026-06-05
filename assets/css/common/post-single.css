@@ -597,16 +597,16 @@ mark a {
 
 .review-button {
   display: inline-block;
-  padding: 0.45rem 0.8rem;
-  border-radius: 0.45rem;
-  background: var(--code-bg);
+  padding: 1px 7px 1px 7px;
+  margin: 6px 12px 6px 0px;
+  border-radius: var(--radius);
+  background: var(--profile-button);
   color: var(--content);
   text-decoration: none;
-  font-weight: 700;
   line-height: 1;
 }
 
 .review-button:hover {
-  background: var(--theme);
-  color: var(--entry);
+  background: var(--darkcolor);
+  color: var(--lightcolor);
 }

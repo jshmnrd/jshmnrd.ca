@@ -1,20 +1,24 @@
 {{ $rating := float . }}
+{{ $ratingHalfUnits := int (math.Round (mul $rating 2)) }}
 
 <div class="stars">
   {{ range seq 1 5 }}
     {{ $star := . }}
+    {{ $starFullUnits := mul $star 2 }}
+    {{ $starHalfUnits := sub $starFullUnits 1 }}
+
     {{ $left := "var(--theme)" }}
     {{ $right := "var(--theme)" }}
 
-    {{ if ge $rating $star }}
+    {{ if ge $ratingHalfUnits $starFullUnits }}
       {{ $left = "var(--darkcolor)" }}
       {{ $right = "var(--darkcolor)" }}
-    {{ else if ge $rating (sub $star 0.5) }}
+    {{ else if eq $ratingHalfUnits $starHalfUnits }}
       {{ $left = "var(--darkcolor)" }}
       {{ $right = "var(--theme)" }}
     {{ end }}
 
-    {{ $id := printf "star-%d-%s" $star (now.UnixNano) }}
+    {{ $id := printf "rating-star-%d-%d" $star $ratingHalfUnits }}
 
     <svg class="rating-star" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" aria-hidden="true">
       <defs>
