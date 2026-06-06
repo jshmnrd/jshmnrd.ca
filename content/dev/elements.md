@@ -1,6 +1,7 @@
 ---
 layout: "dev"
 ---
+<!-- LEAVE THIS PAGE AS .MD TO KEEP LAYOUT AS DEV, OTHERWISE IT WILL SHOW UP IN RSS FEEDS!! -->
 <h1>Elements</h1>
 <!-- NAVIGATION -->
 <div><b>TEXT</b>
