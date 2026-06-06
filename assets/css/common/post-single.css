@@ -223,11 +223,12 @@
     border-radius: var(--radius);
 }
 
+.post-content .highlight,
 .post-content .highlight:not(table) {
     margin: 10px auto;
     border-radius: var(--radius);
     overflow: hidden;
-    background: var(--code-block-bg);
+    background: var(--code-block-bg) !important;
     direction: ltr;
 }
 
@@ -241,7 +242,14 @@
 
 .post-content .highlight pre {
     margin: 0;
-    background: var(--code-block-bg);
+    border-radius: 0;
+    background: var(--code-block-bg) !important;
+}
+
+.post-content .highlight span,
+.post-content .highlight code span,
+.post-content .highlight pre span {
+    background: transparent !important;
 }
 
 .post-content .highlighttable {
@@ -261,7 +269,8 @@
     margin-bottom: 0;
 }
 
-.post-content code {
+/* Inline code snippets only */
+.post-content :not(pre) > code {
     margin: auto 4px;
     padding: 4px 6px;
     font-size: 0.78em;
@@ -270,21 +279,30 @@
     border-radius: 2px;
 }
 
+/* Full code blocks */
 .post-content pre {
+    margin: 0;
+    padding: 10px;
     border-radius: var(--radius);
-    overflow-x: auto;
+    overflow-x: hidden;
     overflow-y: hidden;
-    background: var(--code-block-bg);
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    background: var(--code-block-bg) !important;
 }
 
+/* Code inside full code blocks */
 .post-content pre code {
     display: block;
     margin: 0;
-    padding: 10px;
+    padding: 0;
     color: var(--secondary);
-    background: transparent;
-    word-break: normal;
-    min-width: max-content;
+    background: transparent !important;
+    white-space: inherit !important;
+    overflow-wrap: inherit !important;
+    word-break: inherit !important;
+    min-width: 0 !important;
 }
 
 .post-content blockquote {
@@ -643,49 +661,4 @@ mark a {
   display: inline-flex;
   align-items: center;
   line-height: 1;
-}
-
-.post-content :not(pre) > code {
-    margin: auto 4px;
-    padding: 4px 6px;
-    font-size: 0.78em;
-    line-height: var(--lineheight);
-    background: var(--code-bg);
-    border-radius: 2px;
-}
-
-.post-content .highlight,
-.post-content .highlight:not(table),
-.post-content pre {
-    background: var(--code-block-bg) !important;
-    border-radius: var(--radius);
-    overflow: hidden;
-}
-
-.post-content .highlight pre,
-.post-content pre {
-    margin: 0;
-    padding: 10px;
-    background: var(--code-block-bg) !important;
-    white-space: pre-wrap !important;
-    overflow-wrap: anywhere !important;
-    word-break: break-word !important;
-    overflow-x: hidden;
-}
-
-.post-content pre code {
-    display: block;
-    margin: 0;
-    padding: 0;
-    background: transparent !important;
-    white-space: inherit !important;
-    overflow-wrap: inherit !important;
-    word-break: inherit !important;
-    min-width: 0 !important;
-}
-
-.post-content .highlight span,
-.post-content .highlight code span,
-.post-content .highlight pre span {
-    background: transparent !important;
 }
