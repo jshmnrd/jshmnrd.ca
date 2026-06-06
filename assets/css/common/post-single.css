@@ -242,7 +242,6 @@
 .post-content .highlight pre {
     margin: 0;
     background: var(--code-block-bg);
-    border-radius: 0;
 }
 
 .post-content .highlighttable {
@@ -262,8 +261,7 @@
     margin-bottom: 0;
 }
 
-/* Inline code only */
-.post-content :not(pre) > code {
+.post-content code {
     margin: auto 4px;
     padding: 4px 6px;
     font-size: 0.78em;
@@ -272,30 +270,21 @@
     border-radius: 2px;
 }
 
-/* Code block wrapper */
 .post-content pre {
-    margin: 0;
-    padding: 10px;
     border-radius: var(--radius);
-    overflow-x: hidden;
+    overflow-x: auto;
     overflow-y: hidden;
-    white-space: pre-wrap;
-    overflow-wrap: anywhere;
-    word-break: break-word;
     background: var(--code-block-bg);
 }
 
-/* Code inside code blocks */
 .post-content pre code {
     display: block;
     margin: 0;
-    padding: 0;
+    padding: 10px;
     color: var(--secondary);
     background: transparent;
-    white-space: inherit;
-    overflow-wrap: inherit;
-    word-break: inherit;
-    min-width: 0;
+    word-break: normal;
+    min-width: max-content;
 }
 
 .post-content blockquote {
