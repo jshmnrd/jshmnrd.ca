@@ -18,7 +18,7 @@ I really like this concept of giving your posts an ID, but don't want it in the 
 
 It was pretty easy actually. I just edited my ```post_meta.html``` partial:
 
-```html
+```go-html-template
 {{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
 {{- end }}
@@ -29,7 +29,7 @@ It was pretty easy actually. I just edited my ```post_meta.html``` partial:
 ```
 ...and added this snippet between these two parameters:
 
-```html
+```go-html-template
 {{- with .Params.postID -}}
 {{- $scratch.Add "meta" (slice (printf "ID %s" .)) }}
 {{- end }}
@@ -37,7 +37,7 @@ It was pretty easy actually. I just edited my ```post_meta.html``` partial:
 
 ...so the final snippet looks like this:
 
-```html
+```go-html-template
 {{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
 {{- end }}
