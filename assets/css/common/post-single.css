@@ -242,6 +242,17 @@
     margin: 0;
 }
 
+.post-content .highlight {
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--code-bg);
+}
+
+.post-content .highlight pre,
+.post-content .highlight code {
+    background: var(--code-bg);
+}
+
 .post-content .highlighttable {
     table-layout: fixed;
 }
@@ -268,13 +279,19 @@
     border-radius: 2px;
 }
 
+.post-content pre {
+    border-radius: var(--radius);
+    overflow-x: auto;
+    overflow-y: hidden;
+    background: #111;
+}
+
 .post-content pre code {
     display: grid;
     margin: auto 0;
     padding: 10px;
     color: var(--secondary);
-    border-radius: var(--radius);
-    overflow-x: auto;
+    background: transparent;
     word-break: break-all;
 }
 
