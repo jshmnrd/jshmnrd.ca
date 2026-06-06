@@ -22,7 +22,7 @@ menu:
           url: explore/
           weight: 4
         - name: archive
-          url: archives/
+          url: archive/
           weight: 5
         - name: tags
           url: tags/
