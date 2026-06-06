@@ -15,7 +15,7 @@ layout: dev
 build:
   list: never
 ---
-<sup><code>Updated: 2026-05-27</code></sup>
+<sup><code>Updated: 2026-06-06</code></sup>
 
 # Blogroll
 
@@ -42,17 +42,6 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <a href="https://adityatelange.in/index.xml" target="_blank">adityatelange.in/index.xml</a>
   &emsp;&emsp;
   <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
-</p>
-
-<p class="br-h2">Arduin Findeis</p>
-<p>
-  <b>Website:</b>
-  <a href="https://arduin.io/" target="_blank">Arduin.io</a>
-  <br>&emsp;&emsp;&emsp;
-  <b>Feed:</b>
-  <a href="https://arduin.io/index.xml" target="_blank">arduin.io/index.xml</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://arduin.io/index.xml">Copy</button>
 </p>
 
 <p class="br-h2">James G</p>

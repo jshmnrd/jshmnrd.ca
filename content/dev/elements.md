@@ -1,3 +1,6 @@
+---
+layout: "dev"
+---
 <h1>Elements</h1>
 <!-- NAVIGATION -->
 <div><b>TEXT</b>
