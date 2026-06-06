@@ -4,7 +4,7 @@ emoji: "🐰"
 date: 2026-06-04
 tags: ["posts","film review","film","review"]
 description: "My review of Damian McCarthy's 2026 film 'Hokum'."
-summary: "⚠️My review of Damian McCarthy's 2026 film 'Hokum'."
+summary: "!! CONTENT WARNING !! Topics related to depression, self-harm and suicide"
 editPost:
     URL: "https://letterboxd.com/jshmnrd/film/hokum/"
     Text: "My Review on Letterboxd"
