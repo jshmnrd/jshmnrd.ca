@@ -269,7 +269,7 @@
     margin-bottom: 0;
 }
 
-/* Inline code snippets only */
+/* Inline code snippets */
 .post-content :not(pre) > code {
     margin: auto 4px;
     padding: 4px 6px;
@@ -279,7 +279,7 @@
     border-radius: 2px;
 }
 
-/* Full code blocks */
+/* Block code snippets */
 .post-content pre {
     margin: 0;
     padding: 10px;
@@ -292,7 +292,7 @@
     background: var(--code-block-bg) !important;
 }
 
-/* Code inside full code blocks */
+/* Code inside block code snippets */
 .post-content pre code {
     display: block;
     margin: 0;
