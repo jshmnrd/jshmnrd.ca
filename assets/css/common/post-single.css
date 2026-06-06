@@ -644,3 +644,55 @@ mark a {
   align-items: center;
   line-height: 1;
 }
+
+/* --- Code block fix --- */
+
+/* Inline code snippets only, like `postID` */
+.post-content :not(pre) > code {
+    margin: auto 4px;
+    padding: 4px 6px;
+    font-size: 0.78em;
+    line-height: var(--lineheight);
+    background: var(--code-bg);
+    border-radius: 2px;
+}
+
+/* Full fenced code block wrapper */
+.post-content .highlight,
+.post-content .highlight:not(table),
+.post-content pre {
+    background: var(--code-block-bg) !important;
+    border-radius: var(--radius);
+    overflow: hidden;
+}
+
+/* The actual pre area inside Hugo/Chroma blocks */
+.post-content .highlight pre,
+.post-content pre {
+    margin: 0;
+    padding: 10px;
+    background: var(--code-block-bg) !important;
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    overflow-x: hidden;
+}
+
+/* Code inside full code blocks */
+.post-content pre code {
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: transparent !important;
+    white-space: inherit !important;
+    overflow-wrap: inherit !important;
+    word-break: inherit !important;
+    min-width: 0 !important;
+}
+
+/* Hugo/Chroma sometimes puts backgrounds on inner spans */
+.post-content .highlight span,
+.post-content .highlight code span,
+.post-content .highlight pre span {
+    background: transparent !important;
+}
