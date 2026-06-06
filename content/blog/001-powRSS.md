@@ -3,15 +3,8 @@ title: "I'm on powRSS!"
 description: "I've been added to powRSS!"
 summary: "I've been added to powRSS!"
 tags: ["posts","blog","update"]
-ShowBreadCrumbs: true
 date: 2026-05-22
-hidemeta: false
-#cover:
-    #image: "#"
-    #alt: ""
-    # src: #
-    #relative: true
-    #crop: "Center"
+postID: "001"
 ---
 
 I'm so happy to announce that I've been added to powRSS, a public RSS feed aggregator for independent websites - like mine!
