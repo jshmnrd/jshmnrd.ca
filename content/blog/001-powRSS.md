@@ -5,6 +5,8 @@ summary: "I've been added to powRSS!"
 tags: ["posts","blog","update"]
 date: 2026-05-22
 postID: "001"
+aliases:
+  - /blog/2026-05-22-powrss/
 ---
 
 I'm so happy to announce that I've been added to powRSS, a public RSS feed aggregator for independent websites - like mine!

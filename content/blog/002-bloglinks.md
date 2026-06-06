@@ -5,8 +5,6 @@ summary: "I've updated the links on my blog"
 tags: ["posts","blog","update","hugo","site admin"]
 date: 2026-06-06
 postID: "002"
-aliases:
-  - /blog/2026-05-22-powrss/
 ---
 
 So I've been inspired to update the way my blog (this blog) page works.
