@@ -5,9 +5,6 @@ date: 2026-04-18
 tags: ["posts","dnd","books","resources"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
-editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/books"
-    Text: "version 01"
 showToc: true
 TocOpen: true
 disableAnchoredHeadings: false

@@ -5,9 +5,6 @@ date: 2026-05-12
 tags: ["posts","lists","books"]
 description: "My library"
 summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
-editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/reading/library"
-    Text: "version 02"
 ShowPostNavLinks: false
 ---
 

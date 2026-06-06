@@ -6,14 +6,6 @@ tags: ["posts","lists","film"]
 author: ["Joshua Maynard"]
 description: "A list of my favourite movies"
 summary: "Normally a list of the movies I watched in the past year, but since it's the first, it's just a list of my favourite movies."
-#cover:
-    #image: "https://pub.jshmnrd.ca/w/img/2002-SpongebobTV.gif"
-    #alt: "Spongebob on the floor eating popcorn watching TV"
-    #relative: true
-    #crop: "Bottom"
-editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/film/movies2025"
-    Text: "version 01"
 showToc: true
 disableAnchoredHeadings: false
 ShowWordCount: true

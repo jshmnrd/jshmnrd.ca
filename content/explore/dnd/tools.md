@@ -5,9 +5,6 @@ date: 2026-04-11
 tags: ["posts","dnd","websites","resources","tools"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
-editPost:
-    URL: "https://github.com/jshmnrd/hugo/tree/main/content/explore/dnd/tools"
-    Text: "version 01"
 showToc: true
 ShowPostNavLinks: false
 ---
