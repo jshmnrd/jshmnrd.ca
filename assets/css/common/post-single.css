@@ -297,6 +297,8 @@
     display: block;
     margin: 0;
     padding: 0;
+    font-size: 0.78em;
+    line-height: var(--lineheight);
     color: var(--secondary);
     background: transparent !important;
     white-space: inherit !important;
