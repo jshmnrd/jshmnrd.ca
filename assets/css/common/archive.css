@@ -45,7 +45,3 @@
     color: var(--secondary);
     font-size: 14px;
 }
-
-h1.archive-page-title {
-    font-size: var(--h1size);
-}
