@@ -169,3 +169,16 @@ pre:hover .copy-code {
     border: 2px solid #c2002f;
     background-color: #ffc0cf;
 }
+
+kbd {
+  display: inline-block;
+  padding: 0.15em 0.45em;
+  border: 1px solid var(--border);
+  border-radius: 0.3em;
+  background: var(--primary);
+  color: var(--code-bg);
+  font-family: system-ui, sans-serif;
+  font-size: 0.9em;
+  line-height: 1;
+  box-shadow: 0 2px 0 var(--secondary);
+}
