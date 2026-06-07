@@ -2,7 +2,7 @@
 title: "Dungeons & Dragons Books"
 emoji: "📕"
 date: 2026-04-18
-tags: ["posts","dnd","books","resources"]
+tags: ["dnd","books","resources"]
 description: "This page contains links to Dungeons & Dragons books"
 summary: "This page contains links to Dungeons & Dragons books"
 showToc: true

@@ -2,7 +2,7 @@
 title: "Uses"
 emoji: "🧰"
 date: 2026-05-21
-tags: ["posts","lists","resources","tools","websites"]
+tags: ["lists","resources","tools","websites"]
 description: "A list of websites, apps, software, etc. that I use."
 summary: "I use a bunch of software and websites and wanted to share them here."
 showToc: true

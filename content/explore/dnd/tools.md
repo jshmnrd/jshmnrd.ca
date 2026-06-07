@@ -2,7 +2,7 @@
 title: "Dungeons & Dragons Tools"
 emoji: "🛠"
 date: 2026-04-11
-tags: ["posts","dnd","websites","resources","tools"]
+tags: ["dnd","websites","resources","tools"]
 description: "This page contains links to Dungeons & Dragons tools"
 summary: "This page contains links to Dungeons & Dragons tools"
 showToc: true
