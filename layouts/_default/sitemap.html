@@ -6,19 +6,15 @@
     </header>
 
     <div class="post-content">
-      {{ range site.Sections.ByTitle }}
-        <h2>{{ .Title }}</h2>
-
-        <ul>
-          {{ range .RegularPages.ByTitle }}
-            {{ if not .Params.hideFromSitemap }}
-              <li>
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </li>
-            {{ end }}
+      <ul>
+        {{ range site.RegularPages.ByTitle }}
+          {{ if not .Params.hideFromSitemap }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
           {{ end }}
-        </ul>
-      {{ end }}
+        {{ end }}
+      </ul>
     </div>
   </article>
 </main>

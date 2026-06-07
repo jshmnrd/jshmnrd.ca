@@ -2,7 +2,6 @@
 title: "Site Info"
 description: "Information about this website."
 layout: "dev"
-ShowToc: true
 build:
   list: never
 ---
@@ -40,6 +39,12 @@ build:
         <td width="25%">Hugo</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
         <td width="25%"><a class="copy-btn" href="#framework">Jump to section ↓</a></td>
+    </tr>
+    <tr>
+        <td width="25%"><b>Fonts</b></td>
+        <td width="25%">Atkinson Hyperlegible</td>
+        <td width="25%"><code>$ 0.00</code> /yr</td>
+        <td width="25%"><a class="copy-btn" href="#font">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Theme</b></td>
@@ -80,5 +85,14 @@ I like Hugo most for it's speed. My website will build and deploy in less than 3
 
 It's popularity also means there's lots of support available, and it's easy to Google questions and get quick answers.
 
+## Fonts
+
+I use Atkinson Hyperlegible Next for the main website font, and Atkinson Hyperlegible Mono for any code snippets.
+
+I use this font because, as the name suggests, it has been designed explicitly to be easy to read. It was created by The Braille Institute of America, and is free for anyone for personal or commercial uses. It's designed to be accessible, so I use it on all of my projects.
+
+I'd encourage you to read more about this font on the [Braille Institute website](https://www.brailleinstitute.org/freefont/). It's also available to download on [Google Fonts](https://fonts.google.com/?query=Braille%20Institute)
+
 ## Theme
+
 I was looking online for a template to use for my website and found [Pascal Michaillat](https://pascalmichaillat.org/)'s GitHub repo '[hugo-website](https://github.com/pmichaillat/hugo-website)', which is an academic-focused website template made from [Papermod](https://github.com/adityatelange/hugo-PaperMod/) by [Aditya Telange](https://adityatelange.in), which is itself a modification of the `[Paper](https://github.com/nanxiaobei/hugo-paper)' theme by [nanxiaobei](https://github.com/nanxiaobei). (wow that's a lot of hyperlinks!)
