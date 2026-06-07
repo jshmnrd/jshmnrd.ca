@@ -94,6 +94,12 @@ pre:hover .copy-code {
     border: 2px solid var(--border);
     border-radius: var(--radius);
 }
+.callout button.copy-btn {
+    background: var(--code-bg);
+    border-radius: var(--radius);
+    margin: 6px 12px 6px 0px;
+    padding: 1px 7px 1px 7px;
+}
 .callout.green {
     color: var(--lightcolor); 
     border: 2px solid var(--bottle);
