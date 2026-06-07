@@ -1,6 +1,6 @@
 ---
-title: "Archivve"
-emoji: "🗃"
+title: "Archive"
+emoji: "🐰"
 layout: "archives"
 url: "/archives/"
 summary: archives
