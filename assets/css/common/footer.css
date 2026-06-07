@@ -22,6 +22,10 @@
     color: var(--darkcolor);
 }
 
+.footer svg:hover.leaf {
+    color:#f00;
+}
+
 .footer span {
     margin-inline-start: 1px;
     margin-inline-end: 1px;
