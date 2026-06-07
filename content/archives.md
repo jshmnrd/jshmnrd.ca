@@ -1,5 +1,5 @@
 ---
-title: "Archive"
+title: "Archivve"
 emoji: "🗃"
 layout: "archives"
 url: "/archives/"
