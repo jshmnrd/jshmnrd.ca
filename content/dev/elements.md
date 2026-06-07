@@ -8,8 +8,8 @@ layout: "dev"
 <!-- NAVIGATION -->
 <table>
     <tr>
-        <th colspan="3">Part 1: Text</th>
-        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <td style="font-size:19px;font-weight:700;" colspan="3">Part 1: Text</td>
+        <td style="text-align:right;font-size:19px;font-weight:700;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td><a href="#text__headings">Headings</a></td>
@@ -26,8 +26,8 @@ layout: "dev"
         <td><a href="#text__callouts">Callouts</a></td>
     </tr>
     <tr>
-        <th colspan="3">Part 2: Embedded Content</th>
-        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <td style="font-size:19px;font-weight:700;" colspan="3">Part 2: Embedded Content</td>
+        <td style="text-align:right;font-size:19px;font-weight:700;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td><a href="#embedded__audio">Audio</a></td>
@@ -44,8 +44,8 @@ layout: "dev"
         <td><!--EMPTY--></td>
     </tr>
     <tr>
-        <th colspan="3">Part 3: Form Elements</th>
-        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <td style="font-size:19px;font-weight:700;" colspan="3">Part 3: Form Elements</td>
+        <td style="text-align:right;font-size:19px;font-weight:700;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td><a href="#forms__select">Select menus</a></td>
