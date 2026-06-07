@@ -5,7 +5,7 @@ ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
-# Contact Me
+# 📧 Contact Me
 You wanna talk to me?
 ![*blushes*](https://pub.jshmnrd.ca/w/img/0002-Blush260.jpg)
 
