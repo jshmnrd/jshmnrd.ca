@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-h1.archive {
+h1.archiveh1 {
     font-size: 40px;
     font-weight: 700;
 }
@@ -45,7 +45,7 @@ h1.archive {
     font-size: var(--homesize);
 }
 
-.archive-entry-title:hover {
+.archive-entry:hover {
     text-decoration: underline 2px solid var(--darkcolor);
 }
 
