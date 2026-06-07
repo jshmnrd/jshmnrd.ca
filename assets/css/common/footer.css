@@ -57,13 +57,3 @@
 #theme-toggle:focus {
     outline: 0;
 }
-
-.footer a svg.intext {
-    height: 1em;
-    width: auto;
-    vertical-align: 1em;
-}
-
-.footer a:hover svg.intext {
-    color:var(--darkcolor);
-}
