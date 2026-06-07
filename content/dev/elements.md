@@ -1,38 +1,68 @@
 ---
 layout: "dev"
+
 ---
 <!-- LEAVE THIS PAGE AS .MD TO KEEP LAYOUT AS DEV, OTHERWISE IT WILL SHOW UP IN RSS FEEDS!! -->
 <h1>Elements</h1>
+
 <!-- NAVIGATION -->
-<div><b>TEXT</b>
-    <a class="copy-btn" href="#text__headings">Headings</a>&emsp;
-    <a class="copy-btn" href="#text__paragraphs">Paragraphs</a>&emsp;
-    <a class="copy-btn" href="#text__blockquotes">Blockquotes</a>&emsp;
-    <a class="copy-btn" href="#text__lists">Lists</a>&emsp;
-    <a class="copy-btn" href="#text__hr">Horizontal rules</a>&emsp;
-    <a class="copy-btn" href="#text__tables">Tabular data</a>&emsp;
-    <a class="copy-btn" href="#text__code">Code</a>&emsp;
-    <a class="copy-btn" href="#text__inline">Inline elements</a>&emsp;
-    <a class="copy-btn" href="#text__comments">HTML Comments</a>&emsp;
-    <a class="copy-btn" href="#text__callouts">Callouts</a>&emsp;
-</div>
-<div><b>EMBEDDED CONTENT</b>
-    <a class="copy-btn" href="#embedded__audio">Audio</a>&emsp;
-    <a class="copy-btn" href="#embedded__video">Video</a>&emsp;
-    <a class="copy-btn" href="#embedded__canvas">Canvas</a>&emsp;
-    <a class="copy-btn" href="#embedded__meter">Meter</a>&emsp;
-    <a class="copy-btn" href="#embedded__progress">Progress</a>&emsp;
-    <a class="copy-btn" href="#embedded__svg">Inline SVG</a>&emsp;
-    <a class="copy-btn" href="#embedded__iframe">IFrames</a>&emsp;
-</div>
-<div><b>Form Elements</b>
-    <a class="copy-btn" href="#forms__select">Select menus</a>&emsp;
-    <a class="copy-btn" href="#forms__checkbox">Checkboxes</a>&emsp;
-    <a class="copy-btn" href="#forms__radio">Radio buttons</a>&emsp;
-    <a class="copy-btn" href="#forms__textareas">Textareas</a>&emsp;
-    <a class="copy-btn" href="#forms__html5">HTML5 inputs</a>&emsp;
-    <a class="copy-btn" href="#forms__action">Action buttons</a>&emsp;
-</div>
+<table>
+    <tr>
+        <th colspan="3">Part 1: Text</th>
+        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+    </tr>
+    <tr>
+        <td><a href="#text__headings">Headings</a></td>
+        <td><a href="#text__paragraphs">Paragraphs</a></td>
+        <td><a href="#text__blockquotes">Blockquotes</a></td>
+        <td><a href="#text__lists">Lists</a></td>
+        <td><a href="#text__hr">Horizontal rules</a></td>
+    </tr>
+    <tr>
+        <td><a href="#text__tables">Tabular data</a></td>
+        <td><a href="#text__code">Code</a></td>
+        <td><a href="#text__inline">Inline elements</a></td>
+        <td><a href="#text__comments">HTML Comments</a></td>
+        <td><a href="#text__callouts">Callouts</a></td>
+    </tr>
+    <tr>
+        <th colspan="3">Part 2: Embedded Content</th>
+        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+    </tr>
+    <tr>
+        <td><a href="#embedded__audio">Audio</a></td>
+        <td><a href="#embedded__video">Video</a></td>
+        <td><a href="#embedded__canvas">Canvas</a></td>
+        <td><a href="#embedded__meter">Meter</a></td>
+        <td><a href="#embedded__progress">Progress</a></td>
+    </tr>
+    <tr>
+        <td><a href="#embedded__svg">Inline SVG</a></td>
+        <td><a href="#embedded__iframe">IFrames</a></td>
+        <td><!--EMPTY--></td>
+        <td><!--EMPTY--></td>
+        <td><!--EMPTY--></td>
+    </tr>
+    <tr>
+        <th colspan="3">Part 3: Form Elements</th>
+        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+    </tr>
+    <tr>
+        <td><a href="#forms__select">Select menus</a></td>
+        <td><a href="#forms__checkbox">Checkboxes</a></td>
+        <td><a href="#forms__radio">Radio buttons</a></td>
+        <td><a href="#forms__textareas">Textareas</a></td>
+        <td><a href="#forms__html5">HTML5 inputs</a></td>
+    </tr>
+    <tr>
+        <td><a href="#forms__action">Action buttons</a></td>
+        <td><!--EMPTY--></td>
+        <td><!--EMPTY--></td>
+        <td><!--EMPTY--></td>
+        <td><!--EMPTY--></td>
+    </tr>
+</table>
+
 <ul>
 </ul>
 <main role="main">
