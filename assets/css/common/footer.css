@@ -12,6 +12,15 @@
     background: var(--code-bg);
 }
 
+.footer svg {
+    color: var(--secondary);
+    font-size: 1em;
+}
+
+.footer svg:hover {
+    color: var(--darkcolor);
+}
+
 .footer span {
     margin-inline-start: 1px;
     margin-inline-end: 1px;
