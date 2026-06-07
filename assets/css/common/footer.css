@@ -14,7 +14,7 @@
 
 .footer svg {
     color: var(--secondary);
-    font-size: 1em;
+    max-height: 1em;
 }
 
 .footer svg:hover {
