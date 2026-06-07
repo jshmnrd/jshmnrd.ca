@@ -57,3 +57,9 @@
 #theme-toggle:focus {
     outline: 0;
 }
+
+svg.intext {
+    height: 1em;
+    width: auto;
+    vertical-align: -0.3em;
+}
