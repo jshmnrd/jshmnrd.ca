@@ -1,24 +1,13 @@
 ---
 title: "Blogroll"
-emoji: "🗞"
-date: 2026-05-27
-tags: ["posts","lists","websites"]
-author: ["Joshua Maynard"]
 description: "My blogroll: a list of the blogs I read."
-summary: "My blogroll: a list of the blogs I read."
-editPost:
-    URL: "https://pub.jshmnrd.ca/w/share/0001-blogroll.opml"
-    Text: "OPML Download"
-showToc: false
-disableAnchoredHeadings: false
-ShowWordCount: false
 layout: dev
 build:
   list: never
 ---
 <sup><code>Updated: 2026-06-06</code></sup>
 
-# Blogroll
+# 🗞 Blogroll
 
 <br>
 
