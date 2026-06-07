@@ -5,9 +5,9 @@ ShowBreadCrumbs: false
 ---
 
 <h1>🔭 Explore</h1>
-<p>
-    The main content of my website. Pick a topic from the list and enjoy!<br>
-    <button title="Copy RSS feed URL" class="copy-btn" data-copy="https://jshmnrd.ca/index.xml">Subscribe to my RSS!</button>
+<p>The main content of my website. Pick a topic from the list and enjoy!</p>
+<p class="callout">
+    <span style="font-size:20px;">Subscribe to my RSS feed!</span>&emsp;<button title="Copy RSS feed URL" class="copy-btn" data-copy="https://jshmnrd.ca/index.xml">Copy RSS Link</button>
 </p>
 
 <script> /* Copy to clipboard script */
@@ -17,7 +17,7 @@ document.querySelectorAll(".copy-btn").forEach(button => {
     const originalText = button.textContent;
 
     navigator.clipboard.writeText(textToCopy).then(() => {
-      button.textContent = "RSS Feed URL Copied!";
+      button.textContent = "Copied!";
 
       setTimeout(() => {
         button.textContent = originalText;
