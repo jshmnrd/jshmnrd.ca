@@ -1,5 +1,6 @@
 ---
-title: "Blogroll" 
+title: "Blogroll"
+emoji: "🗞"
 date: 2026-05-27
 tags: ["posts","lists","websites"]
 author: ["Joshua Maynard"]

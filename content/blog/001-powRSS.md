@@ -1,5 +1,6 @@
 ---
 title: "I'm on powRSS!"
+emoji: "📰"
 description: "I've been added to powRSS!"
 summary: "I've been added to powRSS!"
 tags: ["posts","blog","update"]

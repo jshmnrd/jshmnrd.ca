@@ -1,5 +1,6 @@
 ---
 title: "Blog Links Update"
+emoji: "🔗"
 description: "I've updated the links on my blog"
 summary: "I've updated the links on my blog"
 tags: ["posts","blog","update","hugo","site admin"]
