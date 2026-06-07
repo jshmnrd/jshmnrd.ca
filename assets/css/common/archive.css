@@ -2,8 +2,9 @@
     width: 100%;
 }
 
-h1 {
+h1.archive {
     font-size: 40px;
+    font-weight: 700;
 }
 
 .archive-year {
@@ -42,6 +43,10 @@ h1 {
     margin: 5px 0;
     font-weight: normal;
     font-size: var(--homesize);
+}
+
+.archive-entry-title:hover {
+    text-decoration: underline 2px solid var(--darkcolor);
 }
 
 .archive-count,
