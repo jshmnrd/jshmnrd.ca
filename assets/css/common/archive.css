@@ -12,10 +12,6 @@ h1.archiveh1 {
     margin-top: 20px;
 }
 
-.archive-year-header:hover {
-    text-decoration: underline 2px solid var(--darkcolor);
-}
-
 .archive-year-header {
     font-size: 1.5rem; /*was 1.4rem*/
     font-weight: 700; /*was var(--semibold)*/
@@ -29,10 +25,6 @@ h1.archiveh1 {
     display: flex;
     align-items: flex-start;
     padding: 10px 0;
-}
-
-.archive-month-header:hover {
-    text-decoration: underline 2px solid var(--darkcolor);
 }
 
 .archive-month-header {
