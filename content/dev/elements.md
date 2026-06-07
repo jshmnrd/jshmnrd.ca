@@ -9,7 +9,7 @@ layout: "dev"
 <table>
     <tr>
         <th colspan="3">Part 1: Text</th>
-        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
     </tr>
     <tr>
         <td><a href="#text__headings">Headings</a></td>
@@ -27,7 +27,7 @@ layout: "dev"
     </tr>
     <tr>
         <th colspan="3">Part 2: Embedded Content</th>
-        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
     </tr>
     <tr>
         <td><a href="#embedded__audio">Audio</a></td>
@@ -45,7 +45,7 @@ layout: "dev"
     </tr>
     <tr>
         <th colspan="3">Part 3: Form Elements</th>
-        <th colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
+        <th style="text-align:right;" colspan="2"><a class="copy-btn" href="#">Jump to section ↓</a></th>
     </tr>
     <tr>
         <td><a href="#forms__select">Select menus</a></td>
