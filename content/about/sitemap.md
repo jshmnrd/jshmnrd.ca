@@ -1,4 +1,32 @@
 ---
 title: "Sitemap"
-layout: "sitemap"
+layout: "dev"
 ---
+
+# Sitemap
+
+## About
+
+
+
+## Blog
+
+
+
+## Contact
+
+
+
+## Dev
+
+
+
+## Explore
+
+
+
+## Index
+
+
+
+## Tags
