@@ -1,7 +1,12 @@
 {{- define "main" }}
 
-<header> <!--was <header class="page-header">-->
-  <h1 class="archiveh1">🗃 Archive</h1>
+<header class="post-header"> <!--was <header class="page-header">-->
+  <h1 class="post-title entry-hint-parent">
+    {{ with .Params.emoji }}
+    <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
+    {{ end }}
+    <span>{{ .Title }}</span>
+  </h1>
 </header>
 
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
