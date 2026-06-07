@@ -5,10 +5,15 @@
 h1.archiveh1 {
     font-size: 40px;
     font-weight: 700;
+    margin: 24px auto var(--content-gap) auto;
 }
 
 .archive-year {
     margin-top: 20px;
+}
+
+.archive-year:hover {
+    text-decoration: underline 2px solid var(--darkcolor);
 }
 
 .archive-year-header {
@@ -24,6 +29,10 @@ h1.archiveh1 {
     display: flex;
     align-items: flex-start;
     padding: 10px 0;
+}
+
+.archive-month:hover {
+    text-decoration: underline 2px solid var(--darkcolor);
 }
 
 .archive-month-header {
