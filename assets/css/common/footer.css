@@ -15,6 +15,7 @@
 .footer svg {
     color: var(--secondary);
     max-height: 1em;
+    vertical-align:auto;
 }
 
 .footer svg:hover {
