@@ -5,7 +5,7 @@ layout: "dev"
 build:
   list: never
 ---
-<small><code>Updated: 2026-06-02</code></small>
+<small><code>Updated: 2026-06-07</code></small>
 
 # Site Info
 
@@ -55,14 +55,17 @@ build:
 </table>
 
 ## Analytics
+
 For analytics, I use [Cabin](https://withcabin.com/), a privacy-focused alternative to Google Analytics.
 
 For more info on how Cabin collects analytics, please visit [Cabin's privacy page](https://withcabin.com/privacy/jshmnrd.ca).
 
 ## Site Hosting
+
 To host my site I use GitHub pages. It's completely free, so long as you don't mind ALL the code for your website being available to literally anyone. As a believer in FOSS I don't mind at all, besides I have nothing to hide!
 
 ## Domain Registrar
+
 I use [Porkbun](https://porkbun.com) because they offer a lot of domain services for free, services other registrars charge extra for...
 - WHOIS privacy
 - SSL certificates
@@ -73,6 +76,7 @@ I use [Porkbun](https://porkbun.com) because they offer a lot of domain services
 [[source](https://porkbun.com/#:~:text=Save%20Money)]
 
 ## Framework
+
 My website uses [Hugo](https://gohugo.io), an open-source static site generator.
 
 I like Hugo most for it's speed. My website will build and deploy in less than 30 seconds and scores very high on PageSpeed Insights.
@@ -91,7 +95,7 @@ I use Atkinson Hyperlegible Next for the main website font, and Atkinson Hyperle
 
 I use this font because, as the name suggests, it has been designed explicitly to be easy to read. It was created by The Braille Institute of America, and is free for anyone for personal or commercial uses. It's designed to be accessible, so I use it on all of my projects.
 
-I'd encourage you to read more about this font on the [Braille Institute website](https://www.brailleinstitute.org/freefont/). It's also available to download on [Google Fonts](https://fonts.google.com/?query=Braille%20Institute)
+I'd encourage you to read more about this font on the [Braille Institute website](https://www.brailleinstitute.org/freefont/). It's also available to download on [Google Fonts](https://fonts.google.com/?query=Braille%20Institute).
 
 ## Theme
 
