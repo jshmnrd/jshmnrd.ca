@@ -16,16 +16,3 @@ disableAnchoredHeadings: true
     <a style="font-size:20px;font-weight:700;text-decoration:none;" href="/blog/blogroll">Blogroll</a>
   </p>
 </div>
-
-<!--
-<a href="/feeds" style="text-decoration:none;">
-  <p class="callout rss">
-    <span style="font-size:20px;font-weight:700;">Subscribe to my RSS feed!</span>
-  </p>
-</a>
-<a href="/blog/blogroll" style="text-decoration:none;">
-  <p class="callout rss">
-    <span style="font-size:20px;font-weight:700;">Check out my blogroll!</span>
-  </p>
-</a>
--->

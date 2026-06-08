@@ -6,9 +6,15 @@ ShowBreadCrumbs: false
 
 <h1>🔭 Explore</h1>
 <p>The main content of my website. Pick a topic from the list and enjoy!</p>
-<p class="callout rss">
-    <span style="font-size:20px;font-weight:700;">Subscribe to my RSS feed!</span>&emsp;&emsp;&emsp;<button title="Copy RSS feed URL" class="copy-btn" data-copy="https://jshmnrd.ca/index.xml">Copy RSS Link</button>
-</p>
+<div class="callout-row">
+  <p class="callout rss">
+    <a style="font-size:20px;font-weight:700;text-decoration:none;" href="/feeds">RSS Feeds</a>
+  </p>
+
+  <p class="callout rss">
+    <a style="font-size:20px;font-weight:700;text-decoration:none;" href="/blog/blogroll">Blogroll</a>
+  </p>
+</div>
 
 <script> /* Copy to clipboard script */
 document.querySelectorAll(".copy-btn").forEach(button => {
