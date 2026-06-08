@@ -7,8 +7,6 @@ disableAnchoredHeadings: true
 
 # Hi ✌️
 
-Lewen Design from Noun Project (CC BY 3.0)
-
 I'm Joshua and this is my website.
 
 I'm a geek from Toronto, Canada. I love movies, TV, music, D&D and pretty much anything computer-related. My favourite food changes depending on when you ask me, but my mom's chicken casserole is always on the list.
