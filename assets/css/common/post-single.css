@@ -651,6 +651,8 @@ mark a {
   display: block;
 }
 
+.post-title-svg,
+.post-title-icon,
 .post-title-emoji {
   display: inline-block;
   margin-right: 0.25em;
@@ -660,8 +662,19 @@ mark a {
   font-family: 'Atkinson Hyperlegible Next', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
 }
 
+.post-title-icon {
+  width: 0.9em;
+  height: 0.9em;
+  object-fit: contain;
+}
+
 .post-title-emoji {
   display: inline-flex;
   align-items: center;
   line-height: 1;
+}
+
+.post-title-svg svg {
+  width: 0.9em;
+  height: 0.9em;
 }

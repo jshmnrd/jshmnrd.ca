@@ -1,0 +1,1 @@
+All designs in this directory are by Lewen Design, downloaded from Noun Project. They can be found at this link: https://thenounproject.com/browse/collection-icon/hand-and-gesture-191281/ (CC BY 3.0)
