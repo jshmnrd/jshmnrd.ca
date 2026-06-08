@@ -2,10 +2,14 @@
 title: "Changelog"
 description: "Track changes made to the website"
 icon_svg: "keepachangelog"
+ShowPostNavLinks: false
+ShowBreadCrumbs: false
 hidemeta: true
 build:
   list: never
 ---
+
+<!-- REMEMBER TO CHANGE THE FOOTER!! -->
 
 All notable changes to this project will be documented on this page.
 
@@ -13,16 +17,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
--   I haven't thought this far ahead...
-
-## [1.0.1] - 2026-06-07
-
-That didn't take long 😂
-
-### Fixed
-
--   Fixed the icon on [changelog](/about/changelog) page:
-    I edited the svg code, setting the fill to "currentColor" so it's the text colour.
+- I haven't thought this far ahead...
+  To be honest, a lot of things just come to me in the moment and I do them on a whim.
 
 ## [1.0.0] - 2026-06-07
 
