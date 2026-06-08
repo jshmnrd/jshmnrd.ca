@@ -5,9 +5,9 @@ layout: "dev"
 build:
   list: never
 ---
-<small><code>Updated: 2026-06-07</code></small>
 
 # ℹ️ Site Info
+<sup><code>Updated: 2026-06-07</code></sup>
 
 ### Summary
 <table>
