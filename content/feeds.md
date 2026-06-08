@@ -5,6 +5,7 @@ emoji: "📰"
 #icon_svg: "rss"
 ShowPostNavLinks: false
 ShowBreadCrumbs: false
+ShowShareButtons: true
 build:
   list: never
 hidemeta: true
