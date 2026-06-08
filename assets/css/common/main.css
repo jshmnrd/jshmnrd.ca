@@ -104,6 +104,7 @@ pre:hover .copy-code {
 }
 .callout.rss:hover {
     border: 2px solid var(--darkcolor);
+    cursor: pointer;
 }
 .callout button.copy-btn {
     background: var(--code-bg);
@@ -186,4 +187,8 @@ kbd {
 .tab {
     display: inline-block;
     margin-left: 20px;
+}
+
+a p.callout.rss {
+    text-decoration:none;
 }
