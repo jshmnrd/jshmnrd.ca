@@ -94,6 +94,17 @@ pre:hover .copy-code {
     border: 2px solid var(--border);
     border-radius: var(--radius);
 }
+.callout.rss {
+    font-size:95%;
+    padding: 16px;
+    color: var(--content);
+    background-color: var(--entry);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+}
+.callout.rss:hover {
+    border: 2px solid var(--darkcolor);
+}
 .callout button.copy-btn {
     background: var(--code-bg);
     border-radius: var(--radius);
