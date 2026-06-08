@@ -4,7 +4,7 @@ description: "Track changes made to the website"
 icon_svg: "keepachangelog"
 ShowPostNavLinks: false
 ShowBreadCrumbs: false
-ShowShareButtons: false
+ShareButtons: []
 hidemeta: true
 build:
   list: never
