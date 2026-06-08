@@ -14,6 +14,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 -   I haven't thought this far ahead...
 
+## [1.0.1] - 2026-06-07
+
+That didn't take long 😂
+
+### Fixed
+
+-   Fixed the icon on [changelog](/about/changelog) page:
+    I edited the svg code, setting the fill to "currentColor" so it's the text colour.
+
 ## [1.0.0] - 2026-06-07
 
 ### Added
