@@ -17,8 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
-- I haven't thought this far ahead...
-  To be honest, a lot of things just come to me in the moment and I do them on a whim.
+- I'd like to do a custom cursor
 
 ## [1.0.0] - 2026-06-07
 
