@@ -7,7 +7,7 @@ disableAnchoredHeadings: true
 
 <style>
   a p.callout.rss {
-    text-decoration:none;
+    text-decoration:none; !important
   }
   .callout.rss {
     font-size:95%;
