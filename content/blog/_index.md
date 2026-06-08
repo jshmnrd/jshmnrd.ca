@@ -9,23 +9,11 @@ disableAnchoredHeadings: true
 <p>Welcome to my blog! I hope you enjoy :) Also, check out my <a href="blogroll">blogroll</a>!</p>
 <a href="/feeds" style="text-decoration:none;">
   <p class="callout rss">
-    <span style="font-size:20px;font-weight:700;">Subscribe to my RSS feed!</span><!--&emsp;&emsp;&emsp;<button title="Copy RSS feed URL" class="copy-btn" data-copy="https://jshmnrd.ca/index.xml">Copy RSS Link</button>-->
+    <span style="font-size:20px;font-weight:700;">Subscribe to my RSS feed!</span>
   </p>
 </a>
-
-<script> /* Copy to clipboard script */
-document.querySelectorAll(".copy-btn").forEach(button => {
-  button.addEventListener("click", () => {
-    const textToCopy = button.dataset.copy;
-    const originalText = button.textContent;
-
-    navigator.clipboard.writeText(textToCopy).then(() => {
-      button.textContent = "Copied!";
-
-      setTimeout(() => {
-        button.textContent = originalText;
-      }, 1500);
-    });
-  });
-});
-</script>
+<a href="/blog/blogroll" style="text-decoration:none;">
+  <p class="callout rss">
+    <span style="font-size:20px;font-weight:700;">Check out my blogroll!</span>
+  </p>
+</a>
