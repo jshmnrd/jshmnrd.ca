@@ -182,3 +182,8 @@ kbd {
   line-height: 1;
   box-shadow: 0 2px 0 var(--secondary);
 }
+
+.tab {
+    display: inline-block;
+    margin-left: 20px;
+}
