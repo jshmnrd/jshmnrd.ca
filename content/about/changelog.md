@@ -2,6 +2,7 @@
 title: "Changelog"
 description: "Track changes made to the website"
 icon_svg: "keepachangelog"
+hidemeta: true
 build:
   list: never
 ---
