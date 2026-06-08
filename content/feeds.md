@@ -5,4 +5,5 @@ title: "Feeds"
 icon_svg: "rss"
 build:
   list: never
+hidemeta: true
 ---
