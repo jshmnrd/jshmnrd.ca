@@ -120,24 +120,8 @@ markup:
         ordered: false
         startLevel: 2
 
-mediaTypes:
-  application/atom+xml:
-    suffixes:
-      - xml
-
-outputFormats:
-  Atom:
-    mediaType: application/atom+xml
-    baseName: atom
-    isPlainText: false
-
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
-    - Atom
-  section:
-    - HTML
-    - RSS
-    - Atom
