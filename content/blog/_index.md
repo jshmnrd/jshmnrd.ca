@@ -5,6 +5,24 @@ ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
+<style>
+  a p.callout.rss {
+    text-decoration:none;
+  }
+  .callout.rss {
+    font-size:95%;
+    padding: 16px;
+    color: var(--content);
+    background-color: var(--entry);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+  }
+  .callout.rss:hover {
+    border: 2px solid var(--darkcolor);
+    cursor: pointer;
+  }
+</style>
+
 <h1>🖊 Blog</h1>
 <p>Welcome to my blog! I hope you enjoy :) Also, check out my <a href="blogroll">blogroll</a>!</p>
 <a href="/feeds">

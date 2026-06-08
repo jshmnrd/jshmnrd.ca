@@ -94,18 +94,6 @@ pre:hover .copy-code {
     border: 2px solid var(--border);
     border-radius: var(--radius);
 }
-.callout.rss {
-    font-size:95%;
-    padding: 16px;
-    color: var(--content);
-    background-color: var(--entry);
-    border: 2px solid var(--border);
-    border-radius: var(--radius);
-}
-.callout.rss:hover {
-    border: 2px solid var(--darkcolor);
-    cursor: pointer;
-}
 .callout button.copy-btn {
     background: var(--code-bg);
     border-radius: var(--radius);
@@ -187,8 +175,4 @@ kbd {
 .tab {
     display: inline-block;
     margin-left: 20px;
-}
-
-a p.callout.rss {
-    text-decoration:none;
 }
