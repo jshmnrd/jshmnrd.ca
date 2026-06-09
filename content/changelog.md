@@ -18,9 +18,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## [Unreleased]
 
-- I'd like to do a custom cursor
-
 ## [1.0.1] - 2026-06-08
+
+## Added
+
+- Added custom cursor to site.
 
 ### Changed
 

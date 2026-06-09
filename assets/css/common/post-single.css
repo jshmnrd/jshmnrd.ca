@@ -377,13 +377,13 @@
 }
 
 .toc details summary {
-    cursor: zoom-in;
+    cursor: url("/cursors/origami/pointer.cur"), zoom-in;
     margin-inline-start: 10px;
     user-select: none;
 }
 
 .toc details[open] summary {
-    cursor: zoom-out;
+    cursor: url("/cursors/origami/pointer.cur"), zoom-out;
 }
 
 .toc .details {
