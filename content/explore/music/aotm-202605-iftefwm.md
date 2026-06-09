@@ -104,11 +104,11 @@ Anyways, I just found it really impressive that Will can safely do all those voc
 
 Also, 'Prison of Flesh' for a song about dementia feels incredible appropriate.
 
-<details style="cursor:url("/cursors/origami/pointer.cur"),pointer;"><summary>Trauma Dump</summary>
-    <span style="cursor:url("/cursors/origami/cursor.cur"),auto;">My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
+<details><summary>Trauma Dump</summary>
+    <span>My grandmother had dementia towards the end and for a long time I avoided her because of it. Not because I didn't care or didn't love her, but because it's difficult to see the people you love deal with not only forgetting you but the memories you have with them and even themselves.</span>
 </details>
 
-<h2 id="2-oblivion">2. Oblivion <span style="cursor:url("/cursors/origami/pointer.cur"),pointer;" title="My favourite song of the album!">★</span></h2>
+<h2 id="2-oblivion">2. Oblivion <span title="My favourite song of the album!">★</span></h2>
 <a class="copy-btn" href="https://genius.com/Lorna-shore-oblivion-lyrics" target="_blank" title="Genius">Lyrics</a>&emsp;<a class="copy-btn" href="https://genius.com/35292944" target="_blank" title="Genius">Song Bio</a>
 <br><br>
 <p>Yeah, there's a reason they released this early as a single. This is absolutely my favourite song of the album. It wasn't at first though - when I started writing this review <a href="#5-glenwood">Glenwood</a> was my favourite, but as I re-listened to the album while writing Oblivion became my favourite.</p>
@@ -192,8 +192,8 @@ The melody is very emotionally stirring but you still get the harsh vocals and d
 I think this was a great song to end the album on.
 
 <details>
-    <summary style="cursor:url("/cursors/origami/pointer.cur"),pointer;">Trauma Dump</summary>
-    <span style="cursor:url("/cursors/origami/cursor.cur"), auto;">In 2012, when I was 11, my mother died of a blood clot in her heart.
+    <summary>Trauma Dump</summary>
+    <span>In 2012, when I was 11, my mother died of a blood clot in her heart.
     </span>
 </details>
 

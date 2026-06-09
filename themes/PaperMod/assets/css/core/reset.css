@@ -13,6 +13,14 @@ html {
 
 a,
 button,
+summary,
+[role="button"],
+input[type="submit"] {
+  cursor: url("/images/cursor-pointer.png"), pointer;
+}
+
+a,
+button,
 body,
 h1,
 h2,
@@ -107,7 +115,7 @@ textarea {
 button,
 input[type=button],
 input[type=submit] {
-    cursor: url("/cursors/origami/pointer.cur"),pointer;
+    cursor: url("/cursors/origami/pointer24.png"),pointer;
 }
 
 input:-webkit-autofill,

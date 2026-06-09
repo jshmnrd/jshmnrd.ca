@@ -81,9 +81,9 @@ My website uses [Hugo](https://gohugo.io), an open-source static site generator.
 
 I like Hugo most for it's speed. My website will build and deploy in less than 30 seconds and scores very high on PageSpeed Insights.
 
-<p style="cursor:url("/cursors/origami/pointer.cur"),pointer;"><b>Desktop score: 100</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=desktop" target="_blank">Open Report ↗</a><br><img alt="PageSpeed Insights Desktop Score. Performance: 100 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0003-PageSpeedInsights-20260528-224349-Desktop.png"></p>
+<p><b>Desktop score: 100</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=desktop" target="_blank">Open Report ↗</a><br><img alt="PageSpeed Insights Desktop Score. Performance: 100 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0003-PageSpeedInsights-20260528-224349-Desktop.png"></p>
 
-<p style="cursor:url("/cursors/origami/pointer.cur"),pointer;"><b>Mobile score: 99.75</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=mobile" target="_blank">Open Report ↗</a><br><img alt="PageSpeed Insights Desktop Score. Performance: 99 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0004-PageSpeedInsights-20260528-224349-Mobile.png"></p>
+<p><b>Mobile score: 99.75</b>&emsp;<a class="copy-btn" href="https://pagespeed.web.dev/analysis/https-jshmnrd-ca/aaekbs0l5q?form_factor=mobile" target="_blank">Open Report ↗</a><br><img alt="PageSpeed Insights Desktop Score. Performance: 99 | Accessibility: 100 | Best Practices: 100 | SEO: 100" src="https://pub.jshmnrd.ca/w/img/0004-PageSpeedInsights-20260528-224349-Mobile.png"></p>
 
 <br>
 
