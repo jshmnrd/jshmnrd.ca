@@ -106,7 +106,7 @@ textarea {
 button,
 input[type=button],
 input[type=submit] {
-    cursor: pointer;
+    cursor: url("/cursors/origami/pointer24.png"), pointer;
 }
 
 input:-webkit-autofill,
