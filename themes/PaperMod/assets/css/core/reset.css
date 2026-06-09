@@ -29,7 +29,7 @@ body {
     line-height: 1.6;
     word-break: break-word;
     background: var(--theme);
-    cursor: url("/cursors/origami/cursor.png") 4 4,auto;
+    cursor: url("/cursors/origami/cursor24.png") 4 4,auto;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
