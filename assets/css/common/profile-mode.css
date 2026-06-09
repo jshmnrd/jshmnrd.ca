@@ -50,7 +50,7 @@ a.copy-btn {
 }
 
 .copy-img {
-    cursor: url("/cursors/origami/pointer24.png"), pointer;
+    cursor: pointer;
     display: inline;
     margin: auto;
     border-radius: 0px;
