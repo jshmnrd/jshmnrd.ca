@@ -190,7 +190,7 @@ kbd {
 
 .callout.rss:hover {
     border: 2px solid var(--darkcolor);
-    cursor: url("/cursors/origami/pointer24.png"), pointer;
+    cursor: pointer;
 }
 
 .callout.rss a {
@@ -214,23 +214,4 @@ kbd {
     .callout-row {
         grid-template-columns: 1fr;
     }
-}
-
-html,
-body {
-  cursor: url("/cursors/origami/cursor24.png"), auto;
-}
-
-a,
-a *,
-button,
-button *,
-summary,
-summary *,
-[role="button"],
-[role="button"] *,
-input,
-label,
-select {
-  cursor: url("/cursors/origami/pointer24.png"), pointer;
 }
