@@ -44,7 +44,7 @@ build:
         <td width="25%"><b>Fonts</b></td>
         <td width="25%">Atkinson Hyperlegible</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#font">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#fonts">Jump to section ↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Theme</b></td>

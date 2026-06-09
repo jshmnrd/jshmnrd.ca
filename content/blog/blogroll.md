@@ -5,7 +5,7 @@ layout: dev
 build:
   list: never
 ---
-<sup><code>Updated: 2026-06-06</code></sup>
+<sup title="(when the list was last updated)"><code>Updated: 2026-06-06</code></sup>
 
 # 🗞 Blogroll
 
@@ -27,66 +27,66 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
 <p>
   <b>Website:</b>
   <a href="https://adityatelange.in" target="_blank">AdityaTelange.in</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://adityatelange.in/index.xml" target="_blank">adityatelange.in/index.xml</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://adityatelange.in/index.xml">Copy</button>
 </p>
 
 <p class="br-h2">James G</p>
 <p>
   <b>Website:</b>
   <a href="https://jamesg.blog/" target="_blank">JamesG.blog</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://jamesg.blog/feeds/posts.xml">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://jamesg.blog/feeds/" target="_blank">jamesg.blog/feeds</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://jamesg.blog/feeds/posts.xml">Copy</button>
 </p>
 
 <p class="br-h2">Meadow</p>
 <p>
   <b>Website:</b>
   <a href="https://meadow.cafe/" target="_blank">Meadow.cafe</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://meadow.cafe/feeds/main_rss.xml">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://meadow.cafe/feeds/" target="_blank">meadow.cafe/feed</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://meadow.cafe/feeds/main_rss.xml">Copy</button>
 </p>
 
 <p class="br-h2">Robert Birming</p>
 <p>
   <b>Website:</b>
   <a href="https://robertbirming.com/" target="_blank">RobertBirming.com</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://robertbirming.com/feed/" target="_blank">robertbirming.com/feed</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy</button>
 </p>
 
 <p class="br-h2">Toska</p>
 <p>
   <b>Website:</b>
   <a href="https://toska.bearblog.dev/" target="_blank">Toska.bearblog.dev</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://toska.bearblog.dev/feed/?type=rss">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://toska.bearblog.dev/feed/" target="_blank">toska.bearblog.dev/feed</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://toska.bearblog.dev/feed/?type=rss">Copy</button>
 </p>
 
 <p class="br-h2">Zakhary</p>
 <p>
   <b>Website:</b>
   <a href="https://zakhary.dev/" target="_blank">Zakhary.dev</a>
-  <br>&emsp;&emsp;&emsp;
+  <br>
+  <button class="copy-btn" data-copy="https://zakhary.dev/feed.xml">Copy</button>
+  &ensp;
   <b>Feed:</b>
   <a href="https://zakhary.dev/feed.xml" target="_blank">zakhary.dev/feed</a>
-  &emsp;&emsp;
-  <button class="copy-btn" data-copy="https://zakhary.dev/feed.xml">Copy</button>
 </p>
 
 <!--<p class="br-h2">_</p>
