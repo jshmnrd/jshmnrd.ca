@@ -21,12 +21,7 @@ select {
   cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
 }
 
-/* Text cursor */
-p,
-li,
-blockquote,
-.post-content,
-.post-content *,
+/* Text/editing cursor */
 input[type="text"],
 input[type="email"],
 input[type="search"],
