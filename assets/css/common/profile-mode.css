@@ -50,7 +50,7 @@ a.copy-btn {
 }
 
 .copy-img {
-    cursor: pointer;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
     display: inline;
     margin: auto;
     border-radius: 0px;
