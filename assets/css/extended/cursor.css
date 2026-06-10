@@ -1,0 +1,21 @@
+/* Custom cursor */
+html,
+body {
+  cursor: url("/cursors/aosp-cursors/cursors_scalable/arrow.svg"), auto;
+}
+
+a,
+a *,
+button,
+button *,
+summary,
+summary *,
+[role="button"],
+[role="button"] *,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+label,
+select {
+  cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
+}
