@@ -1,9 +1,10 @@
-/* Custom cursor */
+/* Default cursor */
 html,
 body {
   cursor: url("/cursors/aosp-cursors/cursors_scalable/arrow.svg"), auto;
 }
 
+/* Clickable cursor */
 a,
 a *,
 button,
@@ -18,4 +19,34 @@ input[type="reset"],
 label,
 select {
   cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
+}
+
+/* Text cursor */
+p,
+li,
+blockquote,
+.post-content,
+.post-content *,
+input[type="text"],
+input[type="email"],
+input[type="search"],
+input[type="url"],
+input[type="password"],
+textarea,
+[contenteditable="true"] {
+  cursor: url("/cursors/aosp-cursors/cursors_scalable/text.svg"), text;
+}
+
+/* Zoom-in cursor */
+img,
+figure,
+[style*="cursor: zoom-in"],
+.zoom-in {
+  cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_in.svg"), zoom-in;
+}
+
+/* Zoom-out cursor */
+[style*="cursor: zoom-out"],
+.zoom-out {
+  cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_out.svg"), zoom-out;
 }

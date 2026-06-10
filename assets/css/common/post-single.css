@@ -377,13 +377,13 @@
 }
 
 .toc details summary {
-    cursor: zoom-in;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_in.svg"), zoom-in;
     margin-inline-start: 10px;
     user-select: none;
 }
 
 .toc details[open] summary {
-    cursor: zoom-out;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_out.svg"), zoom-out;
 }
 
 .toc .details {
