@@ -138,21 +138,36 @@
 {{- end }}
 
 <script>
+  let isMouseDownInText = false;
+  let hasDragged = false;
+
   document.addEventListener("mousedown", function (event) {
     const selectableArea = event.target.closest(
       "p, li, blockquote, .post-content, .post-content *"
     );
 
     if (selectableArea) {
+      isMouseDownInText = true;
+      hasDragged = false;
+    }
+  });
+
+  document.addEventListener("mousemove", function () {
+    if (isMouseDownInText && !hasDragged) {
+      hasDragged = true;
       document.documentElement.classList.add("is-selecting-text");
     }
   });
 
   document.addEventListener("mouseup", function () {
+    isMouseDownInText = false;
+    hasDragged = false;
     document.documentElement.classList.remove("is-selecting-text");
   });
 
   document.addEventListener("mouseleave", function () {
+    isMouseDownInText = false;
+    hasDragged = false;
     document.documentElement.classList.remove("is-selecting-text");
   });
 </script>

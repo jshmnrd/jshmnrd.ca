@@ -46,11 +46,7 @@ figure,
   cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_out.svg"), zoom-out;
 }
 
-html.is-selecting-text,
-html.is-selecting-text body,
-html.is-selecting-text p,
-html.is-selecting-text li,
-html.is-selecting-text blockquote,
+/* Click+drag text */
 html.is-selecting-text .post-content,
 html.is-selecting-text .post-content * {
   cursor: url("/cursors/aosp-cursors/cursors_scalable/text.svg"), text !important;
