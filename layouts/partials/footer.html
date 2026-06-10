@@ -136,3 +136,23 @@
     });
 </script>
 {{- end }}
+
+<script>
+  document.addEventListener("mousedown", function (event) {
+    const selectableArea = event.target.closest(
+      "p, li, blockquote, .post-content, .post-content *"
+    );
+
+    if (selectableArea) {
+      document.documentElement.classList.add("is-selecting-text");
+    }
+  });
+
+  document.addEventListener("mouseup", function () {
+    document.documentElement.classList.remove("is-selecting-text");
+  });
+
+  document.addEventListener("mouseleave", function () {
+    document.documentElement.classList.remove("is-selecting-text");
+  });
+</script>
