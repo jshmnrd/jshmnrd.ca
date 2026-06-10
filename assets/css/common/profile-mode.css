@@ -43,6 +43,7 @@
     border-radius: var(--radius);
     margin: 6px 12px 6px 0px;
     padding: 1px 7px 1px 7px;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/copy.svg"), url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
 }
 
 a.copy-btn {
@@ -60,6 +61,7 @@ a.copy-btn {
 
 a.copy-btn2 {
     text-decoration: none;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/copy.svg"), url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
 }
 
 .button-inner {

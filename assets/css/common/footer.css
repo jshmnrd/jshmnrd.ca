@@ -24,6 +24,7 @@
 
 .footer svg:hover.leaf {
     color:#f00;
+    cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
 }
 
 .footer span {
