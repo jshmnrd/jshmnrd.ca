@@ -1,13 +1,27 @@
 {{- define "main" }}
 
-<header> <!--was <header class="page-header">-->
-<!--<h1>{{ .Title }} &nbsp;</h1>-->
-<h1 class="archiveh1">🔎 Search</h1>
+<header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+        {{- with .Params.icon_url -}}
+        {{- $icon := . -}}
+        {{- if or (hasPrefix $icon "http://") (hasPrefix $icon "https://") -}}
+        <img class="post-title-icon" src="{{ $icon }}" alt="" aria-hidden="true">
+        {{- else -}}
+        <img class="post-title-icon" src="{{ $icon | relURL }}" alt="" aria-hidden="true">
+        {{- end -}}
+        {{- else with .Params.icon_svg -}}
+        <span class="post-title-svg" aria-hidden="true">
+            {{ partial (printf "icons/%s.html" .) . }}
+        </span>
+        {{- else with .Params.emoji -}}
+        <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
+        {{- end -}}
+        <span>{{ .Title }}</span>
 </header>
 
 <div id="searchbox">
-    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf "%s↵" .Title) }}"
-        aria-label="search" type="search" autocomplete="off" maxlength="64">
+    <input id="searchInput" autofocus placeholder="{{ .Params.placeholder | default (printf " %s↵" .Title) }}" aria-label="search" type="search" autocomplete="off" maxlength="64">
     <ul id="searchResults" aria-label="search results"></ul>
 </div>
 

@@ -30,7 +30,7 @@ menu:
         - name: contact
           url: contact/
           weight: 9
-        - name: 🔍
+        - name: search
           url:  search/
           weight: 10
 
