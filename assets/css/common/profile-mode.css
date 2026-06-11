@@ -51,7 +51,7 @@ a.copy-btn {
 }
 
 .copy-img {
-    cursor: url("/cursors/cinnamoroll/pointer.cur"), pointer;
+    cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
     display: inline;
     margin: auto;
     border-radius: 0px;

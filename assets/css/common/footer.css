@@ -24,7 +24,7 @@
 
 .footer svg:hover.leaf {
     color:#f00;
-    cursor: url("/cursors/cinnamoroll/pointer.cur"), pointer;
+    cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
 }
 
 .footer span {
