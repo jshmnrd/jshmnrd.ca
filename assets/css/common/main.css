@@ -173,7 +173,7 @@ kbd {
     border-radius: var(--radius);
     margin: 6px 12px 6px 0px;
     padding: 1px 7px 1px 7px;
-    cursor: url("/cursors/aosp-cursors/copy.svg"), url("/cursors/aosp-cursors/hand.svg"), pointer;
+    cursor: url("/cursors/aosp-cursors/copy.svg"), url("/cursors/aosp-cursors/hand2.svg"), pointer;
 }
 
 .callout button.copy-btn:hover {
@@ -191,7 +191,7 @@ kbd {
 
 .callout.rss:hover {
     border: 2px solid var(--darkcolor);
-    cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
+    cursor: url("/cursors/aosp-cursors/hand2.svg"), pointer;
 }
 
 .callout.rss a {

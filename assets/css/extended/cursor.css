@@ -1,7 +1,7 @@
 /* Default cursor */
 html,
 body {
-  cursor: url("/cursors/aosp-cursors/arrow.svg"), auto;
+  cursor: url("/cursors/aosp-cursors/arrow2.svg"), auto;
 }
 
 /* Clickable cursor */
@@ -18,7 +18,7 @@ input[type="submit"],
 input[type="reset"],
 label,
 select {
-  cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
+  cursor: url("/cursors/aosp-cursors/hand2.svg"), pointer;
 }
 
 /* Text/editing cursor */
@@ -37,13 +37,13 @@ img,
 figure,
 [style*="cursor: zoom-in"],
 .zoom-in {
-  cursor: url("/cursors/aosp-cursors/zoom_in.svg"), zoom-in;
+  cursor: url("/cursors/aosp-cursors/zoom_in2.svg"), zoom-in;
 }
 
 /* Zoom-out cursor */
 [style*="cursor: zoom-out"],
 .zoom-out {
-  cursor: url("/cursors/aosp-cursors/zoom_out.svg"), zoom-out;
+  cursor: url("/cursors/aosp-cursors/zoom_out2.svg"), zoom-out;
 }
 
 /* Click+drag text */
