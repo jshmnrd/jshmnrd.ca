@@ -10,13 +10,27 @@ build:
   list: never
 ---
 
-<!-- REMEMBER TO CHANGE THE FOOTER!! -->
+<!-- ‼️ REMEMBER TO CHANGE THE FOOTER ‼️ -->
 
 All notable changes to this project will be documented on this page.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.2] - 2026-06-09
+<!-- // CURRENT VERSION
+---------------------------->
+
+## [1.0.3] - 2026-06-10
+
+## Added
+
+- [Site Map](/sitemap): Added a sitemap for accessibility.
+
+---
+
+<!-- // PREVIOUS VERSIONS
+---------------------------->
+
+<details class="h2"><summary>[1.0.2] - 2026-06-09</summary>
 
 ### Added
 
@@ -29,8 +43,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - [Site Info](/siteinfo): Moved [siteinfo](/siteinfo) to the main directory, instead of being a subpage of [about](/about).
   From ```/about/siteinfo``` to just ``/siteinfo```
   - Updated footer link
-
----
+</details>
 
 <details class="h2"><summary>[1.0.1] - 2026-06-08</summary>
 
