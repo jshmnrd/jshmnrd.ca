@@ -1,7 +1,7 @@
 /* Default cursor */
 html,
 body {
-  cursor: url("/cursors/aosp-cursors/arrow.svg"), auto;
+  cursor: url("/cursors/cinnamoroll/cursor.cur"), auto;
 }
 
 /* Clickable cursor */
@@ -18,7 +18,7 @@ input[type="submit"],
 input[type="reset"],
 label,
 select {
-  cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
+  cursor: url("/cursors/cinnamoroll/pointer.cur"), pointer;
 }
 
 /* Text/editing cursor */

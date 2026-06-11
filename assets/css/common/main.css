@@ -191,7 +191,7 @@ kbd {
 
 .callout.rss:hover {
     border: 2px solid var(--darkcolor);
-    cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
+    cursor: url("/cursors/cinnamoroll/pointer.cur"), pointer;
 }
 
 .callout.rss a {
