@@ -1,7 +1,7 @@
 /* Default cursor */
 html,
 body {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/arrow.svg"), auto;
+  cursor: url("/cursors/aosp-cursors/arrow.svg"), auto;
 }
 
 /* Clickable cursor */
@@ -18,7 +18,7 @@ input[type="submit"],
 input[type="reset"],
 label,
 select {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/hand.svg"), pointer;
+  cursor: url("/cursors/aosp-cursors/hand.svg"), pointer;
 }
 
 /* Text/editing cursor */
@@ -29,7 +29,7 @@ input[type="url"],
 input[type="password"],
 textarea,
 [contenteditable="true"] {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/text.svg"), text;
+  cursor: url("/cursors/aosp-cursors/text.svg"), text;
 }
 
 /* Zoom-in cursor */
@@ -37,17 +37,17 @@ img,
 figure,
 [style*="cursor: zoom-in"],
 .zoom-in {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_in.svg"), zoom-in;
+  cursor: url("/cursors/aosp-cursors/zoom_in.svg"), zoom-in;
 }
 
 /* Zoom-out cursor */
 [style*="cursor: zoom-out"],
 .zoom-out {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/zoom_out.svg"), zoom-out;
+  cursor: url("/cursors/aosp-cursors/zoom_out.svg"), zoom-out;
 }
 
 /* Click+drag text */
 html.is-selecting-text .post-content,
 html.is-selecting-text .post-content * {
-  cursor: url("/cursors/aosp-cursors/cursors_scalable/text.svg"), text !important;
+  cursor: url("/cursors/aosp-cursors/text.svg"), text !important;
 }
