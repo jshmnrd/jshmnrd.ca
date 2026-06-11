@@ -44,6 +44,6 @@ disableAnchoredHeadings: true
         -   [Library](/explore/reading/library)
 -   [Feeds](/feeds)
 -   [Search](/search)
--   [Site Info](/about/siteinfo)
+-   [Site Info](/siteinfo)
 -   [Sitemap](#)
 -   [Tags](/tags)
