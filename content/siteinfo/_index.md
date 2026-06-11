@@ -1,9 +1,9 @@
 ---
 title: "Site Info"
 description: "Information about this website."
-layout: "dev"
-build:
-  list: never
+#layout: "dev"
+#build:
+  #list: never
 ---
 
 # ℹ️ Site Info

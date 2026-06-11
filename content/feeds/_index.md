@@ -1,15 +1,18 @@
 ---
 title: "Feeds"
-emoji: "📰"
+description: "Subscribe to RSS feeds of my content!"
+#emoji: "📰"
 #icon_url: "https://pub.jshmnrd.ca/w/svg/0002-RSS.svg" 
 #icon_svg: "rss"
-ShowPostNavLinks: false
+#ShowPostNavLinks: false
 ShowBreadCrumbs: false
-disableShare: true
-build:
-  list: never
-hidemeta: true
+#disableShare: true
+#build:
+  #list: never
+#hidemeta: true
 ---
+
+# 📰 Feeds
 
 <style>
     .post-content p.br-h2 {
@@ -20,8 +23,6 @@ hidemeta: true
 </style>
 
 Welcome to my /feeds page, a concept created by [Marcus](https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds). Use these links to subscribe to feeds of my content.
-
----
 
 <p class="callout">RSS is an acronym for a set of XML feed file format variants used for syndicating time-stamped content from web sites like blogs and podcasts, and sometimes a shorthand for feed file formats as a whole including Atom, or even more broadly for the concept of feeds or syndication in general.
 <br><br>
