@@ -30,7 +30,8 @@ menu:
         - name: contact
           url: contact/
           weight: 9
-        - name: search
+        - identifier: search
+          name: search
           url:  search/
           weight: 10
 

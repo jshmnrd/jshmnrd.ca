@@ -1,12 +1,16 @@
-/* Replace the search menu text with a custom icon */
-#menu a[href$="search/"] {
+#menu a[href$="/search/"] {
   font-size: 0;
-  width: 1.4rem;
-  height: 1.4rem;
+  width: 1.35rem;
+  height: 1.35rem;
   display: inline-block;
-  background-image: url("/icons/search.svg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
   vertical-align: middle;
+
+  background-color: currentColor;
+
+  mask: url("/icons/search.svg") center / contain no-repeat;
+  -webkit-mask: url("/icons/search.svg") center / contain no-repeat;
+}
+
+#menu a[href$="/search/"]:hover {
+  color: var(--darkcolor);
 }
