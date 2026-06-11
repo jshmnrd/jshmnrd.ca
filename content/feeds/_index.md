@@ -6,6 +6,7 @@ description: "Subscribe to RSS feeds of my content!"
 #icon_svg: "rss"
 #ShowPostNavLinks: false
 ShowBreadCrumbs: false
+disableAnchoredHeadings: true
 #disableShare: true
 #build:
   #list: never
