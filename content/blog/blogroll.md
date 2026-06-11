@@ -5,9 +5,10 @@ layout: dev
 build:
   list: never
 ---
-<sup title="(when the list was last updated)"><code>Updated: 2026-06-06</code></sup>
 
 # 🗞 Blogroll
+
+<sup title="(when the list was last updated)"><code>Updated: 2026-06-06</code></sup>
 
 <br>
 

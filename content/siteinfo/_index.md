@@ -21,37 +21,37 @@ ShowBreadCrumbs: false
         <td width="25%"><b>Analytics</b></td>
         <td width="25%">Cabin</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#analytics">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#analytics">Jump↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Site hosting</b></td>
         <td width="25%">GitHub Pages</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#site-hosting">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#site-hosting">Jump↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Domain registrar</b></td>
         <td width="25%">Porkbun</td>
         <td width="25%"><code>$13.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#domain-registrar">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#domain-registrar">Jump↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Framework</b></td>
         <td width="25%">Hugo</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#framework">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#framework">Jump↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Fonts</b></td>
         <td width="25%">Atkinson Hyperlegible</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#fonts">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#fonts">Jump↓</a></td>
     </tr>
     <tr>
         <td width="25%"><b>Theme</b></td>
         <td width="25%">PaperMod</td>
         <td width="25%"><code>$ 0.00</code> /yr</td>
-        <td width="25%"><a class="copy-btn" href="#theme">Jump to section ↓</a></td>
+        <td width="25%"><a class="copy-btn" href="#theme">Jump↓</a></td>
     </tr>
 </table>
 

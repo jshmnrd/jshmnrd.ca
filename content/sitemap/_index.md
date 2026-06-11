@@ -4,6 +4,7 @@ description: "A map of the content on my website."
 #emoji: "🗺"
 #ShowPostNavLinks: false
 ShowBreadCrumbs: false
+disableAnchoredHeadings: true
 #disableShare: true
 #build:
   #list: never
@@ -12,13 +13,13 @@ ShowBreadCrumbs: false
 
 # 🗺 Sitemap
 
--   [Home](/)
 -   [About](/about)
-    -   [Site Info](/about/siteinfo)
+-   [Archives](/archives)
 -   [Blog](/blog)
     -   [[001] "I'm on powRSS!"](/blog/001-powRSS)
     -   [[001] "Blog Links Update"](/blog/002-bloglinks)
     -   [Blogroll](/blog/blogroll)
+-   [Changelog](/changelog)
 -   [Contact](/contact)
 -   [Dev](/dev) (redirects to home)
     -   [Elements](/elements)
@@ -41,9 +42,8 @@ ShowBreadCrumbs: false
         -   [Uses](/explore/other/uses)
     -   [Reading](/explore/reading)
         -   [Library](/explore/reading/library)
--   [Tags](/tags)
--   [Archives](/archives)
--   [Changelog](/changelog)
 -   [Feeds](/feeds)
 -   [Search](/search)
+-   [Site Info](/about/siteinfo)
 -   [Sitemap](#)
+-   [Tags](/tags)
