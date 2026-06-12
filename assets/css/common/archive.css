@@ -55,3 +55,7 @@ h1.archiveh1 {
     color: var(--secondary);
     font-size: 14px;
 }
+
+.archive-entry div:hover.archive-meta {
+    text-decoration: none;
+}
