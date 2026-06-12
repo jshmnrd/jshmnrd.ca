@@ -1,6 +1,7 @@
 ---
 title: "Blogroll"
 description: "My blogroll: a list of the blogs I read."
+ShowBreadCrumbs: false
 ---
 
 # 🗞 Blogroll
