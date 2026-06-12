@@ -2,7 +2,6 @@
 title: "Film Review: Hokum (2026)"
 emoji: "🐰"
 date: 2026-06-04
-lastmod: 2026-06-05
 tags: ["posts","film review","film","review"]
 description: "My review of Damian McCarthy's 2026 film 'Hokum'."
 summary: "!! CONTENT WARNING !! Topics related to depression, self-harm and suicide"
