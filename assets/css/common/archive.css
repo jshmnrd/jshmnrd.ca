@@ -46,7 +46,7 @@ h1.archiveh1 {
     font-size: var(--homesize);
 }
 
-.archive-entry:hover {
+.archive-entry:hover .archive-entry-title {
     text-decoration: underline 2px solid var(--darkcolor);
 }
 
