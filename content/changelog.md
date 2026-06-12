@@ -12,7 +12,7 @@ build:
 
 <style>
   .post-content h2 {
-    font-size: 21px;
+    font-size: 24px;
     margin: 0;
     color: var(--darkcolor);
   }
