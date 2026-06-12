@@ -2,6 +2,7 @@
 title: "Site Info"
 description: "Information about this website."
 ShowBreadCrumbs: false
+lastmod: 2026-06-07
 #layout: "dev"
 #build:
   #list: never
