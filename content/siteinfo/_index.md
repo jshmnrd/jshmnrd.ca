@@ -2,9 +2,6 @@
 title: "Site Info"
 description: "Information about this website."
 ShowBreadCrumbs: false
-#layout: "dev"
-#build:
-  #list: never
 ---
 
 # ℹ️ Site Info

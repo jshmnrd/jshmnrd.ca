@@ -1,14 +1,8 @@
 ---
 title: "Sitemap"
 description: "A map of the content on my website."
-#emoji: "🗺"
-#ShowPostNavLinks: false
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
-#disableShare: true
-#build:
-  #list: never
-#hidemeta: true
 ---
 
 # 🗺 Sitemap

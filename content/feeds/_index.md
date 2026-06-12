@@ -1,16 +1,8 @@
 ---
 title: "Feeds"
 description: "Subscribe to RSS feeds of my content!"
-#emoji: "📰"
-#icon_url: "https://pub.jshmnrd.ca/w/svg/0002-RSS.svg" 
-#icon_svg: "rss"
-#ShowPostNavLinks: false
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
-#disableShare: true
-#build:
-  #list: never
-#hidemeta: true
 ---
 
 # 📰 Feeds

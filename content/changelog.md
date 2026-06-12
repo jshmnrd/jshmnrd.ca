@@ -10,6 +10,14 @@ build:
   list: never
 ---
 
+<style>
+  .post-content h2 {
+    font-size: 21px;
+    margin: 0;
+    color: var(--darkcolor);
+  }
+</style>
+
 <!-- ‼️ REMEMBER TO CHANGE THE FOOTER ‼️ -->
 
 All notable changes to this project will be documented on this page.
@@ -19,29 +27,44 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 <!-- // CURRENT VERSION
 ---------------------------->
 
-## [1.0.3] - 2026-06-10
+## 1.0.4
+**Date:** 2026-06-11
 
-## Added
+### Changed
 
-- [Site Map](/sitemap): Added a sitemap for accessibility.
+- [Blogroll](/blogroll): Moved [blogroll](/blogroll) to the main directory, instead of being a subpage of [blog](/blog).
+  From ```/blog/blogroll``` to just ```/blogroll```
+  - Updated [blog](/blog) & [explore](/explore) links.
+
+### Fixed
+
+- The Blogroll and RSS Feed boxes on [blog](/blog) & [explore](/explore) - now the entire box is hyperlinked, not just the text in the box.
 
 ---
 
 <!-- // PREVIOUS VERSIONS
 ---------------------------->
 
-<details class="h2"><summary>[1.0.2] - 2026-06-09</summary>
+## 1.0.3
+**Date:** 2026-06-10
+
+### Added
+
+- [Site Map](/sitemap): Added a sitemap for accessibility.
+
+## 1.0.2
+**Date:** 2026-06-09
 
 ### Changed
 
 - [Changelog](#): Small layout changes to Changelog page.
   - Previous versions are now details toggles to save space and be more readable.
 - [Site Info](/siteinfo): Moved [siteinfo](/siteinfo) to the main directory, instead of being a subpage of [about](/about).
-  From ```/about/siteinfo``` to just ``/siteinfo```
+  From ```/about/siteinfo``` to just ```/siteinfo```
   - Updated footer link
-</details>
 
-<details class="h2"><summary>[1.0.1] - 2026-06-08</summary>
+## 1.0.1
+**Date:** 2026-06-08
 
 ### Changed
 
@@ -51,21 +74,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - [Changelog](/changelog): Moved changelog to the main directory, instead of a subpage of [about](/about).
   From ```/about/changelog``` to just ```/changelog```
   - Updated footer link to the changelog.
-- [Blogroll](/blog/blogroll): Moved the RSS feed link <button class="copy-btn">copy</button> button to the left of the link, for better formatting, especially on skinnier screens.
+- [Blogroll](/blogroll): Moved the RSS feed link <button class="copy-btn">copy</button> button to the left of the link, for better formatting, especially on skinnier screens.
 
 ### Fixed
 
 - [Blog](/blog): Fixed missing image from blog post [002 - "Blog Links Update"](/blog/002-bloglinks).
 - [Site info](/about/siteinfo): Fixed the summary "Jump to section ↓" button.
 
-</details>
-
-<details class="h2"><summary>[1.0.0] - 2026-06-07</summary>
+## 1.0.0
+**Date:** 2026-06-07
 
 ### Added
 
 -   Initial commit.  
     Not the initial site commit, but the initial commit of this changelog.  
     To not bog myself down backlogging every change, I've decided to only start tracking now that I've decided to keep a changelog. 
-
-</details>
