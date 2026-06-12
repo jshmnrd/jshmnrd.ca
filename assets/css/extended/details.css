@@ -2,5 +2,5 @@ details.h2 summary {
     font-weight: 700;
     margin: 32px auto 24px;
     font-size: 24px;
-    cursor: url("/cursors/aosp-cursors/hand2.svg"), pointer;
+    cursor: pointer;
 }

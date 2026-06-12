@@ -106,7 +106,7 @@ textarea {
 button,
 input[type=button],
 input[type=submit] {
-    cursor: url("/cursors/aosp-cursors/hand2.svg"), pointer;
+    cursor: pointer;
 }
 
 input:-webkit-autofill,

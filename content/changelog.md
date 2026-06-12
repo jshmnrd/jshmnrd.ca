@@ -32,10 +32,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 <details class="h2"><summary>[1.0.2] - 2026-06-09</summary>
 
-### Added
-
-- Added custom cursor to the website.
-
 ### Changed
 
 - [Changelog](#): Small layout changes to Changelog page.
