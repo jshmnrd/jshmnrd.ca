@@ -21,10 +21,14 @@ You can contact me via email, <a href="#" onClick="alert('no spam please!')">hel
   background: var(--entry);
   margin: 0px 0px 10px 10px;
   padding: 2px 5px 2px 5px;
-  color: red;
   border-radius: var(--radius);
 }
+.guestbooks___input-container input,
+.guestbooks___input-container textarea {
+  color: var(--primary);
+}
 </style>
+
 <!-- Guestbook Form -->
 <div id="guestbooks___guestbook-form-container">
   <form id="guestbooks___guestbook-form" 
