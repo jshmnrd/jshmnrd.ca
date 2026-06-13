@@ -1,9 +1,9 @@
 ---
 title: "About"
-description: "About Joshua Maynard"
+page_title: "Hi"
 layout: "page"
 emoji: "✌️"
-pageTitle: "Hi"
+description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
