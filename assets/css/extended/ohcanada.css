@@ -12,7 +12,7 @@
     font: inherit;
     line-height: 1;
     cursor: pointer;
-    vertical-align: middle;
+    vertical-align: inherit;
     appearance: none;
 }
 
