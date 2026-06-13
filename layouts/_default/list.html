@@ -48,6 +48,54 @@
 </div>
 {{- end }}
 
+{{- else if eq .Layout "listpage" }}
+
+<header class="post-header">
+    <h1 class="post-title entry-hint-parent">
+      {{- with .Params.icon_url -}}
+      {{- $icon := . -}}
+      {{- if or (hasPrefix $icon "http://") (hasPrefix $icon "https://") -}}
+      <img class="post-title-icon" src="{{ $icon }}" alt="" aria-hidden="true">
+      {{- else -}}
+      <img class="post-title-icon" src="{{ $icon | relURL }}" alt="" aria-hidden="true">
+      {{- end -}}
+      {{- else with .Params.icon_svg -}}
+      <span class="post-title-svg" aria-hidden="true">
+        {{ partial (printf "icons/%s.html" .) . }}
+      </span>
+      {{- else with .Params.emoji -}}
+      <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
+      {{- end -}}
+
+      {{ .Params.page_title | default .Title }}
+
+      {{- with .Params.after_icon_url -}}
+      {{- $icon := . -}}
+      {{- if or (hasPrefix $icon "http://") (hasPrefix $icon "https://") -}}
+      <img class="post-title-icon" src="{{ $icon }}" alt="" aria-hidden="true">
+      {{- else -}}
+      <img class="post-title-icon" src="{{ $icon | relURL }}" alt="" aria-hidden="true">
+      {{- end -}}
+      {{- else with .Params.after_icon_svg -}}
+      <span class="post-title-svg" aria-hidden="true">
+        {{ partial (printf "icons/%s.html" .) . }}
+      </span>
+      {{- else with .Params.after_emoji -}}
+      <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
+      {{- end -}}
+    </h1>
+</header>
+
+{{- if .Content }}
+<div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}
+    {{ .Content }}
+    {{- end }}
+</div>
+{{- end }}
+
 {{- else if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}

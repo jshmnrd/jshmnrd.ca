@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+emoji: "🖊"
 description: "My Blog"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
@@ -14,7 +15,7 @@ disableAnchoredHeadings: true
     </p>
   </a>
 
-  <a style="text-decoration:none;" href="/archive">
+  <a style="text-decoration:none;" href="/archives">
     <p class="callout tags">
       <span style="font-size:20px;font-weight:700;">Archive</span>
     </p>
