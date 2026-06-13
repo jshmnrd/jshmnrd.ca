@@ -1,10 +1,12 @@
 ---
 title: "Blogroll"
-emoji: "🗞"
+icon_svg: "blogroll"
 layout: "page"
 description: "My blogroll: a list of the blogs I read."
 ShowBreadCrumbs: false
 ---
+
+<sup><b>Updated:</b> 2026-06-11</sup>
 
 <style>
   .post-content p.br-h2 {
@@ -148,5 +150,3 @@ document.querySelectorAll(".copy-btn").forEach(button => {
   });
 });
 </script>
-
-*Updated: 2026-06-11*

@@ -1,13 +1,22 @@
 ---
-title: "Site Info"
+title: "Colophon"
 icon_svg: "info"
 layout: "page"
 description: "Information about this website."
 ShowBreadCrumbs: false
+aliases:
+  - /siteinfo/
+  - /about/siteinfo/
 ---
 
-<sup><code>Updated: 2026-06-07</code></sup>
+<sup><b>Updated:</b> 2026-06-13</sup>
 
+<blockquote>
+    <p>A colophon is a page or section (typically in a footer) of a site that describes how the site is made, with what tools, supporting what technologies, and often published on personal sites at a top level /colophon page.</p>
+    <cite>Source: <a href="https://indieweb.org/colophon">IndieWeb.org</a></cite>
+</blockquote>
+
+<!--
 ### Summary
 <table>
     <tr>
@@ -52,6 +61,7 @@ ShowBreadCrumbs: false
         <td width="25%"><a class="copy-btn" href="#theme">Jump↓</a></td>
     </tr>
 </table>
+-->
 
 ## Analytics
 

@@ -1,0 +1,28 @@
+/* SLASH PAGES
+---------------------------*/
+.post-content p.sp-h2 {
+    font-weight: 700;
+    font-size: 21px;
+    margin: 0;
+}
+/*-------------------------*/
+
+/* BLOGROLL
+---------------------------*/
+.post-content p.br-h2 {
+    font-weight: 700;
+    font-size: 21px;
+    margin: 0;
+}
+/*-------------------------*/
+
+/* 88X31
+---------------------------*/
+
+/* For toggling the views */
+.panel {
+  display: none;
+}
+.panel.active {
+  display: block;
+}

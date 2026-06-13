@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-emoji: "📧"
+icon_svg: "envelope"
 layout: "page"
 description: "Contact me"
 ShowBreadCrumbs: false

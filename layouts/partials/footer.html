@@ -1,6 +1,9 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
-    <svg class="leaf" xmlns="http://www.w3.org/2000/svg" viewBox="-1860 -2000 3720 4030"><title>Eh?</title><path fill="currentColor" d="m-90 2030 45-863a95 95 0 0 0-111-98l-859 151 116-320a65 65 0 0 0-20-73l-941-762 212-99a65 65 0 0 0 34-79l-186-572 542 115a65 65 0 0 0 73-38l105-247 423 454a65 65 0 0 0 111-57l-204-1052 327 189a65 65 0 0 0 91-27L0-2000l332 652a65 65 0 0 0 91 27l327-189L546-458a65 65 0 0 0 111 57l423-454 105 247a65 65 0 0 0 73 38l542-115-186 572a65 65 0 0 0 34 79l212 99-941 762a65 65 0 0 0-20 73l116 320-859-151a95 95 0 0 0-111 98l45 863z"/></svg>&nbsp;
+    <button id="leafButton" class="maple-leaf-button" aria-label='Play "Oh Canada!"'>
+    <svg class="leaf" xmlns="http://www.w3.org/2000/svg" viewBox="-1860 -2000 3720 4030"><title>Eh?</title><path fill="currentColor" d="m-90 2030 45-863a95 95 0 0 0-111-98l-859 151 116-320a65 65 0 0 0-20-73l-941-762 212-99a65 65 0 0 0 34-79l-186-572 542 115a65 65 0 0 0 73-38l105-247 423 454a65 65 0 0 0 111-57l-204-1052 327 189a65 65 0 0 0 91-27L0-2000l332 652a65 65 0 0 0 91 27l327-189L546-458a65 65 0 0 0 111 57l423-454 105 247a65 65 0 0 0 73 38l542-115-186 572a65 65 0 0 0 34 79l212 99-941 762a65 65 0 0 0-20 73l116 320-859-151a95 95 0 0 0-111 98l45 863z"/></svg>
+    </button><audio id="ohcanada" src="/ohcanada.ogg"></audio>
+    &nbsp;
     {{- if not site.Params.footer.hideCopyright }}
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
@@ -15,8 +18,23 @@
     {{- print " · "}}
     {{- end }}    
     <span>
-    <a href="/changelog">v1.0.4</a> · <a href="/siteinfo">Site info</a> · <a href="/sitemap">Sitemap</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>
+    <a href="/changelog">v1.0.5</a> · <a href="/colophon">Colophon</a> · <a href="/sitemap">Sitemap</a><a rel="me" href="https://mstdn.ca/@jshmnrd"></a>
     </span>
+    <script> // Oh Canada //
+        const mapleButton = document.getElementById("leafButton");
+        const leafAudio = document.getElementById("ohcanada");
+        
+        mapleButton.addEventListener("click", () => {
+            if (leafAudio.paused) {
+                leafAudio.play();
+                mapleButton.setAttribute("aria-label", 'Stop "Oh Canada!"');
+            } else {
+                leafAudio.pause();
+                leafAudio.currentTime = 0;
+                mapleButton.setAttribute("aria-label", 'Play "Oh Canada!"');
+            }
+        });
+    </script>
 </footer>
 {{- end }}
 

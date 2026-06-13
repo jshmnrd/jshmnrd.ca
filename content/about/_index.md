@@ -2,7 +2,7 @@
 title: "About"
 page_title: "Hi"
 layout: "page"
-after_icon_svg: "hands/filled/handPeaceDarkColor"
+icon_svg: "about"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
@@ -10,7 +10,7 @@ disableAnchoredHeadings: true
 
 I'm Joshua and this is my website.
 
-I'm a geek from Toronto, Canada. I love movies, TV, music, D&D and pretty much anything computer-related. My favourite food changes depending on when you ask me, but my mom's chicken casserole is always on the list.
+I'm a geek from Toronto, Canada. I love film, music and pretty much anything tech-related. My favourite food changes depending on when you ask me, but my mom's chicken casserole is always on the list.
 
 I enjoy tinkering and fiddling, that's how I taught myself Adobe Illustrator, a fact I'm quite proud of, but my crippling ADHD makes it difficult to learn new things.
 

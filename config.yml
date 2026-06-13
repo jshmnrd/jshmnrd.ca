@@ -21,12 +21,9 @@ menu:
         - name: explore
           url: explore/
           weight: 4
-        - name: archive
-          url: archives/
+        - name: slashes
+          url: slashes/
           weight: 5
-        - name: tags
-          url: tags/
-          weight: 6
         - name: contact
           url: contact/
           weight: 9
@@ -63,7 +60,7 @@ params:
     profileMode:
           enabled: true
           title: Joshua Maynard
-          subtitle: "I'm a geek from Toronto, Canada. I love movies, TV, music, D&D and pretty much anything computer-related."
+          subtitle: "I'm a geek from Toronto, Canada. I love film, music and pretty much anything tech-related."
           imageUrl: "jm.PNG"
           imageWidth: 160
           imageHeight: 160
@@ -74,10 +71,10 @@ params:
                 url: blog/
               - name: explore
                 url: explore/
+              - name: slashes
+                url: slashes/
               - name: contact
                 url: contact/
-              #- name: rss
-                #url: https://jshmnrd.ca/index.xml
 
     socialIcons:
         - name: Twitter

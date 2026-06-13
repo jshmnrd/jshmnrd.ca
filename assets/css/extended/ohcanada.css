@@ -1,0 +1,14 @@
+/* OH CANADA IN FOOTER
+---------------------------*/
+.maple-leaf-button {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+}
+
+.maple-leaf-button svg {
+  display: block;
+}
+/*-------------------------*/

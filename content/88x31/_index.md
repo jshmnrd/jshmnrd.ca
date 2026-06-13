@@ -1,21 +1,10 @@
 ---
 title: "88x31 Button Collection"
-emoji: "🪧"
-date: 2026-05-15
-tags: ["collections","lists","websites"]
 description: "My collection of 88x31 buttons."
-summary: "My collection of 88x31 buttons."
-ShowPostNavLinks: false
+icon_url: "https://pub.jshmnrd.ca/w/btn/0001-jshmnrd.gif"
+layout: "page"
+ShowBreadCrumbs: false
 ---
-
-<style> /* For toggling the views */
-.panel {
-  display: none;
-}
-.panel.active {
-  display: block;
-}
-</style>
 
 <p>This is my <a href="https://indieweb.org/88x31" target="_blank">88x31</a> button collection, because I can't help but collect things. It's not like many collections, I've curated it very specifically and each one means something special. Click one to visit its original site.</p>
 
@@ -62,8 +51,7 @@ ShowPostNavLinks: false
   <a href="#" target="_blank"><img class="btn" alt="#" title="#" src="#"></a>
 -->
 
-<div id="all" class="panel active">
-  <h2 hidden >All Buttons</h2>
+<div>
   <p class="btns">
   <!-- alpha-# -->
     <!-- 32-Bit Cafe | 2026-05-16 -->

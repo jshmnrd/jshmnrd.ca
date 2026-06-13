@@ -1,9 +1,7 @@
 ---
 title: "Archive"
-emoji: "🗃"
+icon_svg: "archive"
 layout: "archives"
 url: "/archives/"
 summary: archives
 ---
-
-# Archive

@@ -1,19 +1,23 @@
 ---
 title: "Sitemap"
-emoji: "🗺"
+icon_svg: "map"
 layout: "page"
 description: "A map of the content on my website."
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
+<sup><b>Updated:</b> 2026-06-13</sup>
+
+-   [88x31](/88x31)
 -   [About](/about)
 -   [Archives](/archives)
 -   [Blog](/blog)
-    -   [[001] "I'm on powRSS!"](/blog/001-powRSS)
+    -   [[001] "I'm on powRSS!"](/blog/001-powrss)
     -   [[001] "Blog Links Update"](/blog/002-bloglinks)
-    -   [Blogroll](/blog/blogroll)
+-   [Blogroll](/blogroll)
 -   [Changelog](/changelog)
+-   [Colophon](/colophon)
 -   [Contact](/contact)
 -   [Dev](/dev) (redirects to home)
     -   [Elements](/elements)
@@ -31,13 +35,10 @@ disableAnchoredHeadings: true
     -   [Music](/explore/music)
         -   [Album of the Month - April 2026](/explore/music/aotm-202604-volii)
         -   [Album of the Month - May 2026](/explore/music/aotm-202605-iftefwm)
-    -   [Other](/explore/other)
-        -   [88x31 Button Collection](/explore/other/88x31)
-        -   [Uses](/explore/other/uses)
     -   [Reading](/explore/reading)
         -   [Library](/explore/reading/library)
 -   [Feeds](/feeds)
 -   [Search](/search)
--   [Site Info](/siteinfo)
 -   [Sitemap](#)
+-   [Slashes](/slashes)
 -   [Tags](/tags)
