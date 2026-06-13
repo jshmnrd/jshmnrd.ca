@@ -1,6 +1,6 @@
 ---
 title: "About"
-icon_svg: "handPeace"
+emoji: "✌️"
 layout: "page"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
