@@ -1,10 +1,10 @@
 ---
 title: "Blogroll"
+emoji: "🗞"
+layout: "page"
 description: "My blogroll: a list of the blogs I read."
 ShowBreadCrumbs: false
 ---
-
-# 🗞 Blogroll
 
 <style>
   .post-content p.br-h2 {
