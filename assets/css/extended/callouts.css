@@ -116,19 +116,27 @@
     text-decoration: none;
 }
 
-.callout-row {
+.callout-row2 {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 24px;
     margin-bottom: 24px;
 }
 
-.callout-row .callout {
+.callout-row4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.callout-row2 .callout,
+.callout-row4 .callout {
     margin: 0;
 }
 
 @media (max-width: 700px) {
-    .callout-row {
+    .callout-row2, .callout-row4 {
         grid-template-columns: 1fr;
     }
 }
