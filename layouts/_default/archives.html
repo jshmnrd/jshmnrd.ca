@@ -75,8 +75,16 @@
           </span>
           {{- end }}
         </h3>
+        <!--
         <div class="archive-meta">
           {{- partial "post_meta.html" . -}}
+        </div>
+        -->
+        <div class="archive-meta">
+          {{- .Date.Format "2006-01-02" -}}
+          {{- with .Params.summary }}
+          &nbsp;·&nbsp;{{ . | plainify }}
+          {{- end }}
         </div>
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
