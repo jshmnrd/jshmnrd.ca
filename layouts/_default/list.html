@@ -18,11 +18,7 @@
       {{- else with .Params.emoji -}}
       <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
       {{- end -}}
-      {{- with .Params.pageTitle -}}
-      {{ .pageTitle }}
-      {{- else }}
       {{ .Title }}
-      {{- end }}
     </h1>
 </header>
 
