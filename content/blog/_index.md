@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 emoji: "🖊"
+layout: "listpage"
 description: "My Blog"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
