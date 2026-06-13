@@ -10,13 +10,19 @@ disableAnchoredHeadings: true
 <div class="callout-row">
   <a style="text-decoration:none;" href="/feeds">
     <p class="callout rss">
-      <span style="font-size:20px;font-weight:700;">RSS Feeds</span>
+      <span style="font-size:20px;font-weight:700;">Feeds</span>
     </p>
   </a>
 
   <a style="text-decoration:none;" href="/blogroll">
     <p class="callout rss">
       <span style="font-size:20px;font-weight:700;">Blogroll</span>
+    </p>
+  </a>
+
+  <a style="text-decoration:none;" href="/archive">
+    <p class="callout rss">
+      <span style="font-size:20px;font-weight:700;">Archive</span>
     </p>
   </a>
 </div>
