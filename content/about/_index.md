@@ -2,13 +2,11 @@
 title: "About"
 page_title: "Hi"
 layout: "page"
-after_icon_svg: "handPeace"
+after_icon_svg: "hands/filled/handPeace"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
-
-# Hi ✌️
 
 I'm Joshua and this is my website.
 
