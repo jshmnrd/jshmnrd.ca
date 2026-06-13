@@ -1,11 +1,12 @@
 ---
 title: "Contact"
+emoji: "📧"
+layout: "page"
 description: "Contact me"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
-# 📧 Contact Me
 You wanna talk to me?
 ![*blushes*](https://pub.jshmnrd.ca/w/img/0002-Blush260.jpg)
 
