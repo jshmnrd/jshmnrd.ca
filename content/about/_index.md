@@ -1,7 +1,6 @@
 ---
 title: "About"
-pageTitle: "Hi"
-icon_svg: "hands/filled/handPeace"
+icon_svg: "handPeace"
 layout: "page"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
