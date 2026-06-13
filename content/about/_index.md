@@ -1,6 +1,8 @@
 ---
 title: "About"
 description: "About Joshua Maynard"
+layout: "page"
+emoji: "✌️"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
