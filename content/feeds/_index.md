@@ -1,11 +1,11 @@
 ---
 title: "Feeds"
+emoji: "📰"
+layout: "page"
 description: "Subscribe to RSS feeds of my content!"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
-
-# 📰 Feeds
 
 <style>
     .post-content p.br-h2 {
