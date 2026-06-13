@@ -1,57 +1,6 @@
 {{- define "main" }}
 
-<!--{{- if (and site.Params.profileMode.enabled .IsHome) }}-->
-{{- if eq .Layout "page" }}
-
-<header class="page-header">
-    <h1 class="post-title-with-icon">
-        {{- with .Params.pageTitle -}}
-        {{- with .Params.icon_url -}}
-        {{- $icon := . -}}
-        {{- if or (hasPrefix $icon "http://") (hasPrefix $icon "https://") -}}
-        <img class="post-title-icon" src="{{ $icon }}" alt="" aria-hidden="true">
-        {{- else -}}
-        <img class="post-title-icon" src="{{ $icon | relURL }}" alt="" aria-hidden="true">
-        {{- end -}}
-        {{- else with .Params.icon_svg -}}
-        <span class="post-title-svg" aria-hidden="true">
-            {{ partial (printf "icons/%s.html" .) . }}
-        </span>
-        {{- else with .Params.emoji -}}
-        <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
-        {{- end -}}
-        <span>{{ .pageTitle }}</span>
-        {{- else -}}
-        {{- with .Params.icon_url -}}
-        {{- $icon := . -}}
-        {{- if or (hasPrefix $icon "http://") (hasPrefix $icon "https://") -}}
-        <img class="post-title-icon" src="{{ $icon }}" alt="" aria-hidden="true">
-        {{- else -}}
-        <img class="post-title-icon" src="{{ $icon | relURL }}" alt="" aria-hidden="true">
-        {{- end -}}
-        {{- else with .Params.icon_svg -}}
-        <span class="post-title-svg" aria-hidden="true">
-            {{ partial (printf "icons/%s.html" .) . }}
-        </span>
-        {{- else with .Params.emoji -}}
-        <span class="post-title-emoji" aria-hidden="true">{{ . }}</span>
-        {{- end -}}
-        <span>{{ .Title }}</span>
-        {{- end -}}
-    </h1>
-</header>
-
-{{- if .Content }}
-<div class="post-content">
-    {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}
-    {{ .Content }}
-    {{- end }}
-</div>
-{{- end }}
-
-{{- else if (and site.Params.profileMode.enabled .IsHome) }}
+{{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
