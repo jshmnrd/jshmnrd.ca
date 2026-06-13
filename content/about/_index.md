@@ -2,7 +2,7 @@
 title: "About"
 page_title: "Hi"
 layout: "page"
-after_icon_svg: "hands/filled/handPeaceYellow"
+after_icon_svg: "hands/filled/handPeaceDarkColor"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
