@@ -84,10 +84,25 @@
     border-radius: var(--radius);
 }
 
+.callout.tags {
+    font-size:95%;
+    padding: 4px 16px 4px 16px;
+    color: var(--content);
+    background-color: var(--entry);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+}
+
 .callout.rss:hover {
     border: 2px solid var(--darkcolor);
     cursor: pointer;
 }
+
+.callout.tags:hover {
+    border: 2px solid var(--darkcolor);
+    cursor: pointer;
+}
+
 
 .callout.rss a {
     display: block;
@@ -95,9 +110,15 @@
     text-decoration: none;
 }
 
+.callout.tags a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
 .callout-row {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 24px;
     margin-bottom: 24px;
 }
