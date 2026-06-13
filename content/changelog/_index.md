@@ -3,6 +3,7 @@ title: "Changelog"
 description: "Track changes made to the website"
 icon_svg: "keepachangelog"
 layout: "page"
+ShowBreadCrumbs: false
 ---
 
 <style>
