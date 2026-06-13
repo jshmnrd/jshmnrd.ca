@@ -1,7 +1,7 @@
 ---
 title: "88x31 Button Collection"
 description: "My collection of 88x31 buttons."
-icon_url: "https://pub.jshmnrd.ca/w/btn/0001-jshmnrd.gif"
+icon_svg: "pixelHeart"
 layout: "page"
 ShowBreadCrumbs: false
 ---
