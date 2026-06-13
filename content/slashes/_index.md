@@ -31,6 +31,9 @@ A list of [slash pages](https://slashpages.net/): pages that don't quite fit int
 <p class="sp-h2"><a href="/feeds">/feeds</a></p>
 <p>Use these links to subscribe to feeds of my content</p>
 
+<p class="sp-h2"><a href="/library">/library</a></p>
+<p>My Collection of Books.</p>
+
 <p class="sp-h2"><a href="/sitemap">/sitemap</a></p>
 <p>A map of the content on my website.</p>
 

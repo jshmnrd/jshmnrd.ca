@@ -1,6 +1,6 @@
 ---
 title: "Feeds"
-emoji: "📰"
+icon_svg: "rss-rev"
 layout: "page"
 description: "Subscribe to RSS feeds of my content!"
 ShowBreadCrumbs: false

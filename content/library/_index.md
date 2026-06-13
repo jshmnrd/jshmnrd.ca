@@ -1,11 +1,10 @@
 ---
 title: "Library"
-emoji: "📚"
-date: 2026-05-12
-tags: ["lists","books"]
-description: "My library"
-summary: "Basically a spreadsheet of all the books I own. Original (v01) posted 12 April 2026. Current: v02"
-ShowPostNavLinks: false
+icon_svg: "library"
+layout: "page"
+description: "My Library"
+ShowBreadCrumbs: false
+disableAnchoredHeadings: true
 ---
 
 This is my library. I keep it up to date as best I can, but the most up-to-date list is on my [Hardcover.app profile](https://hardcover.app/@jshmnrd?referrer_id=98561).

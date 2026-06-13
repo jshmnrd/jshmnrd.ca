@@ -32,7 +32,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Removed
 
--   Removed the "Other" category from the [Explore](/explore) page.
+-   Removed the "Other" category from the [Explore](/explore) page, because for the moment it's pointless.
+-   Removed the "Reading" category from the [Explore](/explore) page, because for the moment it too is pointless.
 -   Deleted the "Uses" page - by now it's baseically just a duplicate of [colophon](/colophon).
 
 ### Changed
@@ -45,6 +46,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 -   Removed [Archive](/archive) & [Tags](/tags) from the menu.
     -   Added both to [Blog](/blog) and [Explore](/explore) pages as links above the list of posts.
 -   Added [Slashes](/slashes) as a button on the home page.
+-   Moved [Library](/library) from [Explore](/explore) page to its own page.
 
 ---
 
