@@ -1,13 +1,12 @@
 ---
 title: "Blog"
-emoji: "🖊"
+icon_svg: "blog"
 layout: "listpage"
 description: "My Blog"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
-<h1>🖊 Blog</h1>
 <p>Welcome to my blog! I hope you enjoy :)
 <div class="callout-row4">
   <a style="text-decoration:none;" href="/tags">

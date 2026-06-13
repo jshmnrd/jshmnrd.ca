@@ -1,10 +1,11 @@
 ---
 title: "Explore"
+icon_svg: "explore"
+layout: "listpage"
 description: "Explore the content of my website"
 ShowBreadCrumbs: false
 ---
 
-<h1>🔭 Explore</h1>
 <p>The main content of my website. Pick a topic from the list and enjoy!</p>
 <div class="callout-row4">
   <a style="text-decoration:none;" href="/tags">
