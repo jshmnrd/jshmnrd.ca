@@ -1,11 +1,11 @@
 ---
 title: "Sitemap"
+emoji: "🗺"
+layout: "page"
 description: "A map of the content on my website."
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
-
-# 🗺 Sitemap
 
 -   [About](/about)
 -   [Archives](/archives)
