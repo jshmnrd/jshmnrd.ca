@@ -22,6 +22,12 @@
     color: var(--darkcolor);
 }
 
+.footer svg.leaf {
+    color: var(--secondary);
+    max-height: 1em;
+    vertical-align: -0.1em;
+}
+
 .footer svg:hover.leaf {
     color:#f00;
     cursor: pointer;
