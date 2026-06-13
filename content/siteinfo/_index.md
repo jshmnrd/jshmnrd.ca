@@ -1,10 +1,11 @@
 ---
 title: "Site Info"
+icon_svg: "info"
+layout: "page"
 description: "Information about this website."
 ShowBreadCrumbs: false
 ---
 
-# ℹ️ Site Info
 <sup><code>Updated: 2026-06-07</code></sup>
 
 ### Summary
