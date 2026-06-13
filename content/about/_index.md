@@ -1,13 +1,11 @@
 ---
 title: "About"
-emoji: "✌️"
-layout: "page"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
-# About
+# Hi ✌️
 
 I'm Joshua and this is my website.
 
