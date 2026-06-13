@@ -1,7 +1,7 @@
 ---
 title: "About"
 pageTitle: "Hi"
-emoji: "✌️"
+aftericon_svg: "hands/filled/handPeace"
 layout: "page"
 description: "About Joshua Maynard"
 ShowBreadCrumbs: false
