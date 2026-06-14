@@ -17,10 +17,8 @@ A list of [slash pages](https://slashpages.net/): pages that don't quite fit int
 -->
 
 <p class="sp-h2">
-    <a href="/88x31">
-        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="29.054 29.44 36.019 36" width="36.019" height="36"><desc>Created by Elizabeth, downloaded from the Noun Project</desc><path fill="currentColor" d="M65.04 34.613v15.407h-5.139v5.139h-5.139v5.139h-5.129v5.139h-5.139v-5.139h-5.139v-5.139h-5.139v-5.139h-5.139v-15.407h5.139v-5.139h10.278v5.139h5.139v-5.139h10.268v5.139z"/></svg>
-        /88x31
-    </a>
+    <a href="/88x31"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="16.948 17.173 21.011 21" width="21.011" height="21"><desc>Created by Elizabeth, downloaded from the Noun Project</desc><path fill="var(--darkcolor)" d="M37.94 20.191v8.987h-2.998v2.998h-2.998v2.998h-2.992v2.998h-2.998v-2.998h-2.998v-2.998h-2.998v-2.998H16.96v-8.987h2.998v-2.998h5.995v2.998h2.998v-2.998h5.99v2.998z"/></svg></a>
+    <a href="/88x31">/88x31</a>
 </p>
 <p>My 88x31 button collection.</p>
 
