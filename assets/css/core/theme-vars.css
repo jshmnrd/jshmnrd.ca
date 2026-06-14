@@ -33,6 +33,7 @@
     --profile-button: #444444;
     --opposite: #E0E0E0;
     --gray: #B0B0B0;
+    --grey: var(--gray);
 
     /* light colours
     --theme: rgb(255, 255, 255);
@@ -48,6 +49,7 @@
     --button-hover: #d4ede1;
     --opposite: rgb(0, 0, 0);
     --gray: rgb(165, 165, 165);
+    --grey: var(--gray);
     */
     
 

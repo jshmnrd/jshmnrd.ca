@@ -42,11 +42,13 @@ review_links:
     <tr>
         <td width="20%" ><span title="September 12, 2025">2025-09-12</span></td>
         <td width="40%" >Deathcore, symphonic deathcore, extreme metal</td>
-        <td width="20%" >66 hrs, 27 mins</td>
+        <td width="20%" >66m 27s</td>
         <td width="20%" >Century Media</td>
     </tr>
+    <tr style="text-align:left;">
+        <td colspan="4"><small>Source: <a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">Wikipedia</a></small></td>
+    </tr>
 </table>
-<small><a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/I_Feel_the_Everblack_Festering_Within_Me" target="_blank">[source]</a></small>
 
 ## Introduction
 I've been a metal fan for a long time. Years and year and years. Never have I had an experience like this. How? I have no idea.

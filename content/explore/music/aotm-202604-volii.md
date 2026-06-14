@@ -26,12 +26,35 @@ review_links:
 
 # Vol.II by Angine de Poitrine
 
+<p class="h1">
+    <i>Vol.II</i> by Angine de Poitrine
+</p>
+
 <img style="max-width:60%;" alt="Album Cover: “Vol.II” by Angine de Poitrine" src="https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png#center">
 
-***Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.***   
+<table style="text-align:center;">
+  <tr>
+    <th width="20%" style="text-align:center;">Released</th>
+    <th width="20%" style="text-align:center;">Genres</th>
+    <th width="40%" style="text-align:center;">Length</th>
+    <th width="20%" style="text-align:center;">Label</th>
+  </tr>
+  <tr>
+    <td width="20%" ><span title="September 12, 2025">2026-04-03</span></td>
+    <td width="40%" >Math rock, progressive rock</td>
+    <td width="20%" >36m 50s</td>
+    <td width="20%" >Spectacles Bonzaï</td>
+  </tr>
+  <tr style="text-align:left;">
+    <td colspan="4"><small>Source: <a title="Source: Wikipedia" href="https://en.wikipedia.org/wiki/Vol._II_(Angine_de_Poitrine_album)" target="_blank">Wikipedia</a></small></td>
+  </tr>
+</table>
+
+## Introduction
+Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.   
 "Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
 
-## Track 1: Fabienk ★
+<h2 id="1-fabienk">Track 1: Fabienk <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 
 ![Sebastien!](https://pub.jshmnrd.ca/w/img/3008-Sebastien.gif#center)
 
