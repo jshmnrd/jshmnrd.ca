@@ -13,7 +13,7 @@ aliases:
 
 <blockquote>
     <p>A colophon is a page or section (typically in a footer) of a site that describes how the site is made, with what tools, supporting what technologies, and often published on personal sites at a top level /colophon page.</p>
-    <cite>Source: <a href="https://indieweb.org/colophon">IndieWeb.org</a></cite>
+    <cite>Source: <a href="https://indieweb.org/colophon" target="_blank">IndieWeb.org</a></cite>
 </blockquote>
 
 <!--

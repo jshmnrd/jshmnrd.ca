@@ -24,8 +24,6 @@ review_links:
 
 *My album of the month in April was...*
 
-# Vol.II by Angine de Poitrine
-
 <p class="h1">
     <i>Vol.II</i> by Angine de Poitrine
 </p>
@@ -54,7 +52,7 @@ review_links:
 Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.   
 "Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
 
-<h2 id="1-fabienk">Track 1: Fabienk <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
+<h2 id="track-1-fabienk">Track 1: Fabienk <span style="cursor:pointer;" title="My favourite song of the album!">★</span></h2>
 
 ![Sebastien!](https://pub.jshmnrd.ca/w/img/3008-Sebastien.gif#center)
 
