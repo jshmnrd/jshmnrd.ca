@@ -369,7 +369,7 @@
 }
 
 .toc li::marker {
-    color: var(--tertiary);
+    color: var(--secondary);
 }
 
 .dark .toc {
