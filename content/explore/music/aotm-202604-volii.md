@@ -26,7 +26,7 @@ review_links:
 
 # Vol.II by Angine de Poitrine
 
-<div style="text-align:center;"><img max-width="60%" alt="Album Cover: “Vol.II” by Angine de Poitrine" src="https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png"></div>
+<div style="text-align:center;"><img style="max-width:60%;" alt="Album Cover: “Vol.II” by Angine de Poitrine" src="https://mcusercontent.com/b0e6e84ff83be729649ce2ccd/images/712d0324-1be6-6132-9e82-b8fe2fff719a.png"></div>
 
 ***Like many, I've been entranced in the hypnotic funk of Angine de Poitrine.***   
 "Angina Pectoris" is the English translation of that, by the way. Their newest album "Vol.II" is my album of the month for April 2026 (and my first 'Album of the Month' ever!)
