@@ -7,6 +7,12 @@ ShowBreadCrumbs: false
 disableAnchoredHeadings: true
 ---
 
+<style>
+    input {
+        color: var(--primary);
+    }
+</style>
+
 This is my library. I keep it up to date as best I can, but the most up-to-date list is on my [Hardcover.app profile](https://hardcover.app/@jshmnrd?referrer_id=98561).
 
 <details>
