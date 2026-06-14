@@ -9,3 +9,6 @@ templates/
 hidden/
 template
 changelog-ip.md
+node_modules/
+package.json
+package-lock.json
