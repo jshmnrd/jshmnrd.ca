@@ -5,6 +5,8 @@ summary: "Posts in this page are all music-related."
 ShowBreadCrumbs: true
 disableAnchoredHeadings: true
 hidemeta: true
+icon_svg: "ipod"
+layout: "listpage"
 cover:
   image: "https://pub.jshmnrd.ca/w/img/3001-ExtraordinaryAttorneyWoo.gif"
   alt: "“Extraordinary Attorney Woo” by Pixel Jeff on 8bitdash"
@@ -13,5 +15,4 @@ cover:
   crop: "Bottom"
 ---
 
-# 🎵 Music
-Posts in this page are all music-related.
+*Posts in this page are all music-related.*

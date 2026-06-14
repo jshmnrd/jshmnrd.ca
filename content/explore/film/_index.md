@@ -5,6 +5,8 @@ summary: "Posts in this page are all film-related."
 ShowBreadCrumbs: true
 disableAnchoredHeadings: true
 hidemeta: true
+icon_svg: "film"
+layout: "listpage"
 cover:
     image: "https://pub.jshmnrd.ca/w/img/2001-Yoda.gif"
     alt: "“Starwars” by Pixel Jeff on 8bitdash"
@@ -13,8 +15,7 @@ cover:
     crop: "Bottom"
 ---
 
-# 🎬 Film
-Posts in this page are all film-related.
+*Posts in this page are all film-related.*
 
 <p class="callout lt-red">
     <b>Disclaimer:</b><br>

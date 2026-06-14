@@ -14,5 +14,4 @@ cover:
   crop: "Center"
 ---
 
-# ⚔️ Dungeons & Dragons
-Posts in this page are all Dungeons & Dragons-related.
+*Posts in this page are all Dungeons & Dragons-related.*
