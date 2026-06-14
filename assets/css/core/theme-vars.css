@@ -20,7 +20,7 @@
     --profile-button:   button on profile mode
     */
 
-    /* dark colours 2 */
+    /* dark colours 2
     --theme: #292929;
     --entry: #444444;
     --primary: #E0E0E0;
@@ -33,8 +33,9 @@
     --profile-button: #444444;
     --opposite: #E0E0E0;
     --gray: #B0B0B0;
+    */
 
-    /* light colours
+    /* light colours */
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
     --primary: rgb(30, 30, 30);
@@ -48,10 +49,9 @@
     --button-hover: #d4ede1;
     --opposite: rgb(0, 0, 0);
     --gray: rgb(165, 165, 165);
-    */
     
 
-    /* dark colours
+    /* dark colours */
     --theme: rgb(29, 30, 32);
     --entry: rgb(46, 46, 51);
     --primary: rgb(218, 218, 219);
@@ -65,7 +65,6 @@
     --button-hover: #d4ede1;
     --opposite: rgb(255, 255, 255);
     --gray: rgb(165, 165, 165);
-    */
 
     --darkcolor: #3d9268; /* was #6a7ba2 */
     --lightcolor: #d4ede1; /* was #cbd1de */
