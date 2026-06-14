@@ -73,7 +73,7 @@ From the first time I heard [Glenwood](#5-glenwood), I was hooked. I listed to *
 Since I'm new to deathcore, this might be a pretty shallow(?) / not very in-depth or meaningful review, but I hope you enjoy reading it regardless! I focus mainly on the words because I just have no insight on what makes deathcore instrumentals 'good' and feel I'd be out of line commenting on it.
 
 <p style="text-align:center;">
-<svg viewBox="0 0 400 174" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 174" xmlns="http://www.w3.org/2000/svg" width="60%" height="auto">
   <title>Lorna Shore Logo</title>
   <desc>
     Vectorized by Joshua Maynard
