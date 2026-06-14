@@ -1,6 +1,6 @@
 ---
 title: "Album of the Month - April 2026"
-emoji: "🔺"
+icon_svg: "adp-logo"
 date: 2026-04-15
 tags: ["posts","album review","review","album of the month","music"]
 description: "Vol.II by Angine de Poitrine"
