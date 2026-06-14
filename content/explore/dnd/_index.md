@@ -5,6 +5,8 @@ summary: "Posts in this page are all Dungeons & Dragons-related."
 ShowBreadCrumbs: true
 disableAnchoredHeadings: true
 hidemeta: true
+icon_svg: "d20"
+layout: "listpage"
 cover:
   image: "https://pub.jshmnrd.ca/w/img/1001-WildBoy.gif"
   alt: "“Wild Boy” by Kirokaze on 8bitdash"
