@@ -6,7 +6,7 @@ description: "My blogroll: a list of the blogs I read."
 ShowBreadCrumbs: false
 ---
 
-<sup><b>Updated:</b> 2026-06-11</sup>
+<sup><b>Updated:</b> 2026-06-13</sup>
 
 <style>
   .post-content p.br-h2 {
@@ -52,6 +52,26 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <a href="https://brentter.com/index.xml" target="_blank">brentter.com/index.xml</a>
 </p>
 
+<p class="br-h2">Dan Kim</p>
+<p>
+  <b>Website:</b>
+  <a href="https://dankim.com/" target="_blank">dankim.com</a>
+  <br>
+  <button class="copy-btn" data-copy="https://dankim.com/articles/index.xml">Copy RSS</button>
+  &emsp13;
+  <a href="https://dankim.com/articles/index.xml" target="_blank">dankim.com/articles/index.xml</a>
+</p>
+
+<p class="br-h2">From Jason</p>
+<p>
+  <b>Website:</b>
+  <a href="https://www.fromjason.xyz/" target="_blank">fromjason.xyz</a>
+  <br>
+  <button class="copy-btn" data-copy="https://www.fromjason.xyz/p/notebook/feed/feed.xml">Copy RSS</button>
+  &emsp13;
+  <a href="https://www.fromjason.xyz/p/notebook/feed/feed.xml" target="_blank">fromjason.xyz/p/notebook/feed/feed.xml</a>
+</p>
+
 <p class="br-h2">Heather Buchel</p>
 <p>
   <b>Website:</b>
@@ -82,6 +102,16 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <a href="https://meadow.cafe/feeds/" target="_blank">meadow.cafe/feed</a>
 </p>
 
+<p class="br-h2">Matt's Blog</p>
+<p>
+  <b>Website:</b>
+  <a href="https://mtwb.blog/" target="_blank">mtwb.blog</a>
+  <br>
+  <button class="copy-btn" data-copy="https://mtwb.blog//index.xml">Copy RSS</button>
+  &emsp13;
+  <a href="https://mtwb.blog//index.xml" target="_blank">mtwb.blog//index.xml</a>
+</p>
+
 <p class="br-h2">Nishiki</p>
 <p>
   <b>Website:</b>
@@ -92,6 +122,16 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <a href="https://nshki.com/feed.xml" target="_blank">nshki.com/feed.xml</a>
 </p>
 
+<p class="br-h2">Pikselkraft</p>
+<p>
+  <b>Website:</b>
+  <a href="https://pikselkraft.fr/" target="_blank">pikselkraft.fr</a>
+  <br>
+  <button class="copy-btn" data-copy="https://pikselkraft.fr/rss">Copy RSS</button>
+  &emsp13;
+  <a href="https://pikselkraft.fr/rss" target="_blank">pikselkraft.fr/rss</a>
+</p>
+
 <p class="br-h2">Robert Birming</p>
 <p>
   <b>Website:</b>
@@ -100,6 +140,16 @@ I recommend using [Mire](https://mire.meadow.cafe), as it's a nice minimal reade
   <button class="copy-btn" data-copy="https://robertbirming.com/feed/">Copy RSS</button>
   &emsp13;
   <a href="https://robertbirming.com/feed/" target="_blank">robertbirming.com/feed</a>
+</p>
+
+<p class="br-h2">_</p>
+<p>
+  <b>Website:</b>
+  <a href="https://rknight.me/" target="_blank">rknight.me</a>
+  <br>
+  <button class="copy-btn" data-copy="https://rknight.me/subscribe/posts/atom.xml">Copy RSS</button>
+  &emsp13;
+  <a href="https://rknight.me/subscribe/posts/atom.xml" target="_blank">rknight.me/subscribe/posts/atom.xml</a>
 </p>
 
 <p class="br-h2">Toska</p>
