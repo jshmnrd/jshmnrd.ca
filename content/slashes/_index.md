@@ -16,7 +16,12 @@ A list of [slash pages](https://slashpages.net/): pages that don't quite fit int
 <p>Description</p>
 -->
 
-<p class="sp-h2"><a href="/88x31">/88x31</a></p>
+<p class="sp-h2">
+    <a href="/88x31">
+        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="29.054 29.44 36.019 36" width="36.019" height="36"><desc>Created by Elizabeth, downloaded from the Noun Project</desc><path fill="currentColor" d="M65.04 34.613v15.407h-5.139v5.139h-5.139v5.139h-5.129v5.139h-5.139v-5.139h-5.139v-5.139h-5.139v-5.139h-5.139v-15.407h5.139v-5.139h10.278v5.139h5.139v-5.139h10.268v5.139z"/></svg>
+        /88x31
+    </a>
+</p>
 <p>My 88x31 button collection.</p>
 
 <p class="sp-h2"><a href="/blogroll">/blogroll</a></p>

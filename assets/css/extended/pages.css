@@ -1,18 +1,26 @@
 /* SLASH PAGES
 ---------------------------*/
 .post-content p.sp-h2 {
-    font-weight: 700;
-    font-size: 21px;
-    margin: 0;
+  font-weight: 700;
+  font-size: 21px;
+  margin: 0;
+}
+
+.post-content p.sp-h2 a svg {
+  text-decoration: none;
+}
+
+.post-content p.sp-h2 a:hover svg {
+  color: var(--darkcolor);
 }
 /*-------------------------*/
 
 /* BLOGROLL
 ---------------------------*/
 .post-content p.br-h2 {
-    font-weight: 700;
-    font-size: 21px;
-    margin: 0;
+  font-weight: 700;
+  font-size: 21px;
+  margin: 0;
 }
 /*-------------------------*/
 
